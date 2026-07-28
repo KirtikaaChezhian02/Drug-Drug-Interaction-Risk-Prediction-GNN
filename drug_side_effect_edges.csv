@@ -1,0 +1,6416 @@
+drug,side_effect
+DB00195,Acidosis
+DB00195,Agranulocytosis
+DB00195,Alopecia
+DB00195,Amnesia
+DB00195,Anaemia
+DB00195,Angina pectoris
+DB00195,Pupils unequal
+DB00195,Anorexia
+DB00195,Decreased appetite
+DB00195,Anxiety
+DB00195,Arrhythmia
+DB00195,Arthralgia
+DB00195,Musculoskeletal discomfort
+DB00195,Asthenia
+DB00195,Asthenopia
+DB00195,Asthma
+DB00195,Ataxia
+DB00195,Atrioventricular block
+DB00195,Mental disorder
+DB00195,Blepharitis
+DB00195,Blepharospasm
+DB00195,Breast disorder
+DB00195,Bronchospasm
+DB00195,Bronchitis
+DB00195,Catatonia
+DB00195,Cerebrovascular disorder
+DB00195,Neck pain
+DB00195,Chest pain
+DB00195,Infection
+DB00195,Confusional state
+DB00195,Feeling abnormal
+DB00195,Conjunctival disorder
+DB00195,Conjunctivitis
+DB00195,Constipation
+DB00195,Cough
+DB00195,Cystitis
+DB00195,Cystitis noninfective
+DB00195,Bladder pain
+DB00195,Deafness
+DB00195,Libido decreased
+DB00195,Disturbance in sexual arousal
+DB00195,Dysphagia
+DB00195,Depression
+DB00195,Dermatitis
+DB00195,Diabetes mellitus
+DB00195,Diarrhoea
+DB00195,Dizziness
+DB00195,Dysgeusia
+DB00195,Dyspepsia
+DB00195,Dyspnoea
+DB00195,Dysuria
+DB00195,Ear pain
+DB00195,Eczema
+DB00195,Oedema
+DB00195,Endophthalmitis
+DB00195,Panophthalmitis
+DB00195,Toxic epidermal necrolysis
+DB00195,Epistaxis
+DB00195,Rash
+DB00195,Eye disorder
+DB00195,Eye haemorrhage
+DB00195,Fatigue
+DB00195,Body temperature increased
+DB00195,Flushing
+DB00195,Gastrointestinal disorder
+DB00195,Glossitis
+DB00195,Hallucination
+DB00195,Headache
+DB00195,Block heart
+DB00195,Cardiac disorder
+DB00195,Cardiac failure
+DB00195,Hypercholesterolaemia
+DB00195,Hyperglycaemia
+DB00195,Hyperkalaemia
+DB00195,Hyperlipidaemia
+DB00195,Hypersensitivity
+DB00195,Hypertrichosis
+DB00195,Hypoglycaemia
+DB00195,Hypokalaemia
+DB00195,Hypotension
+DB00195,Immune system disorder
+DB00195,Inflammation
+DB00195,Influenza
+DB00195,Intermittent claudication
+DB00195,Iritis
+DB00195,Eye pruritus
+DB00195,Arthropathy
+DB00195,Osteoarthritis
+DB00195,Keratitis
+DB00195,Laryngospasm
+DB00195,Cramps of lower extremities
+DB00195,Muscle spasms
+DB00195,Lethargy
+DB00195,Leukocytosis
+DB00195,Breast pain
+DB00195,Mediastinal disorder
+DB00195,Menstrual disorder
+DB00195,Cramp muscle
+DB00195,Myasthenia gravis
+DB00195,Myocardial infarction
+DB00195,Acute coronary syndrome
+DB00195,Nausea
+DB00195,Nervous system disorder
+DB00195,Nervousness
+DB00195,Tension
+DB00195,Neuralgia
+DB00195,Nightmare
+DB00195,Numbness
+DB00195,Sensory loss
+DB00195,Hypoaesthesia
+DB00195,Oliguria
+DB00195,Pain
+DB00195,Palpitations
+DB00195,Paraesthesia
+DB00195,Peyronie's disease
+DB00195,Pharyngitis
+DB00195,Pneumonia
+DB00195,Prostatitis
+DB00195,Proteinuria
+DB00195,Protein urine present
+DB00195,Pruritus
+DB00195,Psychotic disorder
+DB00195,Purpura
+DB00195,Vascular purpura
+DB00195,Rectal disorder
+DB00195,Anorectal disorder
+DB00195,Refraction disorder
+DB00195,Rhinitis
+DB00195,Salivation
+DB00195,Salivary hypersecretion
+DB00195,Scotoma
+DB00195,Sinusitis
+DB00195,Skin disorder
+DB00195,Sleep disturbance
+DB00195,Sleep disorder
+DB00195,Speech disorder
+DB00195,Sweating
+DB00195,Hyperhidrosis
+DB00195,Syncope
+DB00195,Loss of consciousness
+DB00195,Shock
+DB00195,Tachycardia
+DB00195,Tendonitis
+DB00195,Thirst
+DB00195,Thrombocytopenia
+DB00195,Thrombophlebitis
+DB00195,Thrombosis
+DB00195,Thyrotoxicosis
+DB00195,Hyperthyroidism
+DB00195,Tinnitus
+DB00195,Tremor
+DB00195,Erythema
+DB00195,Upper respiratory tract infection
+DB00195,Micturition disorder
+DB00195,Urticaria
+DB00195,Angiopathy
+DB00195,Vertigo
+DB00195,Vomiting
+DB00195,Weight increased
+DB00195,Weight decreased
+DB00195,Dry mouth
+DB00195,Stupor
+DB00195,Depressed level of consciousness
+DB00195,Mood swings
+DB00195,Affect lability
+DB00195,Photophobia
+DB00195,Cataract
+DB00195,Mouth ulceration
+DB00195,Stomatitis
+DB00195,Periorbital oedema
+DB00195,Conjunctival oedema
+DB00195,Kidney function abnormal
+DB00195,Renal impairment
+DB00195,Lactic dehydrogenase activity increased
+DB00195,Blood lactate dehydrogenase increased
+DB00195,Eye pain
+DB00195,Aspartate aminotransferase increased
+DB00195,Alanine aminotransferase increased
+DB00195,Arterial thrombosis
+DB00195,Lacrimation increased
+DB00195,Ocular hyperaemia
+DB00195,Colitis ischaemic
+DB00195,Unspecified disorder of skin and subcutaneous tissue
+DB00195,Malaise
+DB00195,Discomfort
+DB00195,Ill-defined disorder
+DB00195,Distress
+DB00195,Emotional distress
+DB00195,Myalgia
+DB00195,Muscle twitching
+DB00195,Increased appetite
+DB00195,Disorientation
+DB00195,Thinking abnormal
+DB00195,Mental disability
+DB00195,Ache
+DB00195,Visual acuity reduced
+DB00195,Rash erythematous
+DB00195,Cerebration impaired
+DB00195,Disturbance in attention
+DB00195,Eye irritation
+DB00195,Peripheral ischaemia
+DB00195,Lacrimation abnormal NOS
+DB00195,Lacrimal disorder
+DB00195,Erythema of eyelid
+DB00195,Erectile dysfunction
+DB00195,Throat sore
+DB00195,Oropharyngeal discomfort
+DB00195,Oropharyngeal pain
+DB00195,Purpura non-thrombocytopenic
+DB00195,Punctate keratitis
+DB00195,Cardiac failure acute
+DB00195,Peripheral coldness
+DB00195,Dry eye
+DB00195,Vision blurred
+DB00195,Lupus erythematosus
+DB00195,Systemic lupus erythematosus
+DB00195,Eye discharge
+DB00195,Lacrimation
+DB00195,Sensation of foreign body
+DB00195,Rigors
+DB00195,Chills
+DB00195,Bradycardia
+DB00195,Neuropathy
+DB00195,Neuropathy peripheral
+DB00195,Respiratory distress
+DB00195,Musculoskeletal chest pain
+DB00195,Lymphadenopathy
+DB00195,Abnormal sensation in eye
+DB00195,Renal pain
+DB00195,Short-term memory loss
+DB00195,Hyperuricaemia
+DB00195,Blood uric acid increased
+DB00195,Infestation NOS
+DB00195,Infestation
+DB00195,Thrombocytopenic purpura
+DB00195,Corneal sensitivity decreased
+DB00195,Hypoaesthesia eye
+DB00195,Bizarre dreams
+DB00195,Abnormal dreams
+DB00195,Insomnia
+DB00195,Foreign body sensation in eyes
+DB00195,Eyelid margin crusting
+DB00195,Ocular discomfort
+DB00195,Respiratory failure
+DB00195,Rhinorrhoea
+DB00195,Nasopharyngitis
+DB00195,Fibroadenosis of breast
+DB00195,Fibroadenoma of breast
+DB00195,Ageusia
+DB00195,Visual impairment
+DB00195,Abnormal vision
+DB00195,Arthritis
+DB00195,Gout
+DB00195,Hypothyroidism
+DB00195,Hypertonia
+DB00195,Otitis media
+DB00195,Psoriasis
+DB00195,Breast abscess
+DB00195,Accidental injury
+DB00195,Injury
+DB00195,Vitreous disorder
+DB00195,Vascular anomaly
+DB00195,Malnutrition
+DB00208,Alveolitis allergic
+DB00208,Anaphylactic shock
+DB00208,Haemolytic anaemia
+DB00208,Angioedema
+DB00208,Anorexia
+DB00208,Decreased appetite
+DB00208,Arthralgia
+DB00208,Musculoskeletal discomfort
+DB00208,Asthenia
+DB00208,Colitis
+DB00208,Conjunctival haemorrhage
+DB00208,Contusion
+DB00208,Dermatitis exfoliative
+DB00208,Diabetes mellitus
+DB00208,Diarrhoea
+DB00208,Dizziness
+DB00208,Dyspepsia
+DB00208,Ecchymosis
+DB00208,Eosinophilia
+DB00208,Epistaxis
+DB00208,Erythema multiforme
+DB00208,Rash
+DB00208,Dermatitis
+DB00208,Body temperature increased
+DB00208,Flatulence
+DB00208,Gastrointestinal haemorrhage
+DB00208,Headache
+DB00208,Haematuria
+DB00208,Haemorrhage
+DB00208,Haemoglobin
+DB00208,Hepatitis
+DB00208,Hypersensitivity
+DB00208,Hyponatraemia
+DB00208,Jaundice cholestatic
+DB00208,Arthropathy
+DB00208,Osteoarthritis
+DB00208,Nephropathy
+DB00208,Leukaemia
+DB00208,Lung disorder
+DB00208,Cramp muscle
+DB00208,Muscle spasms
+DB00208,Myositis
+DB00208,Nausea
+DB00208,Nephritis interstitial
+DB00208,Tubulointerstitial nephritis
+DB00208,Nephrotic syndrome
+DB00208,Pain
+DB00208,Pancytopenia
+DB00208,Peptic ulcer
+DB00208,Neuropathy peripheral
+DB00208,Pruritus
+DB00208,Purpura
+DB00208,Vascular purpura
+DB00208,Renal failure
+DB00208,Serum sickness
+DB00208,Stevens-Johnson syndrome
+DB00208,Thrombocytopenia
+DB00208,Tinnitus
+DB00208,Traumatic haemorrhage
+DB00208,Urticaria
+DB00208,Vasculitis
+DB00208,Vomiting
+DB00208,Hepatic failure
+DB00208,Antinuclear antibody positive
+DB00208,Diarrhoea haemorrhagic
+DB00208,Liver function test abnormal
+DB00208,Bone marrow depression
+DB00208,Hepatic necrosis
+DB00208,Reticulocytosis
+DB00208,Myalgia
+DB00208,Sepsis
+DB00208,Lymphocytic colitis
+DB00208,Colitis microscopic
+DB00208,Lupus erythematosus
+DB00208,Systemic lupus erythematosus
+DB00208,Cholesterol serum elevated
+DB00208,Blood cholesterol increased
+DB00208,Gastrointestinal pain
+DB00208,Thrombocytosis
+DB00208,Gastrointestinal fullness
+DB00208,Abdominal distension
+DB00208,Jaundice hepatocellular
+DB00208,Operative bleeding
+DB00208,Procedural haemorrhage
+DB00222,Abdominal pain
+DB00222,Gastrointestinal pain
+DB00222,Aggression
+DB00222,Agranulocytosis
+DB00222,Anaphylactic shock
+DB00222,Anaemia
+DB00222,Aplastic anaemia
+DB00222,Haemolytic anaemia
+DB00222,Angina pectoris
+DB00222,Angioedema
+DB00222,Anorexia
+DB00222,Decreased appetite
+DB00222,Anxiety
+DB00222,Aphasia
+DB00222,Arrhythmia
+DB00222,Asthenia
+DB00222,Cholestasis
+DB00222,Coma
+DB00222,Confusional state
+DB00222,Feeling abnormal
+DB00222,Delirium
+DB00222,Drug eruption
+DB00222,Diarrhoea
+DB00222,Dizziness
+DB00222,Drowsiness
+DB00222,Somnolence
+DB00222,Dyspepsia
+DB00222,Dyspnoea
+DB00222,Eosinophilia
+DB00222,Rash
+DB00222,Dermatitis
+DB00222,Headache
+DB00222,Hepatitis
+DB00222,Hunger
+DB00222,Hyperbilirubinaemia
+DB00222,Hypersensitivity
+DB00222,Hypertension
+DB00222,Hypoglycaemia
+DB00222,Hyponatraemia
+DB00222,Hypotension
+DB00222,Inappropriate antidiuretic hormone secretion
+DB00222,Influenza
+DB00222,Jaundice
+DB00222,Leukopenia
+DB00222,Nausea
+DB00222,Nervousness
+DB00222,Tension
+DB00222,Nocturia
+DB00222,Pain in extremity
+DB00222,Palpitations
+DB00222,Pancytopenia
+DB00222,Paresis
+DB00222,Paraesthesia
+DB00222,Pruritus
+DB00222,Convulsion
+DB00222,Shock
+DB00222,Speech disorder
+DB00222,Stevens-Johnson syndrome
+DB00222,Erythema multiforme
+DB00222,Cerebrovascular accident
+DB00222,Sweating
+DB00222,Hyperhidrosis
+DB00222,Tachycardia
+DB00222,Thrombocytopenia
+DB00222,Tremor
+DB00222,Loss of consciousness
+DB00222,Erythema
+DB00222,Pollakiuria
+DB00222,Urticaria
+DB00222,Vasculitis
+DB00222,Vasodilation
+DB00222,Vasodilation procedure
+DB00222,Disorder sight
+DB00222,Visual impairment
+DB00222,Vomiting
+DB00222,Weight increased
+DB00222,Dry mouth
+DB00222,Hepatic failure
+DB00222,Agitation
+DB00222,Dermatitis bullous
+DB00222,Lassitude
+DB00222,Fatigue
+DB00222,Hepatic function abnormal
+DB00222,Hepatitis cholestatic
+DB00222,Allergic cutaneous angiitis
+DB00222,Leukocytoclastic vasculitis
+DB00222,Accidental injury
+DB00222,Injury
+DB00222,Alanine aminotransferase increased
+DB00222,Malnutrition
+DB00222,Porphyria hepatic
+DB00222,Porphyria non-acute
+DB00222,Porphyria cutanea tarda
+DB00222,Photosensitivity reaction
+DB00222,Shallow breathing
+DB00222,Hypopnoea
+DB00222,Erythropenia
+DB00222,Increased appetite
+DB00222,Cerebration impaired
+DB00222,Mental disability
+DB00222,Disturbance in attention
+DB00222,Hepatitis granulomatous
+DB00222,Granulomatous liver disease
+DB00222,Diabetic
+DB00222,Diabetes mellitus
+DB00222,Hypoglycemic reaction
+DB00222,Eruption
+DB00222,Vision blurred
+DB00222,Sticky skin
+DB00222,Cold sweat
+DB00222,Gastrointestinal symptom NOS
+DB00222,Gastrointestinal disorder
+DB00222,Bradycardia
+DB00222,Laboratory test abnormal
+DB00222,Disulfiram like reaction
+DB00222,Alcohol intolerance
+DB00222,Reaction gastrointestinal
+DB00222,Hot flush
+DB00222,Menopausal symptoms
+DB00222,Sweating increased
+DB00222,Hypoglycaemic episode
+DB00222,Thrombocytopenic purpura
+DB00222,Gastrointestinal fullness
+DB00222,Abdominal distension
+DB00222,Insomnia
+DB00222,Glucose-6-phosphate dehydrogenase deficiency
+DB00264,Abdominal pain
+DB00264,Gastrointestinal pain
+DB00264,Agranulocytosis
+DB00264,Alopecia
+DB00264,Amnesia
+DB00264,Angina pectoris
+DB00264,Anxiety
+DB00264,Arrhythmia
+DB00264,Arterial insufficiency
+DB00264,Arthralgia
+DB00264,Musculoskeletal discomfort
+DB00264,Arthritis
+DB00264,Asthenia
+DB00264,Atrioventricular block
+DB00264,Mental disorder
+DB00264,Breast disorder
+DB00264,Bronchospasm
+DB00264,Cardiac output decreased
+DB00264,Catatonia
+DB00264,Cerebrovascular disorder
+DB00264,Chest pain
+DB00264,Coma
+DB00264,Confusional state
+DB00264,Feeling abnormal
+DB00264,Conjunctivitis
+DB00264,Connective tissue disorder
+DB00264,Constipation
+DB00264,Cyanosis
+DB00264,Deafness
+DB00264,Libido decreased
+DB00264,Disturbance in sexual arousal
+DB00264,Depression
+DB00264,Diabetes mellitus
+DB00264,Diarrhoea
+DB00264,Dizziness
+DB00264,Dysgeusia
+DB00264,Dyspnoea
+DB00264,Oedema
+DB00264,Rash
+DB00264,Dermatitis
+DB00264,Eye disorder
+DB00264,Fatigue
+DB00264,Body temperature increased
+DB00264,Flatulence
+DB00264,Gangrene
+DB00264,Gastrointestinal disorder
+DB00264,Hallucination
+DB00264,Headache
+DB00264,Cardiac arrest
+DB00264,Block heart
+DB00264,Cardiac disorder
+DB00264,Cardiac failure
+DB00264,Cardiac failure congestive
+DB00264,Heartburn
+DB00264,Dyspepsia
+DB00264,Hepatitis
+DB00264,Hyperhidrosis
+DB00264,Hypersensitivity
+DB00264,Hypertension
+DB00264,Hypoglycaemia
+DB00264,Hypotension
+DB00264,Orthostatic hypotension
+DB00264,Immune system disorder
+DB00264,Intermittent claudication
+DB00264,Eye pruritus
+DB00264,Jaundice
+DB00264,Laryngospasm
+DB00264,Leukopenia
+DB00264,Hepatic cirrhosis
+DB00264,Mediastinal disorder
+DB00264,Cramp muscle
+DB00264,Muscle spasms
+DB00264,Musculoskeletal pain
+DB00264,Nausea
+DB00264,Nervous system disorder
+DB00264,Nervousness
+DB00264,Tension
+DB00264,Nightmare
+DB00264,Pain
+DB00264,Palpitations
+DB00264,Paraesthesia
+DB00264,Peyronie's disease
+DB00264,Personality disorder
+DB00264,Pneumonia
+DB00264,Pruritus
+DB00264,Psoriasis
+DB00264,Rales
+DB00264,Raynaud's disease
+DB00264,Raynaud's phenomenon
+DB00264,Retroperitoneal fibrosis
+DB00264,Rhinitis
+DB00264,Shock
+DB00264,Cardiogenic shock
+DB00264,Skin lesion
+DB00264,Sleep disturbance
+DB00264,Sleep disorder
+DB00264,Status asthmaticus
+DB00264,Cerebrovascular accident
+DB00264,Sweating
+DB00264,Syncope
+DB00264,Loss of consciousness
+DB00264,Tachycardia
+DB00264,Thrombocytopenia
+DB00264,Tinnitus
+DB00264,Urticaria
+DB00264,Angiopathy
+DB00264,Ventricular tachycardia
+DB00264,Vertigo
+DB00264,Vomiting
+DB00264,Weight increased
+DB00264,Wheezing
+DB00264,Dry mouth
+DB00264,Atrioventricular block first degree
+DB00264,Mood swings
+DB00264,Affect lability
+DB00264,Oedema peripheral
+DB00264,Hepatic function abnormal
+DB00264,Atrioventricular block complete
+DB00264,Liver function test abnormal
+DB00264,Acute myocardial infarction
+DB00264,Photosensitivity reaction
+DB00264,Unspecified disorder of skin and subcutaneous tissue
+DB00264,Skin disorder
+DB00264,Lightheadedness
+DB00264,Stomach ache
+DB00264,Abdominal pain upper
+DB00264,Dyspnoea exertional
+DB00264,Precordial pain
+DB00264,Disorientation
+DB00264,Memory impairment
+DB00264,Ache
+DB00264,Cerebration impaired
+DB00264,Mental disability
+DB00264,Disturbance in attention
+DB00264,Eye irritation
+DB00264,Taste bitter
+DB00264,Diabetes mellitus exacerbated
+DB00264,Psoriasis flare-up
+DB00264,Erectile dysfunction
+DB00264,Throat sore
+DB00264,Oropharyngeal discomfort
+DB00264,Oropharyngeal pain
+DB00264,Purpura non-thrombocytopenic
+DB00264,Auditory disorder NOS
+DB00264,Hearing impaired
+DB00264,Dermatitis psoriasiform
+DB00264,Conduction disorder
+DB00264,Hepatobiliary disease
+DB00264,Peripheral coldness
+DB00264,Dry eye
+DB00264,Vision blurred
+DB00264,Vivid dreams
+DB00264,Abnormal dreams
+DB00264,Photosensitivity
+DB00264,Bradycardia
+DB00264,Respiratory distress
+DB00264,Sinus arrest
+DB00264,Visual disturbance
+DB00264,Visual impairment
+DB00264,Depressed level of consciousness
+DB00264,Altered state of consciousness
+DB00264,Sexual dysfunction
+DB00264,Hot flush
+DB00264,Menopausal symptoms
+DB00264,Obstructive airways disorder
+DB00264,Emotional distress
+DB00264,Sweating increased
+DB00264,Short-term memory loss
+DB00264,Unspecified circulatory system disorder
+DB00264,Cardiovascular disorder
+DB00264,Ear and labyrinth disorders
+DB00264,Blood triglycerides increased
+DB00264,Libido disorder
+DB00264,Cold hands & feet
+DB00264,Thrombocytopenic purpura
+DB00264,Alopecia reversible
+DB00264,Alertness decreased
+DB00264,Insomnia
+DB00264,Claudication
+DB00264,Coronary artery disease
+DB00264,Somnolence
+DB00264,Loss of libido
+DB00275,Abdominal pain
+DB00275,Gastrointestinal pain
+DB00275,Agranulocytosis
+DB00275,Alopecia
+DB00275,Anaphylactic shock
+DB00275,Anaemia
+DB00275,Aplastic anaemia
+DB00275,Haemolytic anaemia
+DB00275,Angina pectoris
+DB00275,Angioedema
+DB00275,Anorexia
+DB00275,Decreased appetite
+DB00275,Anxiety
+DB00275,Arrhythmia
+DB00275,Arthralgia
+DB00275,Musculoskeletal discomfort
+DB00275,Arthritis
+DB00275,Asthenia
+DB00275,Back pain
+DB00275,Mental disorder
+DB00275,Bronchitis
+DB00275,Chest pain
+DB00275,Infection
+DB00275,Connective tissue disorder
+DB00275,Constipation
+DB00275,Cough
+DB00275,Diarrhoea
+DB00275,Dizziness
+DB00275,Dyspepsia
+DB00275,Eczema
+DB00275,Oedema
+DB00275,Eosinophilia
+DB00275,Toxic epidermal necrolysis
+DB00275,Rash
+DB00275,Dermatitis
+DB00275,Fatigue
+DB00275,Body temperature increased
+DB00275,Gastroenteritis
+DB00275,Gastrointestinal disorder
+DB00275,Glycosuria
+DB00275,Gout
+DB00275,Headache
+DB00275,Haematuria
+DB00275,Hyperbilirubinaemia
+DB00275,Hypercholesterolaemia
+DB00275,Hyperglycaemia
+DB00275,Hyperhidrosis
+DB00275,Hyperkalaemia
+DB00275,Hyperlipidaemia
+DB00275,Hypertriglyceridaemia
+DB00275,Blood triglycerides increased
+DB00275,Hypokalaemia
+DB00275,Hyponatraemia
+DB00275,Hypotension
+DB00275,Orthostatic hypotension
+DB00275,Influenza
+DB00275,Unspecified disorder of intestine
+DB00275,Jaundice
+DB00275,Jaundice cholestatic
+DB00275,Renal failure acute
+DB00275,Lethargy
+DB00275,Leukopenia
+DB00275,Mediastinal disorder
+DB00275,Nasopharyngitis
+DB00275,Nausea
+DB00275,Nephritis interstitial
+DB00275,Tubulointerstitial nephritis
+DB00275,Nervous system disorder
+DB00275,Neutropenia
+DB00275,Pain
+DB00275,Pain in extremity
+DB00275,Palpitations
+DB00275,Pancreatitis
+DB00275,Pharyngitis
+DB00275,Pneumonia
+DB00275,Pruritus
+DB00275,Renal failure
+DB00275,Rhabdomyolysis
+DB00275,Rhinitis
+DB00275,Sialoadenitis
+DB00275,Sinusitis
+DB00275,Sleep disturbance
+DB00275,Sleep disorder
+DB00275,Muscle spasms
+DB00275,Spinal disorder
+DB00275,Spondyloarthropathy
+DB00275,Syncope
+DB00275,Loss of consciousness
+DB00275,Shock
+DB00275,Tachycardia
+DB00275,Thrombocytopenia
+DB00275,Toothache
+DB00275,Upper respiratory tract infection
+DB00275,Urinary tract infection
+DB00275,Urinary tract disorder
+DB00275,Urethral disorder
+DB00275,Urticaria
+DB00275,Angiopathy
+DB00275,Vasculitis
+DB00275,Vertigo
+DB00275,Viral infection
+DB00275,Vomiting
+DB00275,Agitation
+DB00275,Oedema peripheral
+DB00275,Acute bronchitis
+DB00275,Tracheobronchitis
+DB00275,Blood urea increased
+DB00275,Creatine phosphokinase increased
+DB00275,Blood creatine phosphokinase increased
+DB00275,Gamma-glutamyltransferase increased
+DB00275,Bone marrow depression
+DB00275,Pancytopenia
+DB00275,Bone pain
+DB00275,Aspartate aminotransferase increased
+DB00275,Alanine aminotransferase increased
+DB00275,Malnutrition
+DB00275,Photosensitivity reaction
+DB00275,Unspecified disorder of skin and subcutaneous tissue
+DB00275,Skin disorder
+DB00275,Sprue
+DB00275,Malabsorption
+DB00275,Lightheadedness
+DB00275,Xanthopsia
+DB00275,Malaise
+DB00275,Discomfort
+DB00275,Feeling abnormal
+DB00275,Ill-defined disorder
+DB00275,Myalgia
+DB00275,Blood uric acid increased
+DB00275,Blood creatinine increased
+DB00275,Hepatic enzyme increased
+DB00275,Diabetic
+DB00275,Diabetes mellitus
+DB00275,Erectile dysfunction
+DB00275,Cutaneous vasculitis
+DB00275,Viral upper respiratory tract infection
+DB00275,Electrolyte imbalance
+DB00275,Vision blurred
+DB00275,Influenza-like symptoms
+DB00275,Influenza like illness
+DB00275,Gastric irritation
+DB00275,Epigastric discomfort
+DB00275,Lupus erythematosus
+DB00275,Systemic lupus erythematosus
+DB00275,Transaminases increased
+DB00275,Respiratory distress
+DB00275,Face oedema
+DB00275,Hypovolaemia
+DB00275,Inflicted injury
+DB00275,Injury
+DB00275,Angiitis necrotising
+DB00275,Vasculitis necrotising
+DB00275,Blood glucose increased
+DB00275,Microalbuminuria
+DB00275,Hyperuricaemia
+DB00275,Infestation NOS
+DB00275,Infestation
+DB00275,Blood and lymphatic system disorders
+DB00275,Ear and labyrinth disorders
+DB00275,Asthenic conditions
+DB00275,Blood potassium increased
+DB00275,Blood potassium decreased
+DB00275,Pharyngolaryngeal pain
+DB00275,Laryngeal pain
+DB00275,Bilirubin value increased
+DB00275,Blood bilirubin increased
+DB00275,Insomnia
+DB00275,Pseudohyperkalaemia
+DB00275,Rhinorrhoea
+DB00275,Appetite absent
+DB00331,Abdominal distension
+DB00331,Abdominal pain
+DB00331,Gastrointestinal pain
+DB00331,Acidosis
+DB00331,Anaemia megaloblastic
+DB00331,Angina unstable
+DB00331,Angina pectoris
+DB00331,Anorexia
+DB00331,Decreased appetite
+DB00331,Asthenia
+DB00331,Breast disorder
+DB00331,Chest pain
+DB00331,Infection
+DB00331,Connective tissue disorder
+DB00331,Constipation
+DB00331,Contusion
+DB00331,Dehydration
+DB00331,Dermatitis
+DB00331,Diarrhoea
+DB00331,Distention
+DB00331,Dizziness
+DB00331,Drowsiness
+DB00331,Somnolence
+DB00331,Dysgeusia
+DB00331,Dyspepsia
+DB00331,Dyspnoea
+DB00331,Ear pain
+DB00331,Rash
+DB00331,Eye disorder
+DB00331,Fatigue
+DB00331,Flatulence
+DB00331,Flushing
+DB00331,Gastrointestinal disorder
+DB00331,Seasonal allergy
+DB00331,Rhinitis seasonal
+DB00331,Headache
+DB00331,Cardiac disorder
+DB00331,Heartburn
+DB00331,Blood disorder
+DB00331,Hepatitis
+DB00331,Hypertension
+DB00331,Hypoaesthesia
+DB00331,Hypoglycaemia
+DB00331,Hypotension
+DB00331,Body temperature decreased
+DB00331,Hypothermia
+DB00331,Immune system disorder
+DB00331,Influenza
+DB00331,Lethargy
+DB00331,Mediastinal disorder
+DB00331,Cramp muscle
+DB00331,Muscle spasms
+DB00331,Fungal infection
+DB00331,Nail disorder
+DB00331,Nasal congestion
+DB00331,Nausea
+DB00331,Nervous system disorder
+DB00331,Neutropenia
+DB00331,Pain in extremity
+DB00331,Palpitations
+DB00331,Pancreatitis
+DB00331,Paraesthesia
+DB00331,Pruritus
+DB00331,Rhinitis
+DB00331,Sinus headache
+DB00331,Syncope
+DB00331,Loss of consciousness
+DB00331,Shock
+DB00331,Taste disorders
+DB00331,Thrombocytopenia
+DB00331,Tonsillitis
+DB00331,Toothache
+DB00331,Tremor
+DB00331,Erythema
+DB00331,Upper respiratory tract infection
+DB00331,Urticaria
+DB00331,Angiopathy
+DB00331,Vomiting
+DB00331,Muscle strain
+DB00331,Chills
+DB00331,Oedema peripheral
+DB00331,Migraine
+DB00331,Accidental injury
+DB00331,Injury
+DB00331,Liver function test abnormal
+DB00331,Sinus congestion
+DB00331,Viral diarrhoea
+DB00331,Ketonuria
+DB00331,Abnormal faeces
+DB00331,Malnutrition
+DB00331,Unspecified disorder of skin and subcutaneous tissue
+DB00331,Skin disorder
+DB00331,Lightheadedness
+DB00331,Ketoacidosis
+DB00331,Malaise
+DB00331,Discomfort
+DB00331,Feeling abnormal
+DB00331,Ill-defined disorder
+DB00331,Myalgia
+DB00331,Musculoskeletal discomfort
+DB00331,Abdominal discomfort
+DB00331,Abdominal pain upper
+DB00331,Function kidney decreased
+DB00331,Renal impairment
+DB00331,Abdominal distress
+DB00331,Upset stomach
+DB00331,Ketonemia
+DB00331,Acetonaemia
+DB00331,Chest discomfort
+DB00331,Taste metallic
+DB00331,Azotaemia
+DB00331,Hepatobiliary disease
+DB00331,Vision blurred
+DB00331,Rigors
+DB00331,Gastrointestinal symptom NOS
+DB00331,Bradycardia
+DB00331,Neuropathy
+DB00331,Neuropathy peripheral
+DB00331,Respiratory distress
+DB00331,Tooth abscess
+DB00331,Reaction gastrointestinal
+DB00331,Azotemia prerenal
+DB00331,Acute prerenal failure
+DB00331,Emotional distress
+DB00331,Sweating increased
+DB00331,Hyperhidrosis
+DB00331,White blood cell count increased
+DB00331,Infestation NOS
+DB00331,Infestation
+DB00331,Ear and labyrinth disorders
+DB00331,Oedema aggravated
+DB00331,Oedema
+DB00331,Vitamin B12 absorption decreased
+DB00331,Vitamin B12 deficiency
+DB00331,Rhinorrhoea
+DB00331,Nasopharyngitis
+DB00331,Abdominal bloating
+DB00331,Epigastric discomfort
+DB00331,Appetite absent
+DB00331,Loose stools
+DB00331,Gastrointestinal tract irritation
+DB00335,Aggression
+DB00335,Agranulocytosis
+DB00335,Alopecia
+DB00335,Anorexia
+DB00335,Decreased appetite
+DB00335,Anxiety
+DB00335,Arrhythmia
+DB00335,Ataxia
+DB00335,Atrial fibrillation
+DB00335,Atrial flutter
+DB00335,Atrioventricular block
+DB00335,Bronchospasm
+DB00335,Catatonia
+DB00335,Chest pain
+DB00335,Cholestasis intrahepatic
+DB00335,Cholestasis
+DB00335,Confusional state
+DB00335,Feeling abnormal
+DB00335,Constipation
+DB00335,Cough
+DB00335,Libido decreased
+DB00335,Disturbance in sexual arousal
+DB00335,Depression
+DB00335,Dermatitis exfoliative
+DB00335,Diarrhoea
+DB00335,Dizziness
+DB00335,Drowsiness
+DB00335,Somnolence
+DB00335,Dyspepsia
+DB00335,Dyspnoea
+DB00335,Oedema
+DB00335,Epistaxis
+DB00335,Rash
+DB00335,Dermatitis
+DB00335,Fatigue
+DB00335,Asthenia
+DB00335,Body temperature increased
+DB00335,Flushing
+DB00335,Hallucination
+DB00335,Headache
+DB00335,Cardiac arrest
+DB00335,Block heart
+DB00335,Cardiomegaly
+DB00335,Cardiac failure
+DB00335,Cardiac failure congestive
+DB00335,Cardiac septal defect
+DB00335,Ventricular septal defect
+DB00335,Hypotension
+DB00335,Orthostatic hypotension
+DB00335,Infarction
+DB00335,Intermittent claudication
+DB00335,Laryngospasm
+DB00335,Left ventricular failure
+DB00335,Pulmonary oedema
+DB00335,Leg pain
+DB00335,Pain in extremity
+DB00335,Lethargy
+DB00335,Systemic lupus erythematosus
+DB00335,Mitral valve incompetence
+DB00335,Nasal congestion
+DB00335,Nausea
+DB00335,Nervousness
+DB00335,Tension
+DB00335,Nightmare
+DB00335,Palpitations
+DB00335,Paraesthesia
+DB00335,Peyronie's disease
+DB00335,Pruritus
+DB00335,Psychotic disorder
+DB00335,Purpura
+DB00335,Vascular purpura
+DB00335,Renal failure
+DB00335,Cardiogenic shock
+DB00335,Sick sinus syndrome
+DB00335,Status asthmaticus
+DB00335,Sweating
+DB00335,Hyperhidrosis
+DB00335,Syncope
+DB00335,Loss of consciousness
+DB00335,Shock
+DB00335,Tachycardia
+DB00335,Supraventricular tachycardia
+DB00335,Thrombocytopenia
+DB00335,Tinnitus
+DB00335,Ventricular tachycardia
+DB00335,Vertigo
+DB00335,Wheezing
+DB00335,Dry mouth
+DB00335,Mood swings
+DB00335,Affect lability
+DB00335,Aspartate aminotransferase increased
+DB00335,Arterial thrombosis
+DB00335,Colitis ischaemic
+DB00335,Lightheadedness
+DB00335,Systolic hypertension
+DB00335,Malaise
+DB00335,Discomfort
+DB00335,Ill-defined disorder
+DB00335,Digestion impaired
+DB00335,Gastrointestinal disorder
+DB00335,Abdominal discomfort
+DB00335,Disorientation
+DB00335,Ache
+DB00335,Pain
+DB00335,Rash erythematous
+DB00335,Psoriasis flare-up
+DB00335,Psoriasis
+DB00335,Hepatic enzyme increased
+DB00335,Erectile dysfunction
+DB00335,Throat sore
+DB00335,Oropharyngeal discomfort
+DB00335,Oropharyngeal pain
+DB00335,Dermatitis psoriasiform
+DB00335,Peripheral coldness
+DB00335,Dry eye
+DB00335,Vision blurred
+DB00335,Vivid dreams
+DB00335,Abnormal dreams
+DB00335,Bradycardia
+DB00335,Respiratory distress
+DB00335,Sinus arrest
+DB00335,Visual disturbance
+DB00335,Visual impairment
+DB00335,Hot flush
+DB00335,Menopausal symptoms
+DB00335,Short-term memory loss
+DB00335,Amnesia
+DB00335,Thrombocytopenic purpura
+DB00335,Alopecia reversible
+DB00335,Insomnia
+DB00335,Myocardial reinfarction
+DB00335,Myocardial infarction
+DB00335,ANA increased
+DB00335,Antinuclear antibody increased
+DB00335,Regurgitation
+DB00375,Abdominal pain
+DB00375,Gastrointestinal pain
+DB00375,Angina pectoris
+DB00375,Anorexia
+DB00375,Decreased appetite
+DB00375,Arthralgia
+DB00375,Musculoskeletal discomfort
+DB00375,Arthritis
+DB00375,Asthenia
+DB00375,Back pain
+DB00375,Chest pain
+DB00375,Cholecystitis
+DB00375,Cholelithiasis
+DB00375,Constipation
+DB00375,Dysphagia
+DB00375,Dermatitis
+DB00375,Diarrhoea
+DB00375,Dizziness
+DB00375,Dyspepsia
+DB00375,Dyspnoea
+DB00375,Rash
+DB00375,Fatigue
+DB00375,Flatulence
+DB00375,Headache
+DB00375,Heartburn
+DB00375,Haemorrhoids
+DB00375,Hypersensitivity
+DB00375,Cramp muscle
+DB00375,Muscle spasms
+DB00375,Musculoskeletal pain
+DB00375,Nausea
+DB00375,Pain
+DB00375,Peptic ulcer
+DB00375,Sinus headache
+DB00375,Swelling
+DB00375,Tachycardia
+DB00375,Urticaria
+DB00375,Vomiting
+DB00375,Migraine
+DB00375,Lightheadedness
+DB00375,Digestion impaired
+DB00375,Gastrointestinal disorder
+DB00375,Abdominal discomfort
+DB00375,Ache
+DB00375,Oesophageal obstruction
+DB00375,Haemorrhoidal haemorrhage
+DB00375,Fluid intake increased
+DB00375,Insomnia
+DB00375,Abdominal bloating
+DB00375,Abdominal distension
+DB00375,Loose stools
+DB00381,Abdominal pain
+DB00381,Gastrointestinal pain
+DB00381,Alopecia
+DB00381,Amnesia
+DB00381,Angioedema
+DB00381,Anorexia
+DB00381,Decreased appetite
+DB00381,Anxiety
+DB00381,Arrhythmia
+DB00381,Arthralgia
+DB00381,Musculoskeletal discomfort
+DB00381,Asthenia
+DB00381,Ataxia
+DB00381,Atrial fibrillation
+DB00381,Back pain
+DB00381,Mental disorder
+DB00381,Clotting
+DB00381,Coagulopathy
+DB00381,Breast disorder
+DB00381,Chest pain
+DB00381,Cholestasis
+DB00381,Conjunctivitis
+DB00381,Connective tissue disorder
+DB00381,Constipation
+DB00381,Cough
+DB00381,Dysphagia
+DB00381,Depersonalisation
+DB00381,Dermatitis
+DB00381,Diabetes mellitus
+DB00381,Diarrhoea
+DB00381,Diplopia
+DB00381,Dizziness
+DB00381,Dysgeusia
+DB00381,Dyspepsia
+DB00381,Dyspnoea
+DB00381,Dysuria
+DB00381,Oedema
+DB00381,Epistaxis
+DB00381,Erythema multiforme
+DB00381,Rash
+DB00381,Eye disorder
+DB00381,Fatigue
+DB00381,Flatulence
+DB00381,Flushing
+DB00381,Gastritis
+DB00381,Gastrointestinal disorder
+DB00381,Gingival hyperplasia
+DB00381,Gynaecomastia
+DB00381,Headache
+DB00381,Cardiac disorder
+DB00381,Cardiac failure congestive
+DB00381,Haemorrhage
+DB00381,Haemoglobin
+DB00381,Hepatitis
+DB00381,Hyperglycaemia
+DB00381,Hypersensitivity
+DB00381,Hypoaesthesia
+DB00381,Orthostatic hypotension
+DB00381,Immune system disorder
+DB00381,Jaundice
+DB00381,Arthropathy
+DB00381,Osteoarthritis
+DB00381,Leukopenia
+DB00381,Chronic obstructive pulmonary disease
+DB00381,Bronchial hyperreactivity
+DB00381,Mediastinal disorder
+DB00381,Cramp muscle
+DB00381,Muscle spasms
+DB00381,Hypertonia
+DB00381,Nausea
+DB00381,Nervous system disorder
+DB00381,Nervousness
+DB00381,Tension
+DB00381,Nocturia
+DB00381,Pain
+DB00381,Palpitations
+DB00381,Pancreatitis
+DB00381,Paraesthesia
+DB00381,Neuropathy peripheral
+DB00381,Polyuria
+DB00381,Urine output increased
+DB00381,Pruritus
+DB00381,Purpura
+DB00381,Vascular purpura
+DB00381,Rhinitis
+DB00381,Syncope
+DB00381,Loss of consciousness
+DB00381,Shock
+DB00381,Tachycardia
+DB00381,Thirst
+DB00381,Thrombocytopenia
+DB00381,Tinnitus
+DB00381,Tremor
+DB00381,Pollakiuria
+DB00381,Micturition disorder
+DB00381,Urinary tract disorder
+DB00381,Urethral disorder
+DB00381,Urticaria
+DB00381,Angiopathy
+DB00381,Vasculitis
+DB00381,Ventricular tachycardia
+DB00381,Vertigo
+DB00381,Vomiting
+DB00381,Weight increased
+DB00381,Weight decreased
+DB00381,Xerophthalmia
+DB00381,Dry mouth
+DB00381,Peripheral vascular disorder
+DB00381,Agitation
+DB00381,Apathy
+DB00381,Flat affect
+DB00381,Mood swings
+DB00381,Affect lability
+DB00381,Oedema peripheral
+DB00381,Migraine
+DB00381,Muscular weakness
+DB00381,Eye pain
+DB00381,Skin discolouration
+DB00381,Dry skin
+DB00381,Accommodation disorder
+DB00381,Malnutrition
+DB00381,Unspecified disorder of skin and subcutaneous tissue
+DB00381,Skin disorder
+DB00381,Malaise
+DB00381,Discomfort
+DB00381,Feeling abnormal
+DB00381,Ill-defined disorder
+DB00381,Myalgia
+DB00381,Muscle twitching
+DB00381,Increased appetite
+DB00381,Abnormal dreams
+DB00381,Rash erythematous
+DB00381,Dizziness postural
+DB00381,Peripheral ischaemia
+DB00381,Skin cold clammy
+DB00381,Cold sweat
+DB00381,Erectile dysfunction
+DB00381,Extrasystoles
+DB00381,Rash maculo-papular
+DB00381,Rigors
+DB00381,Chills
+DB00381,Bradycardia
+DB00381,Visual disturbance
+DB00381,Visual impairment
+DB00381,Sexual dysfunction
+DB00381,Hot flush
+DB00381,Menopausal symptoms
+DB00381,Sweating increased
+DB00381,Hyperhidrosis
+DB00381,Blood and lymphatic system disorders
+DB00381,Ear and labyrinth disorders
+DB00381,Insomnia
+DB00381,Parosmia
+DB00381,Coronary artery disease
+DB00381,Loose stools
+DB00381,Somnolence
+DB00381,Abnormal vision
+DB00457,Alopecia
+DB00457,Angina pectoris
+DB00457,Arthralgia
+DB00457,Musculoskeletal discomfort
+DB00457,Asthenia
+DB00457,Constipation
+DB00457,Diarrhoea
+DB00457,Dizziness
+DB00457,Drowsiness
+DB00457,Somnolence
+DB00457,Dyspnoea
+DB00457,Oedema
+DB00457,Epistaxis
+DB00457,Rash
+DB00457,Dermatitis
+DB00457,Fatigue
+DB00457,Body temperature increased
+DB00457,Flushing
+DB00457,Gynaecomastia
+DB00457,Hallucination
+DB00457,Headache
+DB00457,Hypersensitivity
+DB00457,Orthostatic hypotension
+DB00457,Incontinence
+DB00457,Lichen planus
+DB00457,Miosis
+DB00457,Narcolepsy
+DB00457,Nasal congestion
+DB00457,Nausea
+DB00457,Nervousness
+DB00457,Tension
+DB00457,Pain
+DB00457,Palpitations
+DB00457,Pancreatitis
+DB00457,Paraesthesia
+DB00457,Priapism
+DB00457,Pruritus
+DB00457,Retinal disorder
+DB00457,Syncope
+DB00457,Loss of consciousness
+DB00457,Shock
+DB00457,Tachycardia
+DB00457,Tinnitus
+DB00457,Pollakiuria
+DB00457,Urinary incontinence
+DB00457,Urticaria
+DB00457,Vasculitis
+DB00457,Vertigo
+DB00457,Vomiting
+DB00457,Dry mouth
+DB00457,Cataract
+DB00457,Antinuclear antibody positive
+DB00457,Eye pain
+DB00457,Malaise
+DB00457,Discomfort
+DB00457,Feeling abnormal
+DB00457,Ill-defined disorder
+DB00457,Abdominal discomfort
+DB00457,Erectile dysfunction
+DB00457,Vision blurred
+DB00457,Bradycardia
+DB00457,Sweating increased
+DB00457,Hyperhidrosis
+DB00457,Insomnia
+DB00457,Intraoperative floppy iris syndrome
+DB00457,Floppy iris syndrome
+DB00489,Abdominal pain
+DB00489,Gastrointestinal pain
+DB00489,Agranulocytosis
+DB00489,Alopecia
+DB00489,Angina pectoris
+DB00489,Anxiety
+DB00489,Appetite disorder
+DB00489,Asthenia
+DB00489,Asthma
+DB00489,Atrioventricular block
+DB00489,Back pain
+DB00489,Bronchospasm
+DB00489,Cardiovascular disorder
+DB00489,Catatonia
+DB00489,Chest pain
+DB00489,Infection
+DB00489,Cough
+DB00489,Sudden death
+DB00489,Depression
+DB00489,Diarrhoea
+DB00489,Distention
+DB00489,Abdominal distension
+DB00489,Dizziness
+DB00489,Drowsiness
+DB00489,Somnolence
+DB00489,Dysgeusia
+DB00489,Dyspepsia
+DB00489,Dyspnoea
+DB00489,Oedema
+DB00489,Eosinophilia
+DB00489,Rash
+DB00489,Dermatitis
+DB00489,Fatigue
+DB00489,Body temperature increased
+DB00489,Flatulence
+DB00489,Headache
+DB00489,Cardiac failure
+DB00489,Heartburn
+DB00489,Haemorrhage
+DB00489,Haemoglobin
+DB00489,Hyperglycaemia
+DB00489,Hyperhidrosis
+DB00489,Hyperinsulinism
+DB00489,Blood insulin increased
+DB00489,Hyperlipidaemia
+DB00489,Hypertension
+DB00489,Hypotension
+DB00489,Influenza
+DB00489,Laryngospasm
+DB00489,Lethargy
+DB00489,Leukopenia
+DB00489,Cramp muscle
+DB00489,Muscle spasms
+DB00489,Myocardial infarction
+DB00489,Acute coronary syndrome
+DB00489,Nausea
+DB00489,Pain
+DB00489,Pain in extremity
+DB00489,Palpitations
+DB00489,Paraesthesia
+DB00489,Peyronie's disease
+DB00489,Neuropathy peripheral
+DB00489,Pruritus
+DB00489,Pulmonary oedema
+DB00489,Purpura
+DB00489,Vascular purpura
+DB00489,Retroperitoneal fibrosis
+DB00489,Cardiogenic shock
+DB00489,Sleep disturbance
+DB00489,Sleep disorder
+DB00489,Cerebrovascular accident
+DB00489,Syncope
+DB00489,Loss of consciousness
+DB00489,Shock
+DB00489,Thrombocytopenia
+DB00489,Torsade de pointes
+DB00489,Tracheobronchitis
+DB00489,Upper respiratory tract infection
+DB00489,Angiopathy
+DB00489,Vasodilation
+DB00489,Vasodilation procedure
+DB00489,Ventricular fibrillation
+DB00489,Ventricular tachycardia
+DB00489,Vertigo
+DB00489,Vomiting
+DB00489,Tachyarrhythmia
+DB00489,Urogenital disorder
+DB00489,Peripheral vascular disorder
+DB00489,Atrioventricular block first degree
+DB00489,Mood swings
+DB00489,Affect lability
+DB00489,Photophobia
+DB00489,Ventricular extrasystoles
+DB00489,Electrocardiogram QT prolonged
+DB00489,Arterial thrombosis
+DB00489,Colitis ischaemic
+DB00489,Photosensitivity reaction
+DB00489,Lightheadedness
+DB00489,Myalgia
+DB00489,Musculoskeletal discomfort
+DB00489,Decreased appetite
+DB00489,Disorientation
+DB00489,Ache
+DB00489,Consciousness abnormal
+DB00489,Altered state of consciousness
+DB00489,Eye irritation
+DB00489,Throat sore
+DB00489,Oropharyngeal discomfort
+DB00489,Oropharyngeal pain
+DB00489,Peripheral coldness
+DB00489,Atrophy
+DB00489,Vision blurred
+DB00489,Multifocal ventricular tachycardia
+DB00489,Cardiac pain
+DB00489,Bradycardia
+DB00489,Respiratory distress
+DB00489,Pain localised
+DB00489,Coordination abnormal
+DB00489,Electrocardiogram abnormal
+DB00489,Paralysis
+DB00489,Visual disturbance
+DB00489,Visual impairment
+DB00489,Sexual dysfunction
+DB00489,Presyncope
+DB00489,Short-term memory loss
+DB00489,Amnesia
+DB00489,Non-sustained ventricular tachycardia
+DB00489,Sustained ventricular tachycardia
+DB00489,Alopecia reversible
+DB00489,Proarrhythmia
+DB00489,Arrhythmia
+DB00489,Insomnia
+DB00571,Abdominal cramps
+DB00571,Abdominal pain
+DB00571,Gastrointestinal pain
+DB00571,Agranulocytosis
+DB00571,Alopecia
+DB00571,Arterial insufficiency
+DB00571,Asthenia
+DB00571,Atrioventricular block
+DB00571,Mental disorder
+DB00571,Bronchospasm
+DB00571,Bronchiolitis
+DB00571,Bronchitis
+DB00571,Catatonia
+DB00571,Central nervous system disorder
+DB00571,Nervous system disorder
+DB00571,Infection
+DB00571,Constipation
+DB00571,Cough
+DB00571,Depression
+DB00571,Dermatitis exfoliative
+DB00571,Diarrhoea
+DB00571,Dizziness
+DB00571,Dyspnoea
+DB00571,Toxic epidermal necrolysis
+DB00571,Erythema multiforme
+DB00571,Rash
+DB00571,Dermatitis
+DB00571,Fatigue
+DB00571,Body temperature increased
+DB00571,Gastrointestinal disorder
+DB00571,Hallucination
+DB00571,Cardiac arrest
+DB00571,Block heart
+DB00571,Cardiac disorder
+DB00571,Cardiac failure congestive
+DB00571,Hyperkalaemia
+DB00571,Hypersensitivity
+DB00571,Hypoglycaemia
+DB00571,Irritability
+DB00571,Laryngospasm
+DB00571,Lethargy
+DB00571,Systemic lupus erythematosus
+DB00571,Myopathy
+DB00571,Myotonia
+DB00571,Nausea
+DB00571,Neutropenia
+DB00571,Nightmare
+DB00571,Paraesthesia
+DB00571,Peyronie's disease
+DB00571,Pharyngitis
+DB00571,Purpura
+DB00571,Vascular purpura
+DB00571,Raynaud's disease
+DB00571,Raynaud's phenomenon
+DB00571,Respiratory tract infection
+DB00571,Convulsion
+DB00571,Skin ulcer
+DB00571,Stevens-Johnson syndrome
+DB00571,Erythema
+DB00571,Urticaria
+DB00571,Vertigo
+DB00571,Vomiting
+DB00571,Agitation
+DB00571,Mood swings
+DB00571,Affect lability
+DB00571,Lassitude
+DB00571,Lower respiratory tract infection
+DB00571,Arterial thrombosis
+DB00571,Colitis ischaemic
+DB00571,Unspecified disorder of skin and subcutaneous tissue
+DB00571,Skin disorder
+DB00571,Lightheadedness
+DB00571,Epigastric distress
+DB00571,Dyspepsia
+DB00571,Decreased appetite
+DB00571,Disorientation
+DB00571,Ache
+DB00571,Pain
+DB00571,Rash erythematous
+DB00571,Paraesthesia hand
+DB00571,Erectile dysfunction
+DB00571,Throat sore
+DB00571,Oropharyngeal discomfort
+DB00571,Oropharyngeal pain
+DB00571,Purpura non-thrombocytopenic
+DB00571,Atrioventricular block second degree
+DB00571,Peripheral coldness
+DB00571,Dry eye
+DB00571,Anaphylactoid reaction
+DB00571,Anaphylactic shock
+DB00571,Vivid dreams
+DB00571,Abnormal dreams
+DB00571,Bradycardia
+DB00571,Respiratory distress
+DB00571,Visual disturbance
+DB00571,Visual impairment
+DB00571,Blood glucose decreased
+DB00571,Short-term memory loss
+DB00571,Amnesia
+DB00571,Coldness
+DB00571,Feeling cold
+DB00571,Infestation NOS
+DB00571,Infestation
+DB00571,Blood and lymphatic system disorders
+DB00571,Sleep disorder
+DB00571,Thrombocytopenic purpura
+DB00571,Hypoglycaemic seizure
+DB00571,Hypersomnia
+DB00571,Insomnia
+DB00571,Poor quality sleep
+DB00571,Peripheral arterial disease
+DB00571,Peripheral arterial occlusive disease
+DB00571,Somnolence
+DB00612,Abdominal pain
+DB00612,Gastrointestinal pain
+DB00612,Congenital anomaly
+DB00612,Developmental delay
+DB00612,Agranulocytosis
+DB00612,Alopecia
+DB00612,Angioedema
+DB00612,Anosmia
+DB00612,Anxiety
+DB00612,Aphasia
+DB00612,Arrhythmia
+DB00612,Arthralgia
+DB00612,Musculoskeletal discomfort
+DB00612,Asthenia
+DB00612,Asthma
+DB00612,Atrial fibrillation
+DB00612,Atrioventricular block
+DB00612,Back pain
+DB00612,Mental disorder
+DB00612,Breast disorder
+DB00612,Bronchospasm
+DB00612,Bronchitis
+DB00612,Catatonia
+DB00612,Cerebrovascular disorder
+DB00612,Neck pain
+DB00612,Chest pain
+DB00612,Coma
+DB00612,Infection
+DB00612,Confusional state
+DB00612,Feeling abnormal
+DB00612,Conjunctivitis
+DB00612,Connective tissue disorder
+DB00612,Constipation
+DB00612,Cough
+DB00612,Cystitis
+DB00612,Cystitis noninfective
+DB00612,Bladder pain
+DB00612,Libido decreased
+DB00612,Disturbance in sexual arousal
+DB00612,Depression
+DB00612,Dermatitis
+DB00612,Dermatitis exfoliative
+DB00612,Scleroderma
+DB00612,Diarrhoea
+DB00612,Dizziness
+DB00612,Drowsiness
+DB00612,Somnolence
+DB00612,Dysgeusia
+DB00612,Dyspepsia
+DB00612,Dyspnoea
+DB00612,Ear pain
+DB00612,Eczema
+DB00612,Oedema
+DB00612,Embolism
+DB00612,Rash
+DB00612,Congenital eye disorder
+DB00612,Eye disorder
+DB00612,Fatigue
+DB00612,Body temperature increased
+DB00612,Flushing
+DB00612,Fracture
+DB00612,Multiple fractures
+DB00612,Gastritis
+DB00612,Gastrointestinal disorder
+DB00612,Gout
+DB00612,Hallucination
+DB00612,Headache
+DB00612,Partial hearing loss
+DB00612,Hearing impaired
+DB00612,Cardiac arrest
+DB00612,Cardiac disorder
+DB00612,Cardiac failure
+DB00612,Cardiac failure congestive
+DB00612,Hepatitis
+DB00612,Hepatomegaly
+DB00612,Hyperaesthesia
+DB00612,Hypersensitivity
+DB00612,Hypoaesthesia
+DB00612,Hypoglycaemia
+DB00612,Hypotension
+DB00612,Orthostatic hypotension
+DB00612,Ischaemia
+DB00612,Arthropathy
+DB00612,Osteoarthritis
+DB00612,Laryngospasm
+DB00612,Left ventricular failure
+DB00612,Pulmonary oedema
+DB00612,Breast pain
+DB00612,Mediastinal disorder
+DB00612,Cramp muscle
+DB00612,Muscle spasms
+DB00612,Myocardial infarction
+DB00612,Acute coronary syndrome
+DB00612,Nausea
+DB00612,Nervous system disorder
+DB00612,Neuralgia
+DB00612,Nightmare
+DB00612,Pain
+DB00612,Palpitations
+DB00612,Paresis
+DB00612,Paraesthesia
+DB00612,Peyronie's disease
+DB00612,Peptic ulcer
+DB00612,Pharyngitis
+DB00612,Pneumonia
+DB00612,Polyuria
+DB00612,Urine output increased
+DB00612,Pruritus
+DB00612,Psoriasis
+DB00612,Purpura
+DB00612,Vascular purpura
+DB00612,Respiratory insufficiency
+DB00612,Respiratory failure
+DB00612,Rhinitis
+DB00612,Shock
+DB00612,Sinusitis
+DB00612,Sleep disturbance
+DB00612,Sleep disorder
+DB00612,Speech disorder
+DB00612,Stridor
+DB00612,Sweating
+DB00612,Hyperhidrosis
+DB00612,Syncope
+DB00612,Loss of consciousness
+DB00612,Tachycardia
+DB00612,Thrombocytopenia
+DB00612,Tinnitus
+DB00612,Tremor
+DB00612,Erythema
+DB00612,Urinary tract infection
+DB00612,Urticaria
+DB00612,Angiopathy
+DB00612,Vasculitis
+DB00612,Ventricular fibrillation
+DB00612,Vertigo
+DB00612,Viral infection
+DB00612,Vomiting
+DB00612,Weight increased
+DB00612,Dry mouth
+DB00612,Encephalopathy
+DB00612,Agitation
+DB00612,Mood swings
+DB00612,Affect lability
+DB00612,Oedema peripheral
+DB00612,Generalised oedema
+DB00612,Fluid retention
+DB00612,Necrolysis epidermal
+DB00612,Toxic epidermal necrolysis
+DB00612,Muscular weakness
+DB00612,Eye pain
+DB00612,Skin discolouration
+DB00612,Arterial thrombosis
+DB00612,Skin irritation
+DB00612,Renal colic
+DB00612,Colitis ischaemic
+DB00612,Skin hyperpigmentation
+DB00612,Unspecified disorder of skin and subcutaneous tissue
+DB00612,Skin disorder
+DB00612,Malaise
+DB00612,Discomfort
+DB00612,Ill-defined disorder
+DB00612,Myalgia
+DB00612,Muscle twitching
+DB00612,Dyspnoea exertional
+DB00612,Disorientation
+DB00612,Ache
+DB00612,Epigastric pain not food-related
+DB00612,Abdominal pain upper
+DB00612,Peripheral ischaemia
+DB00612,Raynaud-like disorder
+DB00612,Raynaud's phenomenon
+DB00612,Vein disorder
+DB00612,Respiratory tract haemorrhage
+DB00612,Galactorrhoea
+DB00612,Overdose effect
+DB00612,Toxicity to various agents
+DB00612,Lacrimation abnormal NOS
+DB00612,Lacrimal disorder
+DB00612,Numbness of limbs
+DB00612,Erectile dysfunction
+DB00612,Throat sore
+DB00612,Oropharyngeal discomfort
+DB00612,Oropharyngeal pain
+DB00612,Auditory disorder NOS
+DB00612,Cutaneous vasculitis
+DB00612,Conduction disorder
+DB00612,Hepatobiliary disease
+DB00612,Purine metabolism disorder
+DB00612,Peripheral coldness
+DB00612,Extrasystoles
+DB00612,Vivid dreams
+DB00612,Abnormal dreams
+DB00612,Photosensitivity
+DB00612,Photosensitivity reaction
+DB00612,Unsteadiness
+DB00612,Balance disorder
+DB00612,Bradycardia
+DB00612,Respiratory distress
+DB00612,Visual disturbance
+DB00612,Visual impairment
+DB00612,Stillbirth
+DB00612,Hot flush
+DB00612,Menopausal symptoms
+DB00612,Sweating increased
+DB00612,Coldness
+DB00612,Feeling cold
+DB00612,Serum triglycerides increased
+DB00612,Blood triglycerides increased
+DB00612,Ear and labyrinth disorders
+DB00612,Thrombocytopenic purpura
+DB00612,Cardiomyopathy
+DB00612,Insomnia
+DB00612,Claudication
+DB00612,Intermittent claudication
+DB00612,Tingling sensation
+DB00612,Ageusia
+DB00612,Rhinitis allergic
+DB00612,Respiratory tract oedema
+DB00612,Loss of libido
+DB00612,Injury
+DB00612,Abnormal vision
+DB00641,Abdominal pain
+DB00641,Gastrointestinal pain
+DB00641,Alopecia
+DB00641,Amnesia
+DB00641,Anaphylactic shock
+DB00641,Anaemia
+DB00641,Haemolytic anaemia
+DB00641,Angioedema
+DB00641,Anorexia
+DB00641,Decreased appetite
+DB00641,Anxiety
+DB00641,Arthralgia
+DB00641,Musculoskeletal discomfort
+DB00641,Arthritis
+DB00641,Asthenia
+DB00641,Atrial fibrillation
+DB00641,Mental disorder
+DB00641,Breast feeding
+DB00641,Bronchitis
+DB00641,Chest pain
+DB00641,Infection
+DB00641,Confusional state
+DB00641,Feeling abnormal
+DB00641,Constipation
+DB00641,Depression
+DB00641,Dermatomyositis
+DB00641,Diabetes mellitus
+DB00641,Diarrhoea
+DB00641,Dizziness
+DB00641,Dysgeusia
+DB00641,Dyspepsia
+DB00641,Dyspnoea
+DB00641,Eczema
+DB00641,Oedema
+DB00641,Endocrine disorder
+DB00641,Eosinophilia
+DB00641,Toxic epidermal necrolysis
+DB00641,Erythema multiforme
+DB00641,Rash
+DB00641,Dermatitis
+DB00641,Fatigue
+DB00641,Body temperature increased
+DB00641,Flatulence
+DB00641,Flushing
+DB00641,Gastritis
+DB00641,Gastrointestinal disorder
+DB00641,Gynaecomastia
+DB00641,Headache
+DB00641,Hepatitis
+DB00641,Hypersensitivity
+DB00641,Inflammation
+DB00641,Jaundice
+DB00641,Jaundice cholestatic
+DB00641,Leukopenia
+DB00641,Liver disorder
+DB00641,Hepatocellular injury
+DB00641,Foetor hepaticus
+DB00641,Menarche
+DB00641,Cramp muscle
+DB00641,Muscle spasms
+DB00641,Myopathy
+DB00641,Musculoskeletal disorder
+DB00641,Nausea
+DB00641,Nightmare
+DB00641,Nodule
+DB00641,Ophthalmoplegia
+DB00641,IIIrd nerve paralysis
+DB00641,Pain
+DB00641,Pancreatitis
+DB00641,Paraesthesia
+DB00641,Neuropathy peripheral
+DB00641,Polymyalgia rheumatica
+DB00641,Pregnancy
+DB00641,Proteinuria
+DB00641,Protein urine present
+DB00641,Pruritus
+DB00641,Purpura
+DB00641,Vascular purpura
+DB00641,Rhabdomyolysis
+DB00641,Sinusitis
+DB00641,Sleep disturbance
+DB00641,Sleep disorder
+DB00641,Stevens-Johnson syndrome
+DB00641,Swelling
+DB00641,Thrombocytopenia
+DB00641,Tremor
+DB00641,Erythema
+DB00641,Upper respiratory tract infection
+DB00641,Urticaria
+DB00641,Vasculitis
+DB00641,Vertigo
+DB00641,Vomiting
+DB00641,Chills
+DB00641,Hepatic failure
+DB00641,Cataract
+DB00641,Hepatic function abnormal
+DB00641,Antinuclear antibody positive
+DB00641,Creatine phosphokinase increased
+DB00641,Blood creatine phosphokinase increased
+DB00641,Red blood cell sedimentation rate increased
+DB00641,Muscular weakness
+DB00641,Hepatic necrosis
+DB00641,Phosphatase alkaline increased
+DB00641,Blood alkaline phosphatase increased
+DB00641,Polyneuropathy
+DB00641,Sensory disturbance
+DB00641,Interstitial lung disease
+DB00641,Malaise
+DB00641,Discomfort
+DB00641,Ill-defined disorder
+DB00641,Myalgia
+DB00641,Memory impairment
+DB00641,Tenderness
+DB00641,Ache
+DB00641,Upset stomach
+DB00641,Abdominal discomfort
+DB00641,Erectile dysfunction
+DB00641,Cognitive impairment
+DB00641,Cognitive disorder
+DB00641,Vision blurred
+DB00641,Photosensitivity
+DB00641,Photosensitivity reaction
+DB00641,Lupus erythematosus
+DB00641,Systemic lupus erythematosus
+DB00641,Facial paresis
+DB00641,VIIth nerve paralysis
+DB00641,Transaminases increased
+DB00641,Hepatitis chronic active
+DB00641,Forgetfulness
+DB00641,Hypersensitive syndrome
+DB00641,Drug reaction with eosinophilia and systemic symptoms
+DB00641,Sexual dysfunction
+DB00641,Drug interaction
+DB00641,Memory loss
+DB00641,Insomnia
+DB00641,Lupus-like syndrome
+DB00641,Peripheral nerve palsy
+DB00641,Lenticular opacities
+DB00641,Regurgitation
+DB00641,Hepatocellular carcinoma
+DB00641,Hepatic cancer
+DB00641,Loss of libido
+DB00641,Immune-mediated necrotising myopathy
+DB00672,Agranulocytosis
+DB00672,Aplastic anaemia
+DB00672,Haemolytic anaemia
+DB00672,Anorexia
+DB00672,Decreased appetite
+DB00672,Dermatitis exfoliative
+DB00672,Diarrhoea
+DB00672,Dizziness
+DB00672,Eosinophilia
+DB00672,Erythema multiforme
+DB00672,Headache
+DB00672,Hunger
+DB00672,Hypoglycaemia
+DB00672,Hyponatraemia
+DB00672,Inappropriate antidiuretic hormone secretion
+DB00672,Jaundice cholestatic
+DB00672,Leukopenia
+DB00672,Nausea
+DB00672,Pancytopenia
+DB00672,Proctocolitis
+DB00672,Pruritus
+DB00672,Thrombocytopenia
+DB00672,Urticaria
+DB00672,Vomiting
+DB00672,Porphyria hepatic
+DB00672,Porphyria non-acute
+DB00672,Porphyria cutanea tarda
+DB00672,Photosensitivity reaction
+DB00672,Digestion impaired
+DB00672,Gastrointestinal disorder
+DB00672,Dyspepsia
+DB00672,Eruption
+DB00672,Rash
+DB00672,Disulfiram like reaction
+DB00672,Alcohol intolerance
+DB00672,Water retention
+DB00672,Fluid retention
+DB00672,Drug interaction
+DB00678,Abdominal pain
+DB00678,Gastrointestinal pain
+DB00678,Agranulocytosis
+DB00678,Airway obstruction NOS
+DB00678,Obstructive airways disorder
+DB00678,Alopecia
+DB00678,Anaphylactic shock
+DB00678,Anaemia
+DB00678,Aplastic anaemia
+DB00678,Haemolytic anaemia
+DB00678,Angina pectoris
+DB00678,Angioedema
+DB00678,Anorexia
+DB00678,Decreased appetite
+DB00678,Anxiety
+DB00678,Anxiety disorder
+DB00678,Arrhythmia
+DB00678,Arthralgia
+DB00678,Musculoskeletal discomfort
+DB00678,Arthritis
+DB00678,Asthenia
+DB00678,Ataxia
+DB00678,Atrial fibrillation
+DB00678,Back pain
+DB00678,Breast disorder
+DB00678,Bronchitis
+DB00678,Cellulitis
+DB00678,Chest pain
+DB00678,Infection
+DB00678,Confusional state
+DB00678,Feeling abnormal
+DB00678,Conjunctivitis
+DB00678,Constipation
+DB00678,Cough
+DB00678,Libido decreased
+DB00678,Disturbance in sexual arousal
+DB00678,Dermatitis
+DB00678,Dermatitis exfoliative
+DB00678,Diabetes mellitus
+DB00678,Diabetic vascular disorder
+DB00678,Diabetic neuropathy
+DB00678,Diarrhoea
+DB00678,Dizziness
+DB00678,Dysgeusia
+DB00678,Dyspepsia
+DB00678,Dyspnoea
+DB00678,Ecchymosis
+DB00678,Oedema
+DB00678,Eosinophilia
+DB00678,Toxic epidermal necrolysis
+DB00678,Epistaxis
+DB00678,Erythema multiforme
+DB00678,Rash
+DB00678,Fatigue
+DB00678,Body temperature increased
+DB00678,Fibromyalgia
+DB00678,Flatulence
+DB00678,Flushing
+DB00678,Gastritis
+DB00678,Glycosuria
+DB00678,Gout
+DB00678,Headache
+DB00678,Haemolysis
+DB00678,Hepatitis
+DB00678,Coxalgia
+DB00678,Hyperglycaemia
+DB00678,Hyperkalaemia
+DB00678,Hypersensitivity
+DB00678,Hypertrophy
+DB00678,Hypoaesthesia
+DB00678,Hypoglycaemia
+DB00678,Hyponatraemia
+DB00678,Hypotension
+DB00678,Orthostatic hypotension
+DB00678,Influenza
+DB00678,Jaundice
+DB00678,Jaundice cholestatic
+DB00678,Leg pain
+DB00678,Pain in extremity
+DB00678,Leukopenia
+DB00678,Cramp muscle
+DB00678,Muscle spasms
+DB00678,Musculoskeletal pain
+DB00678,Myositis
+DB00678,Nasal congestion
+DB00678,Nausea
+DB00678,Nephritis interstitial
+DB00678,Tubulointerstitial nephritis
+DB00678,Nervous system disorder
+DB00678,Nervousness
+DB00678,Tension
+DB00678,Nocturia
+DB00678,Pain
+DB00678,Palpitations
+DB00678,Pancreatitis
+DB00678,Panic disorder
+DB00678,Sinus disorder
+DB00678,Paraesthesia
+DB00678,Neuropathy peripheral
+DB00678,Pharyngitis
+DB00678,Pneumonia
+DB00678,Pruritus
+DB00678,Pulmonary oedema
+DB00678,Purpura
+DB00678,Vascular purpura
+DB00678,Henoch-Schonlein purpura
+DB00678,Renal failure
+DB00678,Rhabdomyolysis
+DB00678,Rhinitis
+DB00678,Shoulder pain
+DB00678,Sialoadenitis
+DB00678,Sinusitis
+DB00678,Stevens-Johnson syndrome
+DB00678,Sweating
+DB00678,Hyperhidrosis
+DB00678,Swelling
+DB00678,Syncope
+DB00678,Loss of consciousness
+DB00678,Shock
+DB00678,Tachycardia
+DB00678,Taste disorders
+DB00678,Thrombocytopenia
+DB00678,Tinnitus
+DB00678,Toothache
+DB00678,Tremor
+DB00678,Erythema
+DB00678,Upper respiratory tract infection
+DB00678,Pollakiuria
+DB00678,Urinary tract infection
+DB00678,Urticaria
+DB00678,Angiopathy
+DB00678,Vasculitis
+DB00678,Ventricular fibrillation
+DB00678,Ventricular tachycardia
+DB00678,Vertigo
+DB00678,Vomiting
+DB00678,Weight increased
+DB00678,Trauma
+DB00678,Injury
+DB00678,Dry mouth
+DB00678,Essential hypertension
+DB00678,Sinus bradycardia
+DB00678,Agitation
+DB00678,Cataract
+DB00678,Migraine
+DB00678,Blood urea increased
+DB00678,Muscular weakness
+DB00678,Dry skin
+DB00678,Joint swelling
+DB00678,Xanthopsia
+DB00678,Malaise
+DB00678,Discomfort
+DB00678,Ill-defined disorder
+DB00678,Myalgia
+DB00678,Knee pain
+DB00678,Memory impairment
+DB00678,Pain in arm
+DB00678,Facial rash
+DB00678,Erectile dysfunction
+DB00678,Cutaneous vasculitis
+DB00678,Atrioventricular block second degree
+DB00678,Vision blurred
+DB00678,Photosensitivity
+DB00678,Photosensitivity reaction
+DB00678,Gastric irritation
+DB00678,Epigastric discomfort
+DB00678,Stiffness
+DB00678,Musculoskeletal stiffness
+DB00678,Respiratory distress
+DB00678,Localized exfoliation
+DB00678,Skin exfoliation
+DB00678,Face oedema
+DB00678,Angiitis necrotising
+DB00678,Vasculitis necrotising
+DB00678,Nose infection NOS
+DB00678,Stinging
+DB00678,Serum creatinine increased
+DB00678,Blood creatinine increased
+DB00678,Hyperuricaemia
+DB00678,Blood uric acid increased
+DB00678,Dry cough
+DB00678,Sleep disorder
+DB00678,Persistent dry cough
+DB00678,Insomnia
+DB00678,Drug-induced cough
+DB00678,Renal impairment
+DB00678,Fluid imbalance
+DB00678,Somnolence
+DB00695,Abdominal pain
+DB00695,Gastrointestinal pain
+DB00695,Pancreatitis acute
+DB00695,Agranulocytosis
+DB00695,Anaphylactic shock
+DB00695,Anaemia
+DB00695,Aplastic anaemia
+DB00695,Haemolytic anaemia
+DB00695,Anorexia
+DB00695,Decreased appetite
+DB00695,Arrhythmia
+DB00695,Asthenia
+DB00695,Blister
+DB00695,Dermatitis bullous
+DB00695,Central nervous system disorder
+DB00695,Nervous system disorder
+DB00695,Cholestasis
+DB00695,Cholestasis intrahepatic
+DB00695,Confusional state
+DB00695,Feeling abnormal
+DB00695,Constipation
+DB00695,Deafness
+DB00695,Dehydration
+DB00695,Dermatitis
+DB00695,Dermatitis exfoliative
+DB00695,Drug eruption
+DB00695,Diabetes mellitus
+DB00695,Diarrhoea
+DB00695,Diuresis
+DB00695,Polyuria
+DB00695,Dizziness
+DB00695,Drowsiness
+DB00695,Somnolence
+DB00695,Patent ductus arteriosus
+DB00695,Eosinophilia
+DB00695,Toxic epidermal necrolysis
+DB00695,Epidermolysis bullosa
+DB00695,Erythema multiforme
+DB00695,Rash
+DB00695,Eye disorder
+DB00695,Fatigue
+DB00695,Body temperature increased
+DB00695,Gastrointestinal disorder
+DB00695,Glycosuria
+DB00695,Gout
+DB00695,Headache
+DB00695,Hepatic encephalopathy
+DB00695,Hydronephrosis
+DB00695,Hyperglycaemia
+DB00695,Hypersensitivity
+DB00695,Hypocalcaemia
+DB00695,Hypokalaemia
+DB00695,Hyponatraemia
+DB00695,Hypotension
+DB00695,Orthostatic hypotension
+DB00695,Immune system disorder
+DB00695,Incontinence
+DB00695,Irritability
+DB00695,Jaundice cholestatic
+DB00695,Cramps of lower extremities
+DB00695,Muscle spasms
+DB00695,Lethargy
+DB00695,Leukopenia
+DB00695,Hepatic cirrhosis
+DB00695,Cramp muscle
+DB00695,Nausea
+DB00695,Nephritis interstitial
+DB00695,Tubulointerstitial nephritis
+DB00695,Nephrocalcinosis
+DB00695,Pain
+DB00695,Pancreatitis
+DB00695,Paraesthesia
+DB00695,Pemphigoid
+DB00695,Urine output increased
+DB00695,Pruritus
+DB00695,Purpura
+DB00695,Vascular purpura
+DB00695,Renal failure
+DB00695,Shock
+DB00695,Stevens-Johnson syndrome
+DB00695,Sweating
+DB00695,Hyperhidrosis
+DB00695,Swelling
+DB00695,Tetany
+DB00695,Thirst
+DB00695,Thrombocytopenia
+DB00695,Thrombophlebitis
+DB00695,Thrombosis
+DB00695,Tinnitus
+DB00695,Erythema
+DB00695,Pollakiuria
+DB00695,Urinary tract disorder
+DB00695,Urethral disorder
+DB00695,Urticaria
+DB00695,Angiopathy
+DB00695,Vasculitis
+DB00695,Vertigo
+DB00695,Vomiting
+DB00695,Dry mouth
+DB00695,Polydipsia
+DB00695,Agitation
+DB00695,Apathy
+DB00695,Flat affect
+DB00695,Hypochloraemia
+DB00695,Deafness permanent
+DB00695,Electrolyte depletion
+DB00695,Glucose tolerance decreased
+DB00695,Hypomagnesaemia
+DB00695,Muscular weakness
+DB00695,Injection site pain
+DB00695,Malnutrition
+DB00695,Photosensitivity reaction
+DB00695,Unspecified disorder of skin and subcutaneous tissue
+DB00695,Skin disorder
+DB00695,Lightheadedness
+DB00695,Metabolic acidosis
+DB00695,Metabolic alkalosis
+DB00695,Xanthopsia
+DB00695,Cerebration impaired
+DB00695,Mental disability
+DB00695,Disturbance in attention
+DB00695,Ototoxicity
+DB00695,Blood uric acid increased
+DB00695,Blood creatinine increased
+DB00695,Bullous eruption
+DB00695,Auditory disorder NOS
+DB00695,Hearing impaired
+DB00695,Polyangiitis
+DB00695,Hepatobiliary disease
+DB00695,Glucose tolerance impaired
+DB00695,Eruption
+DB00695,Anaphylactoid reaction
+DB00695,Acute retention of urine
+DB00695,Urinary retention
+DB00695,Vision blurred
+DB00695,Photosensitivity
+DB00695,Gastric irritation
+DB00695,Epigastric discomfort
+DB00695,Nephrolithiasis
+DB00695,Thrombophilia
+DB00695,Hypercoagulation
+DB00695,Chronic diarrhea
+DB00695,Bladder spasm
+DB00695,Bladder pain
+DB00695,Application site pain
+DB00695,Instillation site pain
+DB00695,Hypovolaemia
+DB00695,Angiitis necrotising
+DB00695,Vasculitis necrotising
+DB00695,Blood cholesterol increased
+DB00695,Drug interaction
+DB00695,Hyperuricaemia
+DB00695,Blood and lymphatic system disorders
+DB00695,Ear and labyrinth disorders
+DB00695,Pseudo-Bartter syndrome
+DB00695,Blood triglycerides increased
+DB00695,Local reaction
+DB00695,Hypotensive
+DB00695,Accidental ingestion
+DB00695,Accidental exposure to product
+DB00695,Taste sweet
+DB00695,Dysgeusia
+DB00695,AGEP
+DB00695,Acute generalised exanthematous pustulosis
+DB00695,Abdominal bloating
+DB00695,Flatulence
+DB00695,Abdominal distension
+DB00695,Orthostatic intolerance
+DB00695,Decompensated cirrhosis
+DB00695,Prostatic hypertrophy
+DB00695,Benign prostatic hyperplasia
+DB00695,Gout attack
+DB00695,Visual impairment
+DB00727,Abdominal pain
+DB00727,Gastrointestinal pain
+DB00727,Anaphylactic shock
+DB00727,Angina unstable
+DB00727,Angina pectoris
+DB00727,Angioedema
+DB00727,Arrhythmia
+DB00727,Asthenia
+DB00727,Mental disorder
+DB00727,Coma
+DB00727,Infection
+DB00727,Confusional state
+DB00727,Feeling abnormal
+DB00727,Cyanosis
+DB00727,Dermatitis exfoliative
+DB00727,Drug eruption
+DB00727,Dermatitis atopic
+DB00727,Dermatitis contact
+DB00727,Dizziness
+DB00727,Drowsiness
+DB00727,Somnolence
+DB00727,Dyspnoea
+DB00727,Eczema
+DB00727,Rash
+DB00727,Dermatitis
+DB00727,Body temperature increased
+DB00727,Flushing
+DB00727,Gastrointestinal disorder
+DB00727,Breath odour
+DB00727,Headache
+DB00727,Block heart
+DB00727,Atrioventricular block
+DB00727,Cardiac disorder
+DB00727,Hypersensitivity
+DB00727,Hypotension
+DB00727,Orthostatic hypotension
+DB00727,Immune system disorder
+DB00727,Ischaemia
+DB00727,Renal failure acute
+DB00727,Mediastinal disorder
+DB00727,Methaemoglobinaemia
+DB00727,Nausea
+DB00727,Nervous system disorder
+DB00727,Pallor
+DB00727,Palpitations
+DB00727,Paraesthesia
+DB00727,Pharyngitis
+DB00727,Pruritus
+DB00727,Rhinitis
+DB00727,Shock
+DB00727,Stomatitis
+DB00727,Sweating
+DB00727,Hyperhidrosis
+DB00727,Syncope
+DB00727,Loss of consciousness
+DB00727,Tachycardia
+DB00727,Erythema
+DB00727,Urticaria
+DB00727,Angiopathy
+DB00727,Vascular headache
+DB00727,Vasodilation
+DB00727,Vasodilation procedure
+DB00727,Vertigo
+DB00727,Vomiting
+DB00727,Burning sensation
+DB00727,Agitation
+DB00727,Oedema peripheral
+DB00727,Application site reaction
+DB00727,Diarrhoea haemorrhagic
+DB00727,Intracranial pressure increased
+DB00727,Allergic contact dermatitis
+DB00727,Unspecified disorder of skin and subcutaneous tissue
+DB00727,Skin disorder
+DB00727,Hyperpnea
+DB00727,Tachypnoea
+DB00727,Hyperventilation
+DB00727,Lightheadedness
+DB00727,Fixed drug eruption
+DB00727,Immobile
+DB00727,Respiratory rate decreased
+DB00727,Reflex bradycardia
+DB00727,Bradycardia
+DB00727,Abdominal colic
+DB00727,Clonic convulsion
+DB00727,Angina pectoris aggravated
+DB00727,Tolerance development
+DB00727,Drug tolerance
+DB00727,Swollen tongue
+DB00727,Redness
+DB00727,Anaphylactoid reaction
+DB00727,Vision blurred
+DB00727,Collapse
+DB00727,Throbbing headache
+DB00727,Rash generalised
+DB00727,Rebound hypertension
+DB00727,Withdrawal hypertension
+DB00727,Application site irritation
+DB00727,Paralysis
+DB00727,Hypovolaemia
+DB00727,Visual disturbance
+DB00727,Visual impairment
+DB00727,Localised skin reaction
+DB00727,Skin reaction
+DB00727,Hot flush
+DB00727,Menopausal symptoms
+DB00727,Hypoxemia
+DB00727,Hypoxia
+DB00727,Sweating increased
+DB00727,Infestation NOS
+DB00727,Infestation
+DB00727,Blood and lymphatic system disorders
+DB00727,Application site erythema
+DB00727,Application site pruritus
+DB00727,Hypotensive
+DB00727,Retrosternal discomfort
+DB00727,Chest discomfort
+DB00727,Cerebral ischaemia
+DB00727,Reflex tachycardia
+DB00727,Pulse rate decrease marked
+DB00727,Glucose-6-phosphate dehydrogenase deficiency
+DB00839,Agranulocytosis
+DB00839,Aplastic anaemia
+DB00839,Haemolytic anaemia
+DB00839,Asthenia
+DB00839,Dizziness
+DB00839,Fatigue
+DB00839,Headache
+DB00839,Heartburn
+DB00839,Dyspepsia
+DB00839,Hypoglycaemia
+DB00839,Hyponatraemia
+DB00839,Inappropriate antidiuretic hormone secretion
+DB00839,Jaundice cholestatic
+DB00839,Leukopenia
+DB00839,Nausea
+DB00839,Pancytopenia
+DB00839,Pruritus
+DB00839,Thrombocytopenia
+DB00839,Erythema
+DB00839,Urticaria
+DB00839,Vertigo
+DB00839,Porphyria hepatic
+DB00839,Porphyria non-acute
+DB00839,Porphyria cutanea tarda
+DB00839,Photosensitivity reaction
+DB00839,Malaise
+DB00839,Discomfort
+DB00839,Feeling abnormal
+DB00839,Ill-defined disorder
+DB00839,Digestion impaired
+DB00839,Gastrointestinal disorder
+DB00839,Epigastric fullness
+DB00839,Abdominal distension
+DB00839,Eruption
+DB00839,Rash
+DB00839,Disulfiram like reaction
+DB00839,Alcohol intolerance
+DB00839,Reaction gastrointestinal
+DB00841,Angina pectoris
+DB00841,Chest pain
+DB00841,Dyspnoea
+DB00841,Headache
+DB00841,Hypokalaemia
+DB00841,Hypotension
+DB00841,Nausea
+DB00841,Palpitations
+DB00841,Phlebitis
+DB00841,Pruritus
+DB00841,Tachycardia
+DB00841,Thrombocytopenia
+DB00841,Ventricular extrasystoles
+DB00841,Skin necrosis
+DB00841,Skin exfoliation
+DB00841,Blood pressure systolic increased
+DB00945,Respiratory alkalosis
+DB00945,Anaphylactic shock
+DB00945,Anaemia
+DB00945,Angioedema
+DB00945,Asthma
+DB00945,Clotting
+DB00945,Coagulopathy
+DB00945,Breast feeding
+DB00945,Varicella
+DB00945,Coma
+DB00945,Confusional state
+DB00945,Feeling abnormal
+DB00945,Contusion
+DB00945,Diabetes mellitus
+DB00945,Diarrhoea
+DB00945,Diuresis
+DB00945,Polyuria
+DB00945,Drowsiness
+DB00945,Somnolence
+DB00945,Dyspepsia
+DB00945,Dyspnoea
+DB00945,Rash
+DB00945,Dermatitis
+DB00945,Flushing
+DB00945,Gastrointestinal haemorrhage
+DB00945,Gout
+DB00945,Heartburn
+DB00945,Haematemesis
+DB00945,Haemorrhage
+DB00945,Haemoglobin
+DB00945,Haemorrhagic disorder
+DB00945,Hypersensitivity
+DB00945,Hypertension
+DB00945,Hypoglycaemia
+DB00945,Hypokalaemia
+DB00945,Leukopenia
+DB00945,Liver disorder
+DB00945,Hepatocellular injury
+DB00945,Foetor hepaticus
+DB00945,Melaena
+DB00945,Nausea
+DB00945,Peptic ulcer
+DB00945,Pruritus
+DB00945,Purpura
+DB00945,Vascular purpura
+DB00945,Reye's syndrome
+DB00945,Convulsion
+DB00945,Sweating
+DB00945,Hyperhidrosis
+DB00945,Syncope
+DB00945,Dizziness
+DB00945,Loss of consciousness
+DB00945,Shock
+DB00945,Tachycardia
+DB00945,Thirst
+DB00945,Thrombocytopenia
+DB00945,Tinnitus
+DB00945,Ulcer
+DB00945,Urticaria
+DB00945,Vertigo
+DB00945,Vomiting
+DB00945,Kidney function abnormal
+DB00945,Renal impairment
+DB00945,Lightheadedness
+DB00945,Metabolic acidosis
+DB00945,Excitement
+DB00945,Agitation
+DB00945,Ear buzzing
+DB00945,Hepatotoxicity
+DB00945,Chest discomfort
+DB00945,Chest pain
+DB00945,Diabetic
+DB00945,Acidemia
+DB00945,Acidosis
+DB00945,Eruption
+DB00945,Gastric irritation
+DB00945,Epigastric discomfort
+DB00945,Arthritic pains
+DB00945,Arthralgia
+DB00945,Flu symptoms
+DB00945,Influenza
+DB00945,Respiratory failure
+DB00945,Hearing impaired
+DB00945,Deafness
+DB00945,High cholesterol
+DB00945,Blood cholesterol increased
+DB00966,Abdominal pain
+DB00966,Gastrointestinal pain
+DB00966,Abscess
+DB00966,Anaphylactic shock
+DB00966,Anaemia
+DB00966,Angina pectoris
+DB00966,Angioedema
+DB00966,Anorexia
+DB00966,Decreased appetite
+DB00966,Anxiety
+DB00966,Arrhythmia
+DB00966,Arthralgia
+DB00966,Musculoskeletal discomfort
+DB00966,Arthritis
+DB00966,Asthenia
+DB00966,Asthma
+DB00966,Atrial fibrillation
+DB00966,Back pain
+DB00966,Mental disorder
+DB00966,Bone disorder
+DB00966,Breast disorder
+DB00966,Bronchospasm
+DB00966,Bronchitis
+DB00966,Bursitis
+DB00966,Cardiovascular disorder
+DB00966,Cerebrovascular disorder
+DB00966,Chest pain
+DB00966,Infection
+DB00966,Conjunctivitis
+DB00966,Connective tissue disorder
+DB00966,Constipation
+DB00966,Cough
+DB00966,Cystitis
+DB00966,Cystitis noninfective
+DB00966,Bladder pain
+DB00966,Dermatitis
+DB00966,Drug eruption
+DB00966,Diarrhoea
+DB00966,Dizziness
+DB00966,Dysgeusia
+DB00966,Dyspepsia
+DB00966,Dyspnoea
+DB00966,Dysuria
+DB00966,Ear pain
+DB00966,Eczema
+DB00966,Oedema
+DB00966,Enteritis
+DB00966,Eosinophilia
+DB00966,Epistaxis
+DB00966,Rash
+DB00966,Eye disorder
+DB00966,Fatigue
+DB00966,Body temperature increased
+DB00966,Flatulence
+DB00966,Flushing
+DB00966,Gastritis
+DB00966,Gastroenteritis
+DB00966,Gastrooesophageal reflux disease
+DB00966,Gastrointestinal disorder
+DB00966,Gout
+DB00966,Headache
+DB00966,Cardiac disorder
+DB00966,Cardiac failure congestive
+DB00966,Haematuria
+DB00966,Haemorrhoids
+DB00966,Hypercholesterolaemia
+DB00966,Hyperhidrosis
+DB00966,Hyperkalaemia
+DB00966,Hypersensitivity
+DB00966,Hypertension
+DB00966,Hypoaesthesia
+DB00966,Hypoglycaemia
+DB00966,Hypokalaemia
+DB00966,Hypotension
+DB00966,Orthostatic hypotension
+DB00966,Immune system disorder
+DB00966,Intermittent claudication
+DB00966,Arthropathy
+DB00966,Osteoarthritis
+DB00966,Renal failure acute
+DB00966,Cramps of lower extremities
+DB00966,Muscle spasms
+DB00966,Leg pain
+DB00966,Pain in extremity
+DB00966,Liver disorder
+DB00966,Hepatocellular injury
+DB00966,Foetor hepaticus
+DB00966,Lung disorder
+DB00966,Mediastinal disorder
+DB00966,Melaena
+DB00966,Cramp muscle
+DB00966,Hypertonia
+DB00966,Fungal infection
+DB00966,Myocardial infarction
+DB00966,Acute coronary syndrome
+DB00966,Myositis
+DB00966,Nausea
+DB00966,Nervous system disorder
+DB00966,Nervousness
+DB00966,Tension
+DB00966,Otitis media
+DB00966,Pain
+DB00966,Palpitations
+DB00966,Paraesthesia
+DB00966,Neuropathy peripheral
+DB00966,Pharyngitis
+DB00966,Pneumonia
+DB00966,Pruritus
+DB00966,Purpura
+DB00966,Vascular purpura
+DB00966,Renal failure
+DB00966,Rhabdomyolysis
+DB00966,Rhinitis
+DB00966,Sciatica
+DB00966,Sinusitis
+DB00966,Skin disorder
+DB00966,Skin ulcer
+DB00966,Syncope
+DB00966,Loss of consciousness
+DB00966,Shock
+DB00966,Tachycardia
+DB00966,Tendonitis
+DB00966,Tenosynovitis
+DB00966,Thrombocytopenia
+DB00966,Tinnitus
+DB00966,Toothache
+DB00966,Erythema
+DB00966,Upper respiratory tract infection
+DB00966,Pollakiuria
+DB00966,Urinary tract infection
+DB00966,Micturition disorder
+DB00966,Urinary tract disorder
+DB00966,Urethral disorder
+DB00966,Urticaria
+DB00966,Vaginal inflammation
+DB00966,Vaginal infection
+DB00966,Angiopathy
+DB00966,Vertigo
+DB00966,Disorder sight
+DB00966,Visual impairment
+DB00966,Vomiting
+DB00966,Dry mouth
+DB00966,Oedema peripheral
+DB00966,Hepatic function abnormal
+DB00966,Plantar fasciitis
+DB00966,Migraine
+DB00966,Muscular weakness
+DB00966,Dry skin
+DB00966,Haemoglobin decreased
+DB00966,Malnutrition
+DB00966,Unspecified disorder of skin and subcutaneous tissue
+DB00966,Interstitial lung disease
+DB00966,Fatal outcomes
+DB00966,Red blood cell disorders
+DB00966,Malaise
+DB00966,Discomfort
+DB00966,Feeling abnormal
+DB00966,Ill-defined disorder
+DB00966,Myalgia
+DB00966,Tendon pain
+DB00966,Increased appetite
+DB00966,Muscle contractions involuntary
+DB00966,Upset stomach
+DB00966,Abdominal discomfort
+DB00966,Blood uric acid increased
+DB00966,Blood creatinine increased
+DB00966,Gravitational oedema
+DB00966,Hypertension worsened
+DB00966,Leg edema
+DB00966,Arthritis aggravated
+DB00966,Migraine aggravated
+DB00966,Hepatic enzyme increased
+DB00966,Electrocardiogram abnormal specific
+DB00966,Electrocardiogram abnormal
+DB00966,Edema of lower extremities
+DB00966,Diabetic
+DB00966,Diabetes mellitus
+DB00966,Erectile dysfunction
+DB00966,Sepsis
+DB00966,Hepatobiliary disease
+DB00966,Anxiety depression
+DB00966,Depression
+DB00966,Genital candidiasis
+DB00966,Enlargement abdomen
+DB00966,Abdominal distension
+DB00966,Influenza-like symptoms
+DB00966,Influenza like illness
+DB00966,Rigors
+DB00966,Chills
+DB00966,Bradycardia
+DB00966,Blood pressure increased
+DB00966,Toxic skin eruption
+DB00966,Face oedema
+DB00966,Visual disturbance
+DB00966,Cholesterol serum elevated
+DB00966,Blood cholesterol increased
+DB00966,Sweating increased
+DB00966,Hyperuricaemia
+DB00966,Infestation NOS
+DB00966,Infestation
+DB00966,Blood and lymphatic system disorders
+DB00966,Ear and labyrinth disorders
+DB00966,Blood creatine phosphokinase increased
+DB00966,Raised serum uric acid
+DB00966,Insomnia
+DB00966,Unspecified disorder of autonomic nervous system
+DB00966,Autonomic neuropathy
+DB00966,Renal impairment
+DB00966,Uric acid increased
+DB00966,Somnolence
+DB00966,Abnormal vision
+DB00973,Abdominal pain
+DB00973,Gastrointestinal pain
+DB00973,Alopecia
+DB00973,Amnesia
+DB00973,Anaphylactic shock
+DB00973,Anaemia
+DB00973,Angioedema
+DB00973,Arthralgia
+DB00973,Musculoskeletal discomfort
+DB00973,Arthritis
+DB00973,Asthenia
+DB00973,Back pain
+DB00973,Mental disorder
+DB00973,Bone disorder
+DB00973,Breast disorder
+DB00973,Neoplasm malignant
+DB00973,Neck pain
+DB00973,Chest pain
+DB00973,Cholecystitis
+DB00973,Cholelithiasis
+DB00973,Infection
+DB00973,Confusional state
+DB00973,Feeling abnormal
+DB00973,Connective tissue disorder
+DB00973,Constipation
+DB00973,Cough
+DB00973,Dermatomyositis
+DB00973,Diarrhoea
+DB00973,Dizziness
+DB00973,Dyspepsia
+DB00973,Dyspnoea
+DB00973,Eosinophilia
+DB00973,Erythema multiforme
+DB00973,Rash
+DB00973,Dermatitis
+DB00973,Fatigue
+DB00973,Body temperature increased
+DB00973,Flatulence
+DB00973,Flushing
+DB00973,Gallbladder disorder
+DB00973,Gastritis
+DB00973,Gastrooesophageal reflux disease
+DB00973,Gastrointestinal disorder
+DB00973,Headache
+DB00973,Hepatitis
+DB00973,Hypersensitivity
+DB00973,Hypertension
+DB00973,Immune system disorder
+DB00973,Inflammation
+DB00973,Influenza
+DB00973,Jaundice
+DB00973,Liver disorder
+DB00973,Hepatocellular injury
+DB00973,Foetor hepaticus
+DB00973,Mediastinal disorder
+DB00973,Cramp muscle
+DB00973,Muscle spasms
+DB00973,Myopathy
+DB00973,Nasopharyngitis
+DB00973,Nausea
+DB00973,Nervous system disorder
+DB00973,Pain
+DB00973,Pain in extremity
+DB00973,Palpitations
+DB00973,Pancreatitis
+DB00973,Panniculitis
+DB00973,Paraesthesia
+DB00973,Neuropathy peripheral
+DB00973,Pharyngitis
+DB00973,Polymyalgia rheumatica
+DB00973,Pruritus
+DB00973,Rhabdomyolysis
+DB00973,Sinusitis
+DB00973,Thrombocytopenia
+DB00973,Erythema
+DB00973,Upper respiratory tract infection
+DB00973,Urticaria
+DB00973,Angiopathy
+DB00973,Vasculitis
+DB00973,Viral infection
+DB00973,Vomiting
+DB00973,Dry mouth
+DB00973,Hepatic failure
+DB00973,Oedema peripheral
+DB00973,Creatine phosphokinase increased
+DB00973,Blood creatine phosphokinase increased
+DB00973,Red blood cell sedimentation rate increased
+DB00973,Gamma-glutamyltransferase increased
+DB00973,Liver function test abnormal
+DB00973,Muscular weakness
+DB00973,Phosphatase alkaline increased
+DB00973,Blood alkaline phosphatase increased
+DB00973,Aspartate aminotransferase increased
+DB00973,Alanine aminotransferase increased
+DB00973,Malnutrition
+DB00973,Unspecified disorder of skin and subcutaneous tissue
+DB00973,Skin disorder
+DB00973,Interstitial lung disease
+DB00973,Malaise
+DB00973,Discomfort
+DB00973,Ill-defined disorder
+DB00973,Myalgia
+DB00973,Decreased appetite
+DB00973,Memory impairment
+DB00973,Pain in arm
+DB00973,Erectile dysfunction
+DB00973,Hepatobiliary disease
+DB00973,Cholecystitis and cholelithiasis
+DB00973,Cognitive impairment
+DB00973,Cognitive disorder
+DB00973,Homozygous familial hypercholesterolaemia
+DB00973,Type IIa hyperlipidaemia
+DB00973,Heterozygous familial hypercholesterolemia
+DB00973,Photosensitivity
+DB00973,Photosensitivity reaction
+DB00973,Transaminases increased
+DB00973,Forgetfulness
+DB00973,Hypersensitive syndrome
+DB00973,Drug reaction with eosinophilia and systemic symptoms
+DB00973,Hot flush
+DB00973,Menopausal symptoms
+DB00973,Drug interaction
+DB00973,Memory loss
+DB00973,Infestation NOS
+DB00973,Infestation
+DB00973,Blood and lymphatic system disorders
+DB00973,Insomnia
+DB00973,Lupus-like syndrome
+DB00973,Immune-mediated necrotising myopathy
+DB00975,Abdominal cramps
+DB00975,Abdominal pain
+DB00975,Gastrointestinal pain
+DB00975,Alopecia
+DB00975,Anaemia
+DB00975,Angina pectoris
+DB00975,Angioedema
+DB00975,Anxiety
+DB00975,Arrhythmia
+DB00975,Arthralgia
+DB00975,Musculoskeletal discomfort
+DB00975,Arthritis
+DB00975,Asthenia
+DB00975,Atrial fibrillation
+DB00975,Atrioventricular block
+DB00975,Back pain
+DB00975,Bone disorder
+DB00975,Bronchospasm
+DB00975,Transient ischaemic attack
+DB00975,Chest pain
+DB00975,Pleuritic pain
+DB00975,Cholelithiasis
+DB00975,Coronary heart disease
+DB00975,Coronary artery disease
+DB00975,Cough
+DB00975,Dysphagia
+DB00975,Depersonalisation
+DB00975,Dermatitis
+DB00975,Diarrhoea
+DB00975,Dizziness
+DB00975,Dysgeusia
+DB00975,Dyspepsia
+DB00975,Dyspnoea
+DB00975,Ear pain
+DB00975,Oedema
+DB00975,Eructation
+DB00975,Rash
+DB00975,Fatigue
+DB00975,Flatulence
+DB00975,Flushing
+DB00975,Gastrointestinal disorder
+DB00975,Gastrointestinal haemorrhage
+DB00975,Headache
+DB00975,Cardiac arrest
+DB00975,Block heart
+DB00975,Cardiac disorder
+DB00975,Haemorrhage
+DB00975,Haemoglobin
+DB00975,Hepatitis
+DB00975,Hypersensitivity
+DB00975,Hypertension
+DB00975,Hyperventilation
+DB00975,Hypoaesthesia
+DB00975,Hypotension
+DB00975,Orthostatic hypotension
+DB00975,Immune system disorder
+DB00975,Intermittent claudication
+DB00975,Ischaemia
+DB00975,Laryngeal oedema
+DB00975,Laryngospasm
+DB00975,Breast pain
+DB00975,Mediastinal disorder
+DB00975,Cramp muscle
+DB00975,Muscle spasms
+DB00975,Hypertonia
+DB00975,Myocardial infarction
+DB00975,Acute coronary syndrome
+DB00975,Nausea
+DB00975,Nervous system disorder
+DB00975,Nervousness
+DB00975,Tension
+DB00975,Pain
+DB00975,Palpitations
+DB00975,Paraesthesia
+DB00975,Peptic ulcer
+DB00975,Pharyngitis
+DB00975,Pruritus
+DB00975,Pulmonary oedema
+DB00975,Rhinitis
+DB00975,Convulsion
+DB00975,Shoulder pain
+DB00975,Musculoskeletal pain
+DB00975,Cerebrovascular accident
+DB00975,Syncope
+DB00975,Loss of consciousness
+DB00975,Shock
+DB00975,Tachycardia
+DB00975,Supraventricular tachycardia
+DB00975,Thirst
+DB00975,Thrombocytopenia
+DB00975,Tinnitus
+DB00975,Tremor
+DB00975,Urticaria
+DB00975,Angiopathy
+DB00975,Ventricular fibrillation
+DB00975,Ventricular tachycardia
+DB00975,Vertigo
+DB00975,Vomiting
+DB00975,Dry mouth
+DB00975,Intraoperative hemorrhage
+DB00975,Procedural haemorrhage
+DB00975,Ventricular arrhythmia
+DB00975,Hepatic function abnormal
+DB00975,Migraine
+DB00975,Ventricular extrasystoles
+DB00975,Injection site reaction
+DB00975,Eye pain
+DB00975,Injection site pain
+DB00975,Unspecified disorder of skin and subcutaneous tissue
+DB00975,Skin disorder
+DB00975,Stomach ache
+DB00975,Abdominal pain upper
+DB00975,Malaise
+DB00975,Discomfort
+DB00975,Feeling abnormal
+DB00975,Ill-defined disorder
+DB00975,Distress
+DB00975,Emotional distress
+DB00975,Myalgia
+DB00975,Cardiac fibrillation
+DB00975,Increased appetite
+DB00975,Rectal tenesmus
+DB00975,Anorectal discomfort
+DB00975,Proctalgia
+DB00975,Abdominal distress
+DB00975,Abdominal discomfort
+DB00975,Perineal pain
+DB00975,Extrasystoles
+DB00975,Anaphylactoid reaction
+DB00975,Anaphylactic shock
+DB00975,Cardiac death
+DB00975,Gastric irritation
+DB00975,Epigastric discomfort
+DB00975,Rigors
+DB00975,Chills
+DB00975,Bradycardia
+DB00975,Tonic-clonic seizures
+DB00975,Grand mal convulsion
+DB00975,Coordination abnormal
+DB00975,Electrocardiogram abnormal
+DB00975,Sinus arrest
+DB00975,Renal pain
+DB00975,Hot flush
+DB00975,Menopausal symptoms
+DB00975,Sweating increased
+DB00975,Hyperhidrosis
+DB00975,Sustained ventricular tachycardia
+DB00975,Blood and lymphatic system disorders
+DB00975,Electrocardiogram change
+DB00975,Cardiomyopathy
+DB00975,Transient cerebral ischemia
+DB00975,Electrocardiogram ST-T change
+DB00975,Post procedural haemorrhage
+DB00975,Claudication
+DB00975,Dysphonia
+DB00975,Seizure cerebral
+DB00975,Somnolence
+DB00999,Abdominal pain
+DB00999,Gastrointestinal pain
+DB00999,Agranulocytosis
+DB00999,Airway obstruction NOS
+DB00999,Obstructive airways disorder
+DB00999,Alopecia
+DB00999,Anaphylactic shock
+DB00999,Anaemia
+DB00999,Aplastic anaemia
+DB00999,Haemolytic anaemia
+DB00999,Angina pectoris
+DB00999,Angioedema
+DB00999,Anorexia
+DB00999,Decreased appetite
+DB00999,Anxiety
+DB00999,Anxiety disorder
+DB00999,Arrhythmia
+DB00999,Arthralgia
+DB00999,Musculoskeletal discomfort
+DB00999,Arthritis
+DB00999,Asthenia
+DB00999,Ataxia
+DB00999,Atrial fibrillation
+DB00999,Back pain
+DB00999,Chest pain
+DB00999,Confusional state
+DB00999,Feeling abnormal
+DB00999,Conjunctivitis
+DB00999,Constipation
+DB00999,Cough
+DB00999,Libido decreased
+DB00999,Disturbance in sexual arousal
+DB00999,Dermatitis
+DB00999,Dermatitis exfoliative
+DB00999,Diarrhoea
+DB00999,Dizziness
+DB00999,Dysgeusia
+DB00999,Dyspepsia
+DB00999,Dyspnoea
+DB00999,Ecchymosis
+DB00999,Oedema
+DB00999,Toxic epidermal necrolysis
+DB00999,Epistaxis
+DB00999,Erythema multiforme
+DB00999,Rash
+DB00999,Body temperature increased
+DB00999,Fibromyalgia
+DB00999,Flatulence
+DB00999,Flushing
+DB00999,Gastritis
+DB00999,Glycosuria
+DB00999,Gout
+DB00999,Headache
+DB00999,Hepatitis
+DB00999,Coxalgia
+DB00999,Hyperglycaemia
+DB00999,Hyperkalaemia
+DB00999,Hypersensitivity
+DB00999,Hypoaesthesia
+DB00999,Hyponatraemia
+DB00999,Hypotension
+DB00999,Orthostatic hypotension
+DB00999,Jaundice
+DB00999,Jaundice cholestatic
+DB00999,Leg pain
+DB00999,Pain in extremity
+DB00999,Leukopenia
+DB00999,Cramp muscle
+DB00999,Muscle spasms
+DB00999,Musculoskeletal pain
+DB00999,Myocardial infarction
+DB00999,Acute coronary syndrome
+DB00999,Nasal congestion
+DB00999,Nausea
+DB00999,Nephritis interstitial
+DB00999,Tubulointerstitial nephritis
+DB00999,Nervousness
+DB00999,Tension
+DB00999,Nocturia
+DB00999,Palpitations
+DB00999,Pancreatitis
+DB00999,Panic disorder
+DB00999,Sinus disorder
+DB00999,Paraesthesia
+DB00999,Neuropathy peripheral
+DB00999,Pneumonia
+DB00999,Pruritus
+DB00999,Pulmonary oedema
+DB00999,Purpura
+DB00999,Vascular purpura
+DB00999,Henoch-Schonlein purpura
+DB00999,Renal failure
+DB00999,Rhabdomyolysis
+DB00999,Rhinitis
+DB00999,Shoulder pain
+DB00999,Sialoadenitis
+DB00999,Sinusitis
+DB00999,Stevens-Johnson syndrome
+DB00999,Sweating
+DB00999,Hyperhidrosis
+DB00999,Swelling
+DB00999,Syncope
+DB00999,Loss of consciousness
+DB00999,Shock
+DB00999,Tachycardia
+DB00999,Thrombocytopenia
+DB00999,Tinnitus
+DB00999,Toothache
+DB00999,Tremor
+DB00999,Erythema
+DB00999,Upper respiratory tract infection
+DB00999,Pollakiuria
+DB00999,Urinary tract infection
+DB00999,Urticaria
+DB00999,Vasculitis
+DB00999,Ventricular fibrillation
+DB00999,Ventricular tachycardia
+DB00999,Vertigo
+DB00999,Vomiting
+DB00999,Dry mouth
+DB00999,Sinus bradycardia
+DB00999,Agitation
+DB00999,Migraine
+DB00999,Blood urea increased
+DB00999,Muscular weakness
+DB00999,Dry skin
+DB00999,Joint swelling
+DB00999,Xanthopsia
+DB00999,Malaise
+DB00999,Discomfort
+DB00999,Ill-defined disorder
+DB00999,Myalgia
+DB00999,Knee pain
+DB00999,Memory impairment
+DB00999,Pain in arm
+DB00999,Erectile dysfunction
+DB00999,Cutaneous vasculitis
+DB00999,Atrioventricular block second degree
+DB00999,Electrolyte imbalance
+DB00999,Vision blurred
+DB00999,Photosensitivity
+DB00999,Photosensitivity reaction
+DB00999,Gastric irritation
+DB00999,Epigastric discomfort
+DB00999,Stiffness
+DB00999,Musculoskeletal stiffness
+DB00999,Respiratory distress
+DB00999,Face oedema
+DB00999,Angiitis necrotising
+DB00999,Vasculitis necrotising
+DB00999,Stinging
+DB00999,Pain
+DB00999,Serum creatinine increased
+DB00999,Blood creatinine increased
+DB00999,Hyperuricaemia
+DB00999,Blood uric acid increased
+DB00999,Dry cough
+DB00999,Sleep disorder
+DB00999,Persistent dry cough
+DB00999,Insomnia
+DB00999,Somnolence
+DB01016,Abdominal pain
+DB01016,Gastrointestinal pain
+DB01016,Lactic acidosis
+DB01016,Agranulocytosis
+DB01016,Alcoholism
+DB01016,Alcohol abuse
+DB01016,Alopecia
+DB01016,Anaemia
+DB01016,Aplastic anaemia
+DB01016,Haemolytic anaemia
+DB01016,Angioedema
+DB01016,Anorexia
+DB01016,Decreased appetite
+DB01016,Arthralgia
+DB01016,Musculoskeletal discomfort
+DB01016,Arthritis
+DB01016,Asthenia
+DB01016,Coagulopathy
+DB01016,Central nervous system disorder
+DB01016,Nervous system disorder
+DB01016,Cerebrovascular disorder
+DB01016,Cholestasis
+DB01016,Confusional state
+DB01016,Feeling abnormal
+DB01016,Deafness
+DB01016,Drug eruption
+DB01016,Diarrhoea
+DB01016,Diplopia
+DB01016,Dyspepsia
+DB01016,Dyspnoea
+DB01016,Oedema
+DB01016,Eosinophilia
+DB01016,Rash
+DB01016,Dermatitis
+DB01016,Eye disorder
+DB01016,Headache
+DB01016,Heartburn
+DB01016,Hepatitis
+DB01016,Hyperbilirubinaemia
+DB01016,Hypersensitivity
+DB01016,Hypoglycaemia
+DB01016,Hyponatraemia
+DB01016,Hypopituitarism
+DB01016,Hypotension
+DB01016,Hypotrichosis
+DB01016,Inappropriate antidiuretic hormone secretion
+DB01016,Jaundice
+DB01016,Jaundice cholestatic
+DB01016,Nephropathy
+DB01016,Renal failure acute
+DB01016,Leukopenia
+DB01016,Nausea
+DB01016,Pancreatitis
+DB01016,Pancytopenia
+DB01016,Paraesthesia
+DB01016,Pruritus
+DB01016,Purpura
+DB01016,Vascular purpura
+DB01016,Convulsion
+DB01016,Shock
+DB01016,Thrombocytopenia
+DB01016,Tremor
+DB01016,Erythema
+DB01016,Urticaria
+DB01016,Vasculitis
+DB01016,Vomiting
+DB01016,Encephalopathy
+DB01016,Hepatic failure
+DB01016,Dermatitis bullous
+DB01016,Hepatic function abnormal
+DB01016,Hepatitis cholestatic
+DB01016,Allergic cutaneous angiitis
+DB01016,Leukocytoclastic vasculitis
+DB01016,Kidney function abnormal
+DB01016,Renal impairment
+DB01016,Malnutrition
+DB01016,Porphyria hepatic
+DB01016,Porphyria non-acute
+DB01016,Porphyria cutanea tarda
+DB01016,Photosensitivity reaction
+DB01016,Erythropenia
+DB01016,Myalgia
+DB01016,Digestion impaired
+DB01016,Gastrointestinal disorder
+DB01016,Epigastric fullness
+DB01016,Abdominal distension
+DB01016,Sensation of pressure
+DB01016,Hepatitis granulomatous
+DB01016,Granulomatous liver disease
+DB01016,Acute psychosis
+DB01016,Eruption
+DB01016,Vision blurred
+DB01016,Blindness
+DB01016,Disulfiram like reaction
+DB01016,Alcohol intolerance
+DB01016,Reaction gastrointestinal
+DB01016,Visual disturbance
+DB01016,Visual impairment
+DB01016,Sweating increased
+DB01016,Hyperhidrosis
+DB01016,Myelosuppression
+DB01016,Thrombocytopenic purpura
+DB01023,Abdominal pain
+DB01023,Gastrointestinal pain
+DB01023,Anaemia
+DB01023,Angina pectoris
+DB01023,Angioedema
+DB01023,Anxiety disorder
+DB01023,Arrhythmia
+DB01023,Arthralgia
+DB01023,Musculoskeletal discomfort
+DB01023,Asthenia
+DB01023,Back pain
+DB01023,Bronchitis
+DB01023,Chest pain
+DB01023,Confusional state
+DB01023,Feeling abnormal
+DB01023,Constipation
+DB01023,Contusion
+DB01023,Cough
+DB01023,Libido decreased
+DB01023,Disturbance in sexual arousal
+DB01023,Diarrhoea
+DB01023,Dizziness
+DB01023,Dyspepsia
+DB01023,Dyspnoea
+DB01023,Dysuria
+DB01023,Epistaxis
+DB01023,Erythema multiforme
+DB01023,Erythema nodosum
+DB01023,Rash
+DB01023,Dermatitis
+DB01023,Fatigue
+DB01023,Body temperature increased
+DB01023,Flatulence
+DB01023,Flushing
+DB01023,Foot pain
+DB01023,Pain in extremity
+DB01023,Gingival hyperplasia
+DB01023,Gynaecomastia
+DB01023,Headache
+DB01023,Coxalgia
+DB01023,Hyperplasia
+DB01023,Hypersensitivity
+DB01023,Salivary gland enlargement
+DB01023,Orthostatic hypotension
+DB01023,Influenza
+DB01023,Irritability
+DB01023,Leg pain
+DB01023,Cramp muscle
+DB01023,Muscle spasms
+DB01023,Nausea
+DB01023,Nervousness
+DB01023,Tension
+DB01023,Palpitations
+DB01023,Paraesthesia
+DB01023,Pharyngitis
+DB01023,Polyuria
+DB01023,Urine output increased
+DB01023,Pruritus
+DB01023,Respiratory tract infection
+DB01023,Sinusitis
+DB01023,Sneezing
+DB01023,Cerebrovascular accident
+DB01023,Swelling
+DB01023,Syncope
+DB01023,Loss of consciousness
+DB01023,Shock
+DB01023,Tachycardia
+DB01023,Tremor
+DB01023,Erythema
+DB01023,Upper respiratory tract infection
+DB01023,Pollakiuria
+DB01023,Urticaria
+DB01023,Vasodilation
+DB01023,Vasodilation procedure
+DB01023,Vertigo
+DB01023,Vomiting
+DB01023,Dry mouth
+DB01023,Micturition urgency
+DB01023,Oedema peripheral
+DB01023,Hepatitis cholestatic
+DB01023,Allergic cutaneous angiitis
+DB01023,Leukocytoclastic vasculitis
+DB01023,Photosensitivity reaction
+DB01023,Myalgia
+DB01023,Knee pain
+DB01023,Feeling cold
+DB01023,Tenderness
+DB01023,Upset stomach
+DB01023,Abdominal discomfort
+DB01023,Ankle edema
+DB01023,Joint swelling
+DB01023,Pain in arm
+DB01023,Erectile dysfunction
+DB01023,Atrioventricular block second degree
+DB01023,Extrasystoles
+DB01023,Bradycardia
+DB01023,Influenza like illness
+DB01023,Face oedema
+DB01023,Visual disturbance
+DB01023,Visual impairment
+DB01023,Sensation of warmth
+DB01023,Feeling hot
+DB01023,Sexual dysfunction
+DB01023,Insomnia
+DB01023,Transaminases decreased
+DB01023,Rhinorrhoea
+DB01023,Nasopharyngitis
+DB01023,Regurgitation
+DB01023,Tingling sensation
+DB01023,Somnolence
+DB01023,Loss of libido
+DB01029,Abdominal distension
+DB01029,Abdominal pain
+DB01029,Gastrointestinal pain
+DB01029,Agranulocytosis
+DB01029,Anaphylactic shock
+DB01029,Anaemia
+DB01029,Aplastic anaemia
+DB01029,Haemolytic anaemia
+DB01029,Angina pectoris
+DB01029,Angioedema
+DB01029,Anorexia
+DB01029,Decreased appetite
+DB01029,Anxiety
+DB01029,Arrhythmia
+DB01029,Arthralgia
+DB01029,Musculoskeletal discomfort
+DB01029,Arthritis
+DB01029,Asthenia
+DB01029,Asthma
+DB01029,Breast disorder
+DB01029,Breast feeding
+DB01029,Bursitis
+DB01029,Transient ischaemic attack
+DB01029,Chest pain
+DB01029,Common cold
+DB01029,Nasopharyngitis
+DB01029,Rhinitis
+DB01029,Infection
+DB01029,Conjunctivitis
+DB01029,Connective tissue disorder
+DB01029,Constipation
+DB01029,Cough
+DB01029,Dysphagia
+DB01029,Dermatitis
+DB01029,Diabetes mellitus
+DB01029,Diarrhoea
+DB01029,Distention
+DB01029,Dizziness
+DB01029,Dysgeusia
+DB01029,Dyspepsia
+DB01029,Dyspnoea
+DB01029,Ear pain
+DB01029,Ecchymosis
+DB01029,Oedema
+DB01029,Emotional disturbance NOS
+DB01029,Emotional disorder
+DB01029,Toxic epidermal necrolysis
+DB01029,Epistaxis
+DB01029,Oesophagitis
+DB01029,Rash
+DB01029,Fatigue
+DB01029,Body temperature increased
+DB01029,Flatulence
+DB01029,Flushing
+DB01029,Gastroenteritis
+DB01029,Gastrooesophageal reflux disease
+DB01029,Gastrointestinal disorder
+DB01029,Glycosuria
+DB01029,Gout
+DB01029,Seasonal allergy
+DB01029,Rhinitis seasonal
+DB01029,Headache
+DB01029,Cardiac disorder
+DB01029,Cardiac murmur
+DB01029,Heartburn
+DB01029,Hepatitis
+DB01029,Hyperglycaemia
+DB01029,Hyperhidrosis
+DB01029,Hyperkalaemia
+DB01029,Hypersensitivity
+DB01029,Hypertension
+DB01029,Hypertensive crisis
+DB01029,Hypokalaemia
+DB01029,Hyponatraemia
+DB01029,Hypotension
+DB01029,Orthostatic hypotension
+DB01029,Immune system disorder
+DB01029,Influenza
+DB01029,Jaundice
+DB01029,Jaundice cholestatic
+DB01029,Nephropathy
+DB01029,Labyrinthine disorder
+DB01029,Inner ear disorder
+DB01029,Leukopenia
+DB01029,Lymphopenia
+DB01029,Mediastinal disorder
+DB01029,Cramp muscle
+DB01029,Muscle spasms
+DB01029,Muscle atrophy
+DB01029,Musculoskeletal pain
+DB01029,Myocardial infarction
+DB01029,Acute coronary syndrome
+DB01029,Myositis
+DB01029,Nausea
+DB01029,Nephritis interstitial
+DB01029,Tubulointerstitial nephritis
+DB01029,Nervous system disorder
+DB01029,Nervousness
+DB01029,Tension
+DB01029,Neutropenia
+DB01029,Numbness
+DB01029,Sensory loss
+DB01029,Hypoaesthesia
+DB01029,Pain
+DB01029,Pancreatitis
+DB01029,Paraesthesia
+DB01029,Pharyngitis
+DB01029,Pneumonia
+DB01029,Prostatic disorder
+DB01029,Proteinuria
+DB01029,Protein urine present
+DB01029,Pruritus
+DB01029,Pulmonary oedema
+DB01029,Reflexes abnormal
+DB01029,Renal failure
+DB01029,Rhabdomyolysis
+DB01029,Sialoadenitis
+DB01029,Sleep disturbance
+DB01029,Sleep disorder
+DB01029,Stress
+DB01029,Cerebrovascular accident
+DB01029,Swelling
+DB01029,Syncope
+DB01029,Loss of consciousness
+DB01029,Shock
+DB01029,Tachycardia
+DB01029,Thrombocytopenia
+DB01029,Tinnitus
+DB01029,Tracheobronchitis
+DB01029,Tremor
+DB01029,Erythema
+DB01029,Upper respiratory tract infection
+DB01029,Urinary tract infection
+DB01029,Urinary tract disorder
+DB01029,Urethral disorder
+DB01029,Urticaria
+DB01029,Angiopathy
+DB01029,Vasculitis
+DB01029,Vertigo
+DB01029,Vomiting
+DB01029,Weight increased
+DB01029,Wheezing
+DB01029,Trauma
+DB01029,Injury
+DB01029,Dry mouth
+DB01029,Essential hypertension
+DB01029,Chills
+DB01029,Agitation
+DB01029,Mood swings
+DB01029,Affect lability
+DB01029,Hepatic function abnormal
+DB01029,Oral lesion
+DB01029,Oral disorder
+DB01029,Blood urea increased
+DB01029,Creatine phosphokinase increased
+DB01029,Blood creatine phosphokinase increased
+DB01029,Muscular weakness
+DB01029,Bone pain
+DB01029,Abnormalities of the hair
+DB01029,Hair disorder
+DB01029,Swelling of limb
+DB01029,Local swelling
+DB01029,Abnormal faeces
+DB01029,Joint stiffness
+DB01029,Malnutrition
+DB01029,Photosensitivity reaction
+DB01029,Unspecified disorder of skin and subcutaneous tissue
+DB01029,Skin disorder
+DB01029,Lightheadedness
+DB01029,Xanthopsia
+DB01029,Malaise
+DB01029,Discomfort
+DB01029,Feeling abnormal
+DB01029,Ill-defined disorder
+DB01029,Myalgia
+DB01029,Atrial rhythm
+DB01029,Arrhythmia supraventricular
+DB01029,Increased appetite
+DB01029,Epigastric pain
+DB01029,Abdominal pain upper
+DB01029,Excitement
+DB01029,Feeling cold
+DB01029,Tenderness
+DB01029,Dizziness postural
+DB01029,Erythema facial
+DB01029,Neck oedema of
+DB01029,Localised oedema
+DB01029,Diabetic
+DB01029,Pulmonary congestion
+DB01029,Respiratory tract congestion
+DB01029,Cutaneous vasculitis
+DB01029,Conduction disorder
+DB01029,Hepatobiliary disease
+DB01029,Electrolyte imbalance
+DB01029,Vision blurred
+DB01029,Photosensitivity
+DB01029,Gastric irritation
+DB01029,Epigastric discomfort
+DB01029,Chronic renal insufficiency
+DB01029,Renal impairment
+DB01029,Renal failure chronic
+DB01029,Stiffness
+DB01029,Musculoskeletal stiffness
+DB01029,Bradycardia
+DB01029,Blindness
+DB01029,Respiratory distress
+DB01029,Musculoskeletal chest pain
+DB01029,Blood pressure increased
+DB01029,Upper limb oedema
+DB01029,Oedema peripheral
+DB01029,Bad taste
+DB01029,Face oedema
+DB01029,Visual disturbance
+DB01029,Visual impairment
+DB01029,Sensation of warmth
+DB01029,Feeling hot
+DB01029,Sexual dysfunction
+DB01029,Angiitis necrotising
+DB01029,Vasculitis necrotising
+DB01029,Limb paresis
+DB01029,Monoparesis
+DB01029,Hot flush
+DB01029,Menopausal symptoms
+DB01029,Cardio-respiratory arrest
+DB01029,Drug interaction
+DB01029,Anorectal disorder
+DB01029,Ear infection
+DB01029,Rhythm idioventricular
+DB01029,Ventricular arrhythmia
+DB01029,Hyperuricaemia
+DB01029,Blood uric acid increased
+DB01029,Ear and labyrinth disorders
+DB01029,General disorders and administration site conditions
+DB01029,Coordination disturbance
+DB01029,Coordination abnormal
+DB01029,Skin discomfort
+DB01029,Raised liver function tests
+DB01029,Liver function test abnormal
+DB01029,Myasthenia
+DB01029,Brown urine
+DB01029,Chromaturia
+DB01029,Somnolence
+DB01029,Leukocytoclastic vasculitis
+DB01039,Abdominal pain
+DB01039,Gastrointestinal pain
+DB01039,Alopecia
+DB01039,Amblyopia
+DB01039,Anaemia
+DB01039,Angina pectoris
+DB01039,Anorexia
+DB01039,Decreased appetite
+DB01039,Anxiety
+DB01039,Arrhythmia
+DB01039,Arthralgia
+DB01039,Musculoskeletal discomfort
+DB01039,Arthritis
+DB01039,Asthenia
+DB01039,Asthma
+DB01039,Atherosclerosis
+DB01039,Arteriosclerosis
+DB01039,Atrial fibrillation
+DB01039,Back pain
+DB01039,Mental disorder
+DB01039,Blister
+DB01039,Dermatitis bullous
+DB01039,Bone disorder
+DB01039,Breast feeding
+DB01039,Bronchitis
+DB01039,Bursitis
+DB01039,Vaginal moniliasis
+DB01039,Vulvovaginal candidiasis
+DB01039,Vulvovaginal mycotic infection
+DB01039,Cardiovascular disorder
+DB01039,Chest pain
+DB01039,Cholecystitis
+DB01039,Cholelithiasis
+DB01039,Colitis
+DB01039,Infection
+DB01039,Conjunctivitis
+DB01039,Connective tissue disorder
+DB01039,Constipation
+DB01039,Cough
+DB01039,Cystitis
+DB01039,Cystitis noninfective
+DB01039,Bladder pain
+DB01039,Libido decreased
+DB01039,Disturbance in sexual arousal
+DB01039,Dermatitis contact
+DB01039,Fungal skin infection
+DB01039,Diarrhoea
+DB01039,Dizziness
+DB01039,Duodenal ulcer
+DB01039,Dyspepsia
+DB01039,Dyspnoea
+DB01039,Dysuria
+DB01039,Ear pain
+DB01039,Ecchymosis
+DB01039,Eczema
+DB01039,Oedema
+DB01039,Eosinophilia
+DB01039,Eructation
+DB01039,Oesophagitis
+DB01039,Rash
+DB01039,Dermatitis
+DB01039,Eye disorder
+DB01039,Fatigue
+DB01039,Body temperature increased
+DB01039,Flatulence
+DB01039,Gastritis
+DB01039,Gastroenteritis
+DB01039,Gastrointestinal disorder
+DB01039,Gout
+DB01039,Gynaecomastia
+DB01039,Headache
+DB01039,Cardiac disorder
+DB01039,Hepatitis
+DB01039,Hernia
+DB01039,Herpes NOS
+DB01039,Herpes virus infection
+DB01039,Herpes simplex
+DB01039,Herpes zoster
+DB01039,Hypersensitivity
+DB01039,Hypertension
+DB01039,Hypoglycaemia
+DB01039,Hypotension
+DB01039,Influenza
+DB01039,Unspecified disorder of intestine
+DB01039,Jaundice
+DB01039,Arthropathy
+DB01039,Osteoarthritis
+DB01039,Renal failure acute
+DB01039,Laryngitis
+DB01039,Cramps of lower extremities
+DB01039,Muscle spasms
+DB01039,Leukopenia
+DB01039,Mediastinal disorder
+DB01039,Cramp muscle
+DB01039,Hypertonia
+DB01039,Myopathy
+DB01039,Musculoskeletal pain
+DB01039,Myocardial infarction
+DB01039,Acute coronary syndrome
+DB01039,Myositis
+DB01039,Nail disorder
+DB01039,Nasopharyngitis
+DB01039,Nausea
+DB01039,Nervous system disorder
+DB01039,Nervousness
+DB01039,Tension
+DB01039,Neuralgia
+DB01039,Otitis media
+DB01039,Pain
+DB01039,Pain in extremity
+DB01039,Palpitations
+DB01039,Pancreatitis
+DB01039,Paraesthesia
+DB01039,Peptic ulcer
+DB01039,Pharyngitis
+DB01039,Phlebitis
+DB01039,Pneumonia
+DB01039,Prostatic disorder
+DB01039,Pruritus
+DB01039,Pulmonary embolism
+DB01039,Rectal disorder
+DB01039,Anorectal disorder
+DB01039,Refraction disorder
+DB01039,Renal failure
+DB01039,Rhabdomyolysis
+DB01039,Rhinitis
+DB01039,Sinusitis
+DB01039,Skin disorder
+DB01039,Skin ulcer
+DB01039,Sweating
+DB01039,Hyperhidrosis
+DB01039,Tachycardia
+DB01039,Tenosynovitis
+DB01039,Thrombocytopenia
+DB01039,Thromboembolism
+DB01039,Embolism
+DB01039,Embolism venous
+DB01039,Tooth disorder
+DB01039,Unintended pregnancy
+DB01039,Erythema
+DB01039,Upper respiratory tract infection
+DB01039,Pollakiuria
+DB01039,Urinary tract infection
+DB01039,Urticaria
+DB01039,Varicose vein
+DB01039,Angiopathy
+DB01039,Vasodilation
+DB01039,Vasodilation procedure
+DB01039,Vertigo
+DB01039,Vomiting
+DB01039,Weight increased
+DB01039,Weight decreased
+DB01039,Dry mouth
+DB01039,Peripheral vascular disorder
+DB01039,Oedema peripheral
+DB01039,Deep vein thrombosis
+DB01039,Migraine
+DB01039,Blood urea increased
+DB01039,Cataract specified
+DB01039,Cataract
+DB01039,Creatine phosphokinase increased
+DB01039,Blood creatine phosphokinase increased
+DB01039,Creatinine increased
+DB01039,Blood creatinine increased
+DB01039,Ventricular extrasystoles
+DB01039,Gamma-glutamyltransferase increased
+DB01039,Accidental injury
+DB01039,Injury
+DB01039,Kidney function abnormal
+DB01039,Renal impairment
+DB01039,Lactic dehydrogenase activity increased
+DB01039,Blood lactate dehydrogenase increased
+DB01039,Liver fatty deposition
+DB01039,Hepatic steatosis
+DB01039,Liver function test abnormal
+DB01039,Muscular weakness
+DB01039,Phosphatase alkaline increased
+DB01039,Blood alkaline phosphatase increased
+DB01039,Aspartate aminotransferase increased
+DB01039,Alanine aminotransferase increased
+DB01039,Malnutrition
+DB01039,Photosensitivity reaction
+DB01039,Unspecified disorder of skin and subcutaneous tissue
+DB01039,Epigastric distress
+DB01039,Malaise
+DB01039,Discomfort
+DB01039,Feeling abnormal
+DB01039,Ill-defined disorder
+DB01039,Myalgia
+DB01039,Increased appetite
+DB01039,Hepatic enzyme increased
+DB01039,Erectile dysfunction
+DB01039,Rectal haemorrhage
+DB01039,Hepatobiliary disease
+DB01039,Blood bilirubin increased
+DB01039,Extrasystoles
+DB01039,Photosensitivity
+DB01039,Rash maculo-papular
+DB01039,Laboratory test abnormal
+DB01039,Urolithiasis
+DB01039,Calculus urinary
+DB01039,Lymphadenopathy
+DB01039,Electrocardiogram abnormal
+DB01039,Cough increased
+DB01039,Cutaneous hypersensitivity
+DB01039,Dermatitis atopic
+DB01039,Drug interaction
+DB01039,Serum creatinine increased
+DB01039,Acne
+DB01039,Hyperuricaemia
+DB01039,Blood uric acid increased
+DB01039,Infestation NOS
+DB01039,Infestation
+DB01039,Blood and lymphatic system disorders
+DB01039,Pulmonary alveolitis
+DB01039,Alveolitis
+DB01039,Unwell
+DB01039,Thromboembolic event
+DB01039,Plasma creatinine increased
+DB01039,Pharyngolaryngeal pain
+DB01039,Laryngeal pain
+DB01039,Raised liver function tests
+DB01039,Insomnia
+DB01039,Myasthenia
+DB01039,Venous thromboembolism
+DB01039,Coronary artery disease
+DB01039,Somnolence
+DB01039,Abnormal vision
+DB01039,Visual impairment
+DB01067,Abdominal pain
+DB01067,Gastrointestinal pain
+DB01067,Agranulocytosis
+DB01067,Aplastic anaemia
+DB01067,Haemolytic anaemia
+DB01067,Anorexia
+DB01067,Decreased appetite
+DB01067,Anxiety
+DB01067,Arrhythmia
+DB01067,Arthralgia
+DB01067,Musculoskeletal discomfort
+DB01067,Asthenia
+DB01067,Confusional state
+DB01067,Feeling abnormal
+DB01067,Conjunctivitis
+DB01067,Constipation
+DB01067,Libido decreased
+DB01067,Disturbance in sexual arousal
+DB01067,Diarrhoea
+DB01067,Diplopia
+DB01067,Dizziness
+DB01067,Drowsiness
+DB01067,Somnolence
+DB01067,Dyspepsia
+DB01067,Dyspnoea
+DB01067,Dysuria
+DB01067,Eczema
+DB01067,Oedema
+DB01067,Rash
+DB01067,Dermatitis
+DB01067,Eye disorder
+DB01067,Flatulence
+DB01067,Flushing
+DB01067,Gastrointestinal haemorrhage
+DB01067,Headache
+DB01067,Hepatitis
+DB01067,Hypersensitivity
+DB01067,Hypertension
+DB01067,Hypoaesthesia
+DB01067,Hypoglycaemia
+DB01067,Hyponatraemia
+DB01067,Inappropriate antidiuretic hormone secretion
+DB01067,Jaundice
+DB01067,Jaundice cholestatic
+DB01067,Cramps of lower extremities
+DB01067,Muscle spasms
+DB01067,Leukopenia
+DB01067,Liver disorder
+DB01067,Hepatocellular injury
+DB01067,Foetor hepaticus
+DB01067,Hypertonia
+DB01067,Nausea
+DB01067,Nervousness
+DB01067,Tension
+DB01067,Pain
+DB01067,Pancytopenia
+DB01067,Paraesthesia
+DB01067,Pharyngitis
+DB01067,Polyuria
+DB01067,Urine output increased
+DB01067,Pruritus
+DB01067,Retinal haemorrhage
+DB01067,Rhinitis
+DB01067,Sweating
+DB01067,Hyperhidrosis
+DB01067,Syncope
+DB01067,Loss of consciousness
+DB01067,Shock
+DB01067,Thirst
+DB01067,Thrombocytopenia
+DB01067,Tremor
+DB01067,Erythema
+DB01067,Urticaria
+DB01067,Vertigo
+DB01067,Vomiting
+DB01067,Chills
+DB01067,Hepatic function abnormal
+DB01067,Migraine
+DB01067,Liver injury
+DB01067,Traumatic liver injury
+DB01067,Porphyria hepatic
+DB01067,Porphyria non-acute
+DB01067,Porphyria cutanea tarda
+DB01067,Photosensitivity reaction
+DB01067,Stomach ache
+DB01067,Abdominal pain upper
+DB01067,Malaise
+DB01067,Discomfort
+DB01067,Ill-defined disorder
+DB01067,Myalgia
+DB01067,Digestion impaired
+DB01067,Gastrointestinal disorder
+DB01067,Hepatobiliary disease
+DB01067,Eruption
+DB01067,Vision blurred
+DB01067,Disulfiram like reaction
+DB01067,Alcohol intolerance
+DB01067,Visual disturbance
+DB01067,Visual impairment
+DB01067,Gait disturbance
+DB01067,Insomnia
+DB01067,Blood in stool
+DB01067,Haematochezia
+DB01067,Gastrointestinal tract irritation
+DB01067,Abdominal discomfort
+DB01067,Abnormal vision
+DB01115,Abdominal pain
+DB01115,Gastrointestinal pain
+DB01115,Agranulocytosis
+DB01115,Alopecia
+DB01115,Amblyopia
+DB01115,Amnesia
+DB01115,Anaphylactic shock
+DB01115,Anaemia
+DB01115,Haemolytic anaemia
+DB01115,Angina pectoris
+DB01115,Angioedema
+DB01115,Anorexia
+DB01115,Decreased appetite
+DB01115,Anxiety
+DB01115,Arrhythmia
+DB01115,Arthralgia
+DB01115,Musculoskeletal discomfort
+DB01115,Arthritis
+DB01115,Asthenia
+DB01115,Ataxia
+DB01115,Atrial fibrillation
+DB01115,Back pain
+DB01115,Mental disorder
+DB01115,Blister
+DB01115,Dermatitis bullous
+DB01115,Breast disorder
+DB01115,Bronchospasm
+DB01115,Cardiovascular disorder
+DB01115,Cellulitis
+DB01115,Neck pain
+DB01115,Chest pain
+DB01115,Cholestasis
+DB01115,Cholestasis intrahepatic
+DB01115,Coma
+DB01115,Confusional state
+DB01115,Feeling abnormal
+DB01115,Conjunctivitis
+DB01115,Connective tissue disorder
+DB01115,Constipation
+DB01115,Cough
+DB01115,Libido decreased
+DB01115,Disturbance in sexual arousal
+DB01115,Dysphagia
+DB01115,Dermatitis
+DB01115,Dermatitis exfoliative
+DB01115,Diarrhoea
+DB01115,Diplopia
+DB01115,Dizziness
+DB01115,Dysgeusia
+DB01115,Dyspepsia
+DB01115,Dyspnoea
+DB01115,Dysuria
+DB01115,Oedema
+DB01115,Eosinophilia
+DB01115,Toxic epidermal necrolysis
+DB01115,Epistaxis
+DB01115,Eructation
+DB01115,Erythema multiforme
+DB01115,Erythromelalgia
+DB01115,Oesophagitis
+DB01115,Rash
+DB01115,Eye disorder
+DB01115,Eye haemorrhage
+DB01115,Fatigue
+DB01115,Body temperature increased
+DB01115,Flatulence
+DB01115,Flushing
+DB01115,Gastrooesophageal reflux disease
+DB01115,Gastrointestinal haemorrhage
+DB01115,Gingival disorder
+DB01115,Gingival bleeding
+DB01115,Gingival hyperplasia
+DB01115,Gingivitis
+DB01115,Gout
+DB01115,Gynaecomastia
+DB01115,Headache
+DB01115,Cardiac arrest
+DB01115,Cardiac disorder
+DB01115,Cardiac failure
+DB01115,Cardiac failure congestive
+DB01115,Heartburn
+DB01115,Haematuria
+DB01115,Haemorrhage
+DB01115,Haemoglobin
+DB01115,Hepatitis
+DB01115,Hyperglycaemia
+DB01115,Hypersensitivity
+DB01115,Malignant hypertension
+DB01115,Hypoaesthesia
+DB01115,Hypotension
+DB01115,Orthostatic hypotension
+DB01115,Immune system disorder
+DB01115,Inflammation
+DB01115,Intestinal obstruction
+DB01115,Jaundice
+DB01115,Arthropathy
+DB01115,Osteoarthritis
+DB01115,Calculus of kidney
+DB01115,Nephrolithiasis
+DB01115,Laryngeal oedema
+DB01115,Cramps of lower extremities
+DB01115,Muscle spasms
+DB01115,Leg pain
+DB01115,Pain in extremity
+DB01115,Leukopenia
+DB01115,Breast pain
+DB01115,Mediastinal disorder
+DB01115,Melaena
+DB01115,Menstrual disorder
+DB01115,Cramp muscle
+DB01115,Hypertonia
+DB01115,Myopathy
+DB01115,Nasal congestion
+DB01115,Nausea
+DB01115,Nervous system disorder
+DB01115,Nervousness
+DB01115,Tension
+DB01115,Nightmare
+DB01115,Nocturia
+DB01115,Oliguria
+DB01115,Pain
+DB01115,Palpitations
+DB01115,Paraesthesia
+DB01115,Pelvic pain
+DB01115,Petechiae
+DB01115,Pharyngitis
+DB01115,Phlebitis
+DB01115,Polyuria
+DB01115,Urine output increased
+DB01115,Pruritus
+DB01115,Pulmonary oedema
+DB01115,Purpura
+DB01115,Vascular purpura
+DB01115,Rales
+DB01115,Rhinitis
+DB01115,Cardiogenic shock
+DB01115,Sinusitis
+DB01115,Skin disorder
+DB01115,Sleep disturbance
+DB01115,Sleep disorder
+DB01115,Stevens-Johnson syndrome
+DB01115,Stridor
+DB01115,Sweating
+DB01115,Hyperhidrosis
+DB01115,Syncope
+DB01115,Loss of consciousness
+DB01115,Shock
+DB01115,Tachycardia
+DB01115,Thirst
+DB01115,Thrombocytopenia
+DB01115,Tinnitus
+DB01115,Tremor
+DB01115,Ulcer
+DB01115,Erythema
+DB01115,Upper respiratory tract infection
+DB01115,Pollakiuria
+DB01115,Urinary incontinence
+DB01115,Urinary tract disorder
+DB01115,Urethral disorder
+DB01115,Urticaria
+DB01115,Angiopathy
+DB01115,Vasodilation
+DB01115,Vasodilation procedure
+DB01115,Vertigo
+DB01115,Vomiting
+DB01115,Weight increased
+DB01115,Weight decreased
+DB01115,Wheezing
+DB01115,Dry mouth
+DB01115,Urogenital disorder
+DB01115,Chills
+DB01115,Ventricular arrhythmia
+DB01115,Mood swings
+DB01115,Affect lability
+DB01115,Rash pustular
+DB01115,Oedema peripheral
+DB01115,Breast engorgement
+DB01115,Migraine
+DB01115,Palpable purpura
+DB01115,Periorbital oedema
+DB01115,Gamma-glutamyltransferase increased
+DB01115,Myocardial ischaemia
+DB01115,Liver function test abnormal
+DB01115,Retrosternal pain
+DB01115,Eye pain
+DB01115,Vesiculobullous rash
+DB01115,Alanine aminotransferase increased
+DB01115,Intestinal ulcer
+DB01115,Joint swelling
+DB01115,Blindness transient
+DB01115,Acute pulmonary oedema
+DB01115,Joint stiffness
+DB01115,Malnutrition
+DB01115,Photosensitivity reaction
+DB01115,Unspecified disorder of skin and subcutaneous tissue
+DB01115,Lightheadedness
+DB01115,Metabolic acidosis
+DB01115,Malaise
+DB01115,Discomfort
+DB01115,Ill-defined disorder
+DB01115,Myalgia
+DB01115,Muscle twitching
+DB01115,Sensation of heat
+DB01115,Feeling hot
+DB01115,Tenderness
+DB01115,Consciousness abnormal
+DB01115,Altered state of consciousness
+DB01115,Rash erythematous
+DB01115,Neurological symptom
+DB01115,Cerebration impaired
+DB01115,Mental disability
+DB01115,Disturbance in attention
+DB01115,Angina pectoris aggravated
+DB01115,Lacrimation abnormal NOS
+DB01115,Lacrimal disorder
+DB01115,Photosensitivity allergic reaction
+DB01115,Gastrointestinal obstruction
+DB01115,Pulmonary congestion
+DB01115,Respiratory tract congestion
+DB01115,Erectile dysfunction
+DB01115,Throat sore
+DB01115,Oropharyngeal discomfort
+DB01115,Oropharyngeal pain
+DB01115,Hepatobiliary disease
+DB01115,Extrasystoles
+DB01115,Anaphylactoid reaction
+DB01115,Vision blurred
+DB01115,Enlargement abdomen
+DB01115,Abdominal distension
+DB01115,Dysaesthesia
+DB01115,Shakiness
+DB01115,Chronic renal insufficiency
+DB01115,Renal impairment
+DB01115,Renal failure chronic
+DB01115,Rash maculo-papular
+DB01115,Hyperkinesia
+DB01115,Agitation
+DB01115,Rigors
+DB01115,Gastrointestinal symptom NOS
+DB01115,Gastrointestinal disorder
+DB01115,Bradycardia
+DB01115,Laboratory test abnormal
+DB01115,Lymphadenopathy
+DB01115,Blood pressure increased
+DB01115,Face oedema
+DB01115,Hypovolaemia
+DB01115,Visual disturbance
+DB01115,Visual impairment
+DB01115,Feeling jittery
+DB01115,Rebound effect
+DB01115,Sexual dysfunction
+DB01115,Cough increased
+DB01115,Hot flush
+DB01115,Menopausal symptoms
+DB01115,Sweating increased
+DB01115,Intoxication
+DB01115,Poisoning
+DB01115,Unilateral vision loss
+DB01115,Blindness unilateral
+DB01115,Allergic oedema
+DB01115,Blood and lymphatic system disorders
+DB01115,Oropharyngeal swelling
+DB01115,Acute generalised exanthematous pustulosis
+DB01115,Insomnia
+DB01115,Myasthenia
+DB01115,Muscular weakness
+DB01115,Urine output
+DB01115,Bezoar
+DB01115,Gastrooesophageal sphincter insufficiency
+DB01115,Allergic hepatitis
+DB01115,Gastrointestinal tract irritation
+DB01115,Abdominal discomfort
+DB01115,Somnolence
+DB01115,Abnormal vision
+DB01120,Abdominal pain
+DB01120,Gastrointestinal pain
+DB01120,Pancreatitis acute
+DB01120,Aggression
+DB01120,Agranulocytosis
+DB01120,Albuminuria
+DB01120,Alcoholism
+DB01120,Alcohol abuse
+DB01120,Anaemia
+DB01120,Haemolytic anaemia
+DB01120,Angina pectoris
+DB01120,Angioedema
+DB01120,Anxiety
+DB01120,Aphasia
+DB01120,Arrhythmia
+DB01120,Arteritis
+DB01120,Arthralgia
+DB01120,Musculoskeletal discomfort
+DB01120,Arthritis
+DB01120,Asthenia
+DB01120,Asthma
+DB01120,Back pain
+DB01120,Balanoposthitis
+DB01120,Mental disorder
+DB01120,Bronchitis
+DB01120,Bursitis
+DB01120,Carcinoma
+DB01120,Neoplasm malignant
+DB01120,Carpal tunnel syndrome
+DB01120,Central nervous system disorder
+DB01120,Nervous system disorder
+DB01120,Cerebrovascular disorder
+DB01120,Chest pain
+DB01120,Cholestasis
+DB01120,Colitis
+DB01120,Coma
+DB01120,Infection
+DB01120,Confusional state
+DB01120,Feeling abnormal
+DB01120,Conjunctival haemorrhage
+DB01120,Conjunctivitis
+DB01120,Constipation
+DB01120,Coronary heart disease
+DB01120,Coronary artery disease
+DB01120,Cough
+DB01120,Cystitis
+DB01120,Cystitis noninfective
+DB01120,Bladder pain
+DB01120,Delirium
+DB01120,Depression
+DB01120,Dermatitis
+DB01120,Fungal skin infection
+DB01120,Diarrhoea
+DB01120,Diplopia
+DB01120,Dizziness
+DB01120,Drowsiness
+DB01120,Somnolence
+DB01120,Duodenal ulcer
+DB01120,Dyspepsia
+DB01120,Dyspnoea
+DB01120,Eczema
+DB01120,Toxic epidermal necrolysis
+DB01120,Epistaxis
+DB01120,Oesophagitis
+DB01120,Rash
+DB01120,Eye disorder
+DB01120,Fatigue
+DB01120,Faecal incontinence
+DB01120,Body temperature increased
+DB01120,Anal fissure
+DB01120,Flatulence
+DB01120,Flushing
+DB01120,Gastritis
+DB01120,Gastroenteritis
+DB01120,Gastrooesophageal reflux disease
+DB01120,Gastrointestinal disorder
+DB01120,Gastrointestinal haemorrhage
+DB01120,Glaucoma
+DB01120,Glycosuria
+DB01120,Gout
+DB01120,Headache
+DB01120,Cardiac failure
+DB01120,Heartburn
+DB01120,Blood disorder
+DB01120,Haemorrhoids
+DB01120,Hepatitis
+DB01120,Hepatomegaly
+DB01120,Hunger
+DB01120,Hypercholesterolaemia
+DB01120,Hyperglycaemia
+DB01120,Hyperlipidaemia
+DB01120,Hypersensitivity
+DB01120,Hypertension
+DB01120,Hypertriglyceridaemia
+DB01120,Blood triglycerides increased
+DB01120,Hypoglycaemia
+DB01120,Hypoglycaemic coma
+DB01120,Hyponatraemia
+DB01120,Hypopituitarism
+DB01120,Hypotension
+DB01120,Hypothyroidism
+DB01120,Jaundice
+DB01120,Jaundice cholestatic
+DB01120,Arthropathy
+DB01120,Osteoarthritis
+DB01120,Calculus of kidney
+DB01120,Nephrolithiasis
+DB01120,Nephropathy
+DB01120,Renal failure acute
+DB01120,Leg pain
+DB01120,Pain in extremity
+DB01120,Leukopenia
+DB01120,Mastitis
+DB01120,Melaena
+DB01120,Menstrual disorder
+DB01120,Fungal infection
+DB01120,Myocardial infarction
+DB01120,Acute coronary syndrome
+DB01120,Nail disorder
+DB01120,Nausea
+DB01120,Neoplasm
+DB01120,Nervousness
+DB01120,Tension
+DB01120,Neuralgia
+DB01120,Numbness
+DB01120,Sensory loss
+DB01120,Hypoaesthesia
+DB01120,Nocturia
+DB01120,Otitis media
+DB01120,Pain
+DB01120,Pallor
+DB01120,Palpitations
+DB01120,Pancytopenia
+DB01120,Paresis
+DB01120,Paraesthesia
+DB01120,Pharyngitis
+DB01120,Pneumonia
+DB01120,Polyuria
+DB01120,Urine output increased
+DB01120,Porphyrin metabolism disorder
+DB01120,Prostatic disorder
+DB01120,Pruritus
+DB01120,Renal failure
+DB01120,Respiratory tract infection
+DB01120,Retinal disorder
+DB01120,Rhinitis
+DB01120,Convulsion
+DB01120,Salivary hypersecretion
+DB01120,Sinusitis
+DB01120,Skin disorder
+DB01120,Skin ulcer
+DB01120,Speech disorder
+DB01120,Stevens-Johnson syndrome
+DB01120,Erythema multiforme
+DB01120,Cerebrovascular accident
+DB01120,Sweating
+DB01120,Hyperhidrosis
+DB01120,Tachycardia
+DB01120,Tendonitis
+DB01120,Thirst
+DB01120,Thrombocytopenia
+DB01120,Thrombophlebitis
+DB01120,Onychomycosis
+DB01120,Tinnitus
+DB01120,Tooth disorder
+DB01120,Toothache
+DB01120,Tracheitis
+DB01120,Tremor
+DB01120,Loss of consciousness
+DB01120,Erythema
+DB01120,Upper respiratory tract infection
+DB01120,Urinary tract infection
+DB01120,Urticaria
+DB01120,Vaginal inflammation
+DB01120,Vaginal infection
+DB01120,Viral infection
+DB01120,Disorder sight
+DB01120,Visual impairment
+DB01120,Vomiting
+DB01120,Weight increased
+DB01120,Xerophthalmia
+DB01120,Dry mouth
+DB01120,Chills
+DB01120,Hepatic failure
+DB01120,Agitation
+DB01120,Lassitude
+DB01120,Cataract
+DB01120,Hepatic function abnormal
+DB01120,Allergic cutaneous angiitis
+DB01120,Leukocytoclastic vasculitis
+DB01120,Blood urea increased
+DB01120,Bone pain
+DB01120,Dry skin
+DB01120,Sensory disturbance
+DB01120,Lipid metabolism disorder
+DB01120,Vitreous disorder
+DB01120,Spine malformation
+DB01120,Malnutrition
+DB01120,Porphyria hepatic
+DB01120,Porphyria non-acute
+DB01120,Porphyria cutanea tarda
+DB01120,Unspecified disorder of skin and subcutaneous tissue
+DB01120,Shallow breathing
+DB01120,Hypopnoea
+DB01120,Erythropenia
+DB01120,Malaise
+DB01120,Discomfort
+DB01120,Ill-defined disorder
+DB01120,Myalgia
+DB01120,Cold sweat
+DB01120,Digestion impaired
+DB01120,Increased appetite
+DB01120,Epigastric fullness
+DB01120,Abdominal distension
+DB01120,Poor concentration
+DB01120,Disturbance in attention
+DB01120,Trembling
+DB01120,Cerebration impaired
+DB01120,Mental disability
+DB01120,Upset stomach
+DB01120,Abdominal discomfort
+DB01120,Vein disorder
+DB01120,Hernia congenital
+DB01120,Leg edema
+DB01120,Oedema peripheral
+DB01120,Lacrimation abnormal NOS
+DB01120,Lacrimal disorder
+DB01120,Breast neoplasm benign female
+DB01120,Benign breast neoplasm
+DB01120,Pallor of skin
+DB01120,Cerebrovascular insufficiency
+DB01120,Erectile dysfunction
+DB01120,Hepatobiliary disease
+DB01120,Photosensitivity
+DB01120,Photosensitivity reaction
+DB01120,Sticky skin
+DB01120,Gastric irritation
+DB01120,Epigastric discomfort
+DB01120,Shakiness
+DB01120,Rash maculo-papular
+DB01120,Bradycardia
+DB01120,Laboratory test abnormal
+DB01120,Neuropathy
+DB01120,Neuropathy peripheral
+DB01120,Blood pressure increased
+DB01120,Benign gastrointestinal neoplasm
+DB01120,Disulfiram like reaction
+DB01120,Alcohol intolerance
+DB01120,Reaction gastrointestinal
+DB01120,Visual disturbance
+DB01120,Inflicted injury
+DB01120,Injury
+DB01120,Hypoglycaemic episode
+DB01120,Alkaline phosphatase serum increased
+DB01120,Blood alkaline phosphatase increased
+DB01120,Coldness
+DB01120,Feeling cold
+DB01120,Blood and lymphatic system disorders
+DB01120,Sleep disorder
+DB01120,Elevated liver enzyme levels
+DB01120,Hepatic enzyme increased
+DB01120,Hyperkeratosis
+DB01120,Insomnia
+DB01120,Hearing impaired
+DB01120,Deafness
+DB01120,Renal impairment
+DB01120,Renal cyst
+DB01120,Abnormal vision
+DB01124,Agranulocytosis
+DB01124,Aplastic anaemia
+DB01124,Haemolytic anaemia
+DB01124,Headache
+DB01124,Heartburn
+DB01124,Dyspepsia
+DB01124,Hypoglycaemia
+DB01124,Hyponatraemia
+DB01124,Inappropriate antidiuretic hormone secretion
+DB01124,Jaundice cholestatic
+DB01124,Leukopenia
+DB01124,Nausea
+DB01124,Pancytopenia
+DB01124,Pruritus
+DB01124,Thrombocytopenia
+DB01124,Erythema
+DB01124,Urticaria
+DB01124,Porphyria hepatic
+DB01124,Porphyria non-acute
+DB01124,Porphyria cutanea tarda
+DB01124,Photosensitivity reaction
+DB01124,Digestion impaired
+DB01124,Gastrointestinal disorder
+DB01124,Epigastric fullness
+DB01124,Abdominal distension
+DB01124,Eruption
+DB01124,Rash
+DB01124,Disulfiram like reaction
+DB01124,Alcohol intolerance
+DB01124,Reaction gastrointestinal
+DB01132,Congenital anomaly
+DB01132,Developmental delay
+DB01132,Anaphylactic shock
+DB01132,Anaemia
+DB01132,Angina pectoris
+DB01132,Angioedema
+DB01132,Arthralgia
+DB01132,Musculoskeletal discomfort
+DB01132,Asthenia
+DB01132,Back pain
+DB01132,Bladder cancer
+DB01132,Bladder neoplasm
+DB01132,Breast disorder
+DB01132,Breast feeding
+DB01132,Bronchitis
+DB01132,Transient ischaemic attack
+DB01132,Chest pain
+DB01132,Infection
+DB01132,Connective tissue disorder
+DB01132,Cyst
+DB01132,Diarrhoea
+DB01132,Dizziness
+DB01132,Dyspnoea
+DB01132,Oedema
+DB01132,Eye disorder
+DB01132,Fatigue
+DB01132,Flatulence
+DB01132,Fracture
+DB01132,Multiple fractures
+DB01132,Gastroenteritis
+DB01132,Gastrointestinal disorder
+DB01132,Glycosuria
+DB01132,Headache
+DB01132,Cardiac disorder
+DB01132,Cardiac failure
+DB01132,Cardiac failure congestive
+DB01132,Haematuria
+DB01132,Hepatitis
+DB01132,Hyperglycaemia
+DB01132,Hypersensitivity
+DB01132,Hypertension
+DB01132,Hypoaesthesia
+DB01132,Hypoglycaemia
+DB01132,Immune system disorder
+DB01132,Influenza
+DB01132,Ischaemia
+DB01132,Cramps of lower extremities
+DB01132,Muscle spasms
+DB01132,Mediastinal disorder
+DB01132,Myocardial infarction
+DB01132,Acute coronary syndrome
+DB01132,Neoplasm
+DB01132,Nervous system disorder
+DB01132,Pain in extremity
+DB01132,Pharyngitis
+DB01132,Polyp
+DB01132,Pregnancy
+DB01132,Proteinuria
+DB01132,Protein urine present
+DB01132,Pulmonary oedema
+DB01132,Respiratory tract infection
+DB01132,Sinusitis
+DB01132,Cerebrovascular accident
+DB01132,Sweating
+DB01132,Hyperhidrosis
+DB01132,Tooth disorder
+DB01132,Upper respiratory tract infection
+DB01132,Urinary tract infection
+DB01132,Urinary tract disorder
+DB01132,Urethral disorder
+DB01132,Urticaria
+DB01132,Vertigo
+DB01132,Weight increased
+DB01132,Weight decreased
+DB01132,Hepatic failure
+DB01132,Oedema peripheral
+DB01132,Generalised oedema
+DB01132,Fluid retention
+DB01132,Accidental injury
+DB01132,Injury
+DB01132,Myocardial ischaemia
+DB01132,Liver function test abnormal
+DB01132,Alanine aminotransferase increased
+DB01132,Malnutrition
+DB01132,Unspecified disorder of skin and subcutaneous tissue
+DB01132,Skin disorder
+DB01132,Fatal outcomes
+DB01132,Malaise
+DB01132,Discomfort
+DB01132,Feeling abnormal
+DB01132,Ill-defined disorder
+DB01132,Myalgia
+DB01132,Volume plasma increased
+DB01132,Volume blood increased
+DB01132,Increased appetite
+DB01132,Abdominal pain upper
+DB01132,Visual acuity reduced
+DB01132,Diabetes mellitus exacerbated
+DB01132,Diabetes mellitus
+DB01132,Hepatic enzyme increased
+DB01132,Diabetic
+DB01132,Erectile dysfunction
+DB01132,Macular oedema
+DB01132,Pitting edema
+DB01132,Tooth abscess
+DB01132,Electrocardiogram abnormal
+DB01132,Visual disturbance
+DB01132,Visual impairment
+DB01132,Infestation NOS
+DB01132,Infestation
+DB01132,Blood and lymphatic system disorders
+DB01132,Ear and labyrinth disorders
+DB01132,Blood creatine phosphokinase increased
+DB01132,Glycosylated haemoglobin decreased
+DB01132,Worsening of diabetes
+DB01132,Drug-induced liver injury
+DB01132,Insomnia
+DB01132,Hepatic impairment
+DB01132,Liver disorder
+DB01132,Hepatic enzyme decreased
+DB01132,Abnormal vision
+DB01136,Abdominal pain
+DB01136,Gastrointestinal pain
+DB01136,Albuminuria
+DB01136,Respiratory alkalosis
+DB01136,Alopecia
+DB01136,Amnesia
+DB01136,Anaphylactic shock
+DB01136,Anaemia
+DB01136,Aplastic anaemia
+DB01136,Angina pectoris
+DB01136,Angina unstable
+DB01136,Angioedema
+DB01136,Anorexia
+DB01136,Decreased appetite
+DB01136,Arthralgia
+DB01136,Musculoskeletal discomfort
+DB01136,Arthritis
+DB01136,Asthenia
+DB01136,Atrial fibrillation
+DB01136,Atrioventricular block
+DB01136,Back pain
+DB01136,Clotting
+DB01136,Coagulopathy
+DB01136,Breast feeding
+DB01136,Bronchospasm
+DB01136,Bronchitis
+DB01136,Bundle branch block
+DB01136,Cardiovascular disorder
+DB01136,Cerebrovascular disorder
+DB01136,Chest pain
+DB01136,Infection
+DB01136,Confusional state
+DB01136,Feeling abnormal
+DB01136,Constipation
+DB01136,Cough
+DB01136,Sudden death
+DB01136,Libido decreased
+DB01136,Disturbance in sexual arousal
+DB01136,Dehydration
+DB01136,Dermatitis exfoliative
+DB01136,Diabetes mellitus
+DB01136,Diarrhoea
+DB01136,Dizziness
+DB01136,Dyspepsia
+DB01136,Dyspnoea
+DB01136,Oedema
+DB01136,Toxic epidermal necrolysis
+DB01136,Erythema multiforme
+DB01136,Rash
+DB01136,Dermatitis
+DB01136,Fatigue
+DB01136,Body temperature increased
+DB01136,Flatulence
+DB01136,Gastrointestinal disorder
+DB01136,Gastrointestinal haemorrhage
+DB01136,Glycosuria
+DB01136,Gout
+DB01136,Headache
+DB01136,Partial hearing loss
+DB01136,Hearing impaired
+DB01136,Cardiac arrest
+DB01136,Cardiac failure
+DB01136,Haematuria
+DB01136,Haemorrhage
+DB01136,Haemoglobin
+DB01136,Hyperbilirubinaemia
+DB01136,Hypercholesterolaemia
+DB01136,Hyperaesthesia
+DB01136,Hyperglycaemia
+DB01136,Hyperkalaemia
+DB01136,Hypersensitivity
+DB01136,Hypertension
+DB01136,Hypertriglyceridaemia
+DB01136,Blood triglycerides increased
+DB01136,Hypoaesthesia
+DB01136,Hypoglycaemia
+DB01136,Hypokalaemia
+DB01136,Hyponatraemia
+DB01136,Hypotension
+DB01136,Orthostatic hypotension
+DB01136,Immune system disorder
+DB01136,Influenza
+DB01136,Renal failure acute
+DB01136,Cramps of lower extremities
+DB01136,Muscle spasms
+DB01136,Leukopenia
+DB01136,Lung disorder
+DB01136,Mediastinal disorder
+DB01136,Melaena
+DB01136,Cramp muscle
+DB01136,Hypotonia
+DB01136,Muscle relaxant therapy
+DB01136,Myocardial infarction
+DB01136,Acute coronary syndrome
+DB01136,Nasal congestion
+DB01136,Nasopharyngitis
+DB01136,Nausea
+DB01136,Nervousness
+DB01136,Tension
+DB01136,Neuralgia
+DB01136,Nightmare
+DB01136,NPN increased
+DB01136,Blood urea increased
+DB01136,Pain
+DB01136,Pain in extremity
+DB01136,Palpitations
+DB01136,Pancytopenia
+DB01136,Paresis
+DB01136,Paraesthesia
+DB01136,Periodontitis
+DB01136,Pharyngitis
+DB01136,Pneumonia
+DB01136,Pruritus
+DB01136,Psoriasis
+DB01136,Pulmonary oedema
+DB01136,Purpura
+DB01136,Vascular purpura
+DB01136,Rales
+DB01136,Renal artery stenosis
+DB01136,Renal failure
+DB01136,Rhinitis
+DB01136,Convulsion
+DB01136,Shock
+DB01136,Cardiogenic shock
+DB01136,Sinusitis
+DB01136,Sleep disturbance
+DB01136,Sleep disorder
+DB01136,Stevens-Johnson syndrome
+DB01136,Cerebrovascular accident
+DB01136,Swelling
+DB01136,Syncope
+DB01136,Loss of consciousness
+DB01136,Tachycardia
+DB01136,Thrombocytopenia
+DB01136,Tinnitus
+DB01136,Upper respiratory tract infection
+DB01136,Pollakiuria
+DB01136,Urinary incontinence
+DB01136,Urinary tract infection
+DB01136,Urinary tract disorder
+DB01136,Urethral disorder
+DB01136,Urticaria
+DB01136,Angiopathy
+DB01136,Ventricular fibrillation
+DB01136,Ventricular tachycardia
+DB01136,Vertigo
+DB01136,Viral infection
+DB01136,Vomiting
+DB01136,Weight increased
+DB01136,Weight decreased
+DB01136,Wheezing
+DB01136,Dry mouth
+DB01136,Peripheral vascular disorder
+DB01136,Sinus bradycardia
+DB01136,Atrioventricular block first degree
+DB01136,Mood swings
+DB01136,Affect lability
+DB01136,Oedema peripheral
+DB01136,Hypokinesia
+DB01136,Migraine
+DB01136,Atrioventricular block complete
+DB01136,Creatinine increased
+DB01136,Blood creatinine increased
+DB01136,Drug level increased
+DB01136,Generalised oedema
+DB01136,Fluid retention
+DB01136,Gamma-glutamyltransferase increased
+DB01136,High density lipoprotein decreased
+DB01136,Hypocholesterolaemia
+DB01136,Accidental injury
+DB01136,Injury
+DB01136,Myocardial ischaemia
+DB01136,Kidney function abnormal
+DB01136,Renal impairment
+DB01136,Retrosternal pain
+DB01136,Phosphatase alkaline increased
+DB01136,Blood alkaline phosphatase increased
+DB01136,Aspartate aminotransferase increased
+DB01136,Alanine aminotransferase increased
+DB01136,Sinus congestion
+DB01136,Acute myocardial infarction
+DB01136,Liver injury
+DB01136,Traumatic liver injury
+DB01136,Malnutrition
+DB01136,Photosensitivity reaction
+DB01136,Unspecified disorder of skin and subcutaneous tissue
+DB01136,Skin disorder
+DB01136,Interstitial pneumonia
+DB01136,Interstitial lung disease
+DB01136,Lightheadedness
+DB01136,Malaise
+DB01136,Discomfort
+DB01136,Ill-defined disorder
+DB01136,Myalgia
+DB01136,Thinking abnormal
+DB01136,Mental disability
+DB01136,Convulsions generalised
+DB01136,Rash erythematous
+DB01136,Cerebration impaired
+DB01136,Disturbance in attention
+DB01136,Gravitational oedema
+DB01136,Ankle edema
+DB01136,Joint swelling
+DB01136,Angina pectoris aggravated
+DB01136,Peripheral ischaemia
+DB01136,Depression aggravated
+DB01136,Depression
+DB01136,Leg edema
+DB01136,Diabetic
+DB01136,Erectile dysfunction
+DB01136,Hepatic congestion
+DB01136,Glucose tolerance impaired
+DB01136,Extrasystoles
+DB01136,Anaphylactoid reaction
+DB01136,Vision blurred
+DB01136,Depressed mood
+DB01136,Ischaemic cardiomyopathy
+DB01136,Rash maculo-papular
+DB01136,Cold hands
+DB01136,Peripheral coldness
+DB01136,Bradycardia
+DB01136,Respiratory distress
+DB01136,Rash psoriaform
+DB01136,Dermatitis psoriasiform
+DB01136,Fluid overload
+DB01136,Hypovolaemia
+DB01136,Prothrombin level decreased
+DB01136,Cough increased
+DB01136,Digoxin level increased
+DB01136,Cardioactive drug level increased
+DB01136,Presyncope
+DB01136,Sweating increased
+DB01136,Hyperhidrosis
+DB01136,Intoxication
+DB01136,Poisoning
+DB01136,Hyperuricaemia
+DB01136,Blood uric acid increased
+DB01136,Coldness
+DB01136,Feeling cold
+DB01136,Blood and lymphatic system disorders
+DB01136,Heart failure signs and symptoms
+DB01136,Unwell
+DB01136,Hypotension symptomatic
+DB01136,Insomnia
+DB01136,Respiration abnormal
+DB01136,Respiratory disorder
+DB01136,Paranoia
+DB01136,Psychotic disorder
+DB01136,Somnolence
+DB01136,Abnormal vision
+DB01136,Visual impairment
+DB01162,Abdominal pain
+DB01162,Gastrointestinal pain
+DB01162,Amblyopia
+DB01162,Anaphylactic shock
+DB01162,Angina pectoris
+DB01162,Angioedema
+DB01162,Anorexia
+DB01162,Decreased appetite
+DB01162,Anxiety
+DB01162,Arrhythmia
+DB01162,Arthralgia
+DB01162,Musculoskeletal discomfort
+DB01162,Arthritis
+DB01162,Asthenia
+DB01162,Asthma
+DB01162,Atrial fibrillation
+DB01162,Back pain
+DB01162,Bronchitis
+DB01162,Neck pain
+DB01162,Chest pain
+DB01162,Confusional state
+DB01162,Feeling abnormal
+DB01162,Conjunctivitis
+DB01162,Constipation
+DB01162,Libido decreased
+DB01162,Disturbance in sexual arousal
+DB01162,Depression
+DB01162,Diarrhoea
+DB01162,Dizziness
+DB01162,Dysgeusia
+DB01162,Dyspepsia
+DB01162,Dyspnoea
+DB01162,Dysuria
+DB01162,Oedema
+DB01162,Epistaxis
+DB01162,Rash
+DB01162,Dermatitis
+DB01162,Eye disorder
+DB01162,Fatigue
+DB01162,Body temperature increased
+DB01162,Flatulence
+DB01162,Gastritis
+DB01162,Gout
+DB01162,Headache
+DB01162,Cardiac failure
+DB01162,Hypersensitivity
+DB01162,Hypokalaemia
+DB01162,Hypotension
+DB01162,Orthostatic hypotension
+DB01162,Influenza
+DB01162,Jaundice
+DB01162,Arthropathy
+DB01162,Osteoarthritis
+DB01162,Laryngospasm
+DB01162,Menopause
+DB01162,Miosis
+DB01162,Nasal congestion
+DB01162,Nausea
+DB01162,Nervousness
+DB01162,Tension
+DB01162,Pain
+DB01162,Pain in extremity
+DB01162,Palpitations
+DB01162,Paraesthesia
+DB01162,Pharyngitis
+DB01162,Priapism
+DB01162,Pruritus
+DB01162,Rhinitis
+DB01162,Convulsion
+DB01162,Shock
+DB01162,Shoulder pain
+DB01162,Musculoskeletal pain
+DB01162,Sinusitis
+DB01162,Speech disorder
+DB01162,Cerebrovascular accident
+DB01162,Sweating
+DB01162,Hyperhidrosis
+DB01162,Syncope
+DB01162,Loss of consciousness
+DB01162,Tachycardia
+DB01162,Thrombocytopenia
+DB01162,Tinnitus
+DB01162,Tremor
+DB01162,Pollakiuria
+DB01162,Urinary incontinence
+DB01162,Urinary tract infection
+DB01162,Vasodilation
+DB01162,Vasodilation procedure
+DB01162,Vertigo
+DB01162,Vomiting
+DB01162,Weight increased
+DB01162,Dry mouth
+DB01162,Oedema peripheral
+DB01162,Hypophosphataemia
+DB01162,Lassitude
+DB01162,Migraine
+DB01162,Malnutrition
+DB01162,Malaise
+DB01162,Discomfort
+DB01162,Ill-defined disorder
+DB01162,Myalgia
+DB01162,Abnormal dreams
+DB01162,Erectile dysfunction
+DB01162,Anaphylactoid reaction
+DB01162,Vision blurred
+DB01162,Photosensitivity
+DB01162,Photosensitivity reaction
+DB01162,Coordination abnormal
+DB01162,Face oedema
+DB01162,Cough increased
+DB01162,Cough
+DB01162,Hypotensive
+DB01162,Cold symptoms
+DB01162,Nasopharyngitis
+DB01162,Insomnia
+DB01162,Flu symptoms
+DB01162,Intraoperative floppy iris syndrome
+DB01162,Floppy iris syndrome
+DB01162,Somnolence
+DB01162,Loss of libido
+DB01162,Abnormal vision
+DB01162,Visual impairment
+DB01182,Abdominal distension
+DB01182,Abdominal pain
+DB01182,Gastrointestinal pain
+DB01182,Agranulocytosis
+DB01182,Alopecia
+DB01182,Amnesia
+DB01182,Anaemia
+DB01182,Angina pectoris
+DB01182,Angina unstable
+DB01182,Anorexia
+DB01182,Decreased appetite
+DB01182,Anxiety
+DB01182,Apnoea
+DB01182,Arrhythmia
+DB01182,Sinus arrhythmia
+DB01182,Arthritis
+DB01182,Asthenia
+DB01182,Ataxia
+DB01182,Atelectasis
+DB01182,Pneumothorax
+DB01182,Atrial fibrillation
+DB01182,Atrial flutter
+DB01182,Atrioventricular block
+DB01182,Atrioventricular dissociation
+DB01182,Mental disorder
+DB01182,Eyelid ptosis
+DB01182,Blister
+DB01182,Dermatitis bullous
+DB01182,Bone disorder
+DB01182,Breast disorder
+DB01182,Bundle branch block
+DB01182,Bursitis
+DB01182,Carotid bruit
+DB01182,Neck pain
+DB01182,Chest pain
+DB01182,Cholestasis
+DB01182,Coma
+DB01182,Infection
+DB01182,Confusional state
+DB01182,Feeling abnormal
+DB01182,Connective tissue disorder
+DB01182,Constipation
+DB01182,Contusion
+DB01182,Cough
+DB01182,Libido decreased
+DB01182,Disturbance in sexual arousal
+DB01182,Dysphagia
+DB01182,Dehydration
+DB01182,Depression
+DB01182,Dermatitis
+DB01182,Diabetes mellitus
+DB01182,Diarrhoea
+DB01182,Diuresis
+DB01182,Polyuria
+DB01182,Dizziness
+DB01182,Drowsiness
+DB01182,Somnolence
+DB01182,Duodenitis
+DB01182,Dysgeusia
+DB01182,Dyspepsia
+DB01182,Dyspnoea
+DB01182,Dysuria
+DB01182,Ecchymosis
+DB01182,Oedema
+DB01182,Emotional disturbance NOS
+DB01182,Emotional disorder
+DB01182,Endophthalmitis
+DB01182,Panophthalmitis
+DB01182,Eosinophilia
+DB01182,Epistaxis
+DB01182,Eructation
+DB01182,Oesophagitis
+DB01182,Rash
+DB01182,Eye disorder
+DB01182,Eye haemorrhage
+DB01182,Fatigue
+DB01182,Body temperature increased
+DB01182,Flatulence
+DB01182,Flushing
+DB01182,Cardiac flutter
+DB01182,Gastritis
+DB01182,Gastroenteritis
+DB01182,Gastrooesophageal reflux disease
+DB01182,Gastrointestinal disorder
+DB01182,Gingival bleeding
+DB01182,Glossodynia
+DB01182,Glossitis
+DB01182,Glycosuria
+DB01182,Gout
+DB01182,Breath odour
+DB01182,Headache
+DB01182,Cardiac arrest
+DB01182,Block heart
+DB01182,Cardiac disorder
+DB01182,Cardiac failure
+DB01182,Cardiac failure congestive
+DB01182,Cardiac murmur
+DB01182,Blood disorder
+DB01182,Haematoma
+DB01182,Haematuria
+DB01182,Haemoptysis
+DB01182,Haemorrhage
+DB01182,Haemoglobin
+DB01182,Hepatitis
+DB01182,Hepatomegaly
+DB01182,Hypercholesterolaemia
+DB01182,Hyperglycaemia
+DB01182,Hyperlipidaemia
+DB01182,Hypersensitivity
+DB01182,Hypertension
+DB01182,Hypertensive crisis
+DB01182,Hypoaesthesia
+DB01182,Hypokalaemia
+DB01182,Hyponatraemia
+DB01182,Hypotension
+DB01182,Orthostatic hypotension
+DB01182,Immune system disorder
+DB01182,Inappropriate antidiuretic hormone secretion
+DB01182,Influenza
+DB01182,Intestinal obstruction
+DB01182,Jaundice
+DB01182,Arthropathy
+DB01182,Osteoarthritis
+DB01182,Bundle branch block left
+DB01182,Leukopenia
+DB01182,Lung disorder
+DB01182,Chronic obstructive pulmonary disease
+DB01182,Bronchial hyperreactivity
+DB01182,Systemic lupus erythematosus
+DB01182,Breast pain
+DB01182,Mediastinal disorder
+DB01182,Melaena
+DB01182,Miosis
+DB01182,Cramp muscle
+DB01182,Muscle spasms
+DB01182,Hypertonia
+DB01182,Nausea
+DB01182,Nephrotic syndrome
+DB01182,Nervous system disorder
+DB01182,Nervousness
+DB01182,Tension
+DB01182,Neurosis
+DB01182,Nightmare
+DB01182,Numbness
+DB01182,Sensory loss
+DB01182,Nocturia
+DB01182,Oliguria
+DB01182,Pain
+DB01182,Pallor
+DB01182,Palpitations
+DB01182,Pancreatitis
+DB01182,Paraesthesia
+DB01182,Peptic ulcer
+DB01182,Pericarditis
+DB01182,Neuropathy peripheral
+DB01182,Petechiae
+DB01182,Pleural effusion
+DB01182,Proteinuria
+DB01182,Protein urine present
+DB01182,Pruritus
+DB01182,Psychotic disorder
+DB01182,Purpura
+DB01182,Vascular purpura
+DB01182,Pyuria
+DB01182,Rales
+DB01182,Renal failure
+DB01182,Retinal disorder
+DB01182,Rhinitis
+DB01182,Sciatica
+DB01182,Convulsion
+DB01182,Sick sinus syndrome
+DB01182,Sinoatrial block
+DB01182,Device capturing issue
+DB01182,Speech disorder
+DB01182,Spleen disorder
+DB01182,Cerebrovascular accident
+DB01182,Syncope
+DB01182,Loss of consciousness
+DB01182,Shock
+DB01182,Tachycardia
+DB01182,Supraventricular tachycardia
+DB01182,Tendonitis
+DB01182,Thrombocytopenia
+DB01182,Thrombosis
+DB01182,Costochondritis
+DB01182,Tinnitus
+DB01182,Torsade de pointes
+DB01182,Tremor
+DB01182,Erythema
+DB01182,Upper respiratory tract infection
+DB01182,Pollakiuria
+DB01182,Urinary incontinence
+DB01182,Urinary tract disorder
+DB01182,Urethral disorder
+DB01182,Urticaria
+DB01182,Angiopathy
+DB01182,Venous thrombosis
+DB01182,Ventricular fibrillation
+DB01182,Ventricular tachycardia
+DB01182,Vertigo
+DB01182,Vomiting
+DB01182,Weight increased
+DB01182,Weight decreased
+DB01182,Wheezing
+DB01182,Dry mouth
+DB01182,Urinary retention
+DB01182,Peripheral vascular disorder
+DB01182,Sinus bradycardia
+DB01182,Atrial arrhythmia
+DB01182,Arrhythmia supraventricular
+DB01182,Atrioventricular block first degree
+DB01182,Bundle branch block right
+DB01182,Hepatic function abnormal
+DB01182,Mouth ulceration
+DB01182,Stomatitis
+DB01182,Antinuclear antibody positive
+DB01182,Bleeding time prolonged
+DB01182,Ventricular extrasystoles
+DB01182,Gamma-glutamyltransferase increased
+DB01182,Hepatocellular injury
+DB01182,Liver injury
+DB01182,Liver function test abnormal
+DB01182,Muscular weakness
+DB01182,Prothrombin level increased
+DB01182,Electrocardiogram QT prolonged
+DB01182,Aspartate aminotransferase increased
+DB01182,Alanine aminotransferase increased
+DB01182,Dry skin
+DB01182,Haemoglobin decreased
+DB01182,Ketonuria
+DB01182,Malnutrition
+DB01182,Unspecified disorder of skin and subcutaneous tissue
+DB01182,Skin disorder
+DB01182,Malaise
+DB01182,Discomfort
+DB01182,Ill-defined disorder
+DB01182,Myalgia
+DB01182,Musculoskeletal discomfort
+DB01182,Digestion impaired
+DB01182,Speech impairment NOS
+DB01182,Abnormal dreams
+DB01182,Visual acuity reduced
+DB01182,Dry throat
+DB01182,Eye irritation
+DB01182,Blood creatinine increased
+DB01182,Pulse abnormal
+DB01182,Paroxysmal atrial fibrillation
+DB01182,Urine abnormality
+DB01182,Urine analysis abnormal
+DB01182,Hepatic enzyme increased
+DB01182,Pain in jaw
+DB01182,Throat tightness
+DB01182,Heart rate irregular
+DB01182,Respiratory sounds decreased
+DB01182,Breath sounds abnormal
+DB01182,Gingival pain
+DB01182,Pulmonary congestion
+DB01182,Respiratory tract congestion
+DB01182,Erectile dysfunction
+DB01182,Throat sore
+DB01182,Oropharyngeal discomfort
+DB01182,Oropharyngeal pain
+DB01182,Prostatism
+DB01182,Collagen-vascular disease
+DB01182,Conduction disorder
+DB01182,Nodal arrhythmia
+DB01182,Atrioventricular block second degree
+DB01182,Defect conduction intraventricular
+DB01182,Rectal haemorrhage
+DB01182,Hepatobiliary disease
+DB01182,Brain injury
+DB01182,Peripheral coldness
+DB01182,Hepatitis fulminant
+DB01182,Blood bilirubin increased
+DB01182,Mania
+DB01182,Atrial hypertrophy
+DB01182,Ventricular hypertrophy
+DB01182,Extrasystoles
+DB01182,Vision blurred
+DB01182,Platelet count decreased
+DB01182,Red blood cell count decreased
+DB01182,Labile blood pressure
+DB01182,Bradycardia
+DB01182,QRS complex
+DB01182,Electrocardiogram QRS complex
+DB01182,Lymphadenopathy
+DB01182,Blood pressure increased
+DB01182,Dementia
+DB01182,Electrocardiogram abnormal
+DB01182,Paralysis
+DB01182,Sinus arrest
+DB01182,Monocyte count increased
+DB01182,Gait disturbance
+DB01182,Heart sounds abnormal
+DB01182,Blood glucose increased
+DB01182,Hot flush
+DB01182,Menopausal symptoms
+DB01182,Presyncope
+DB01182,Sweating increased
+DB01182,Hyperhidrosis
+DB01182,Wide complex tachycardia
+DB01182,White blood cell count increased
+DB01182,Memory loss
+DB01182,Hyperlactacidaemia
+DB01182,Infestation NOS
+DB01182,Infestation
+DB01182,Blood and lymphatic system disorders
+DB01182,Ear and labyrinth disorders
+DB01182,Sleep disorder
+DB01182,Embolism arterial (limb)
+DB01182,Peripheral embolism
+DB01182,Blood alkaline phosphatase increased
+DB01182,Nail abnormality NOS
+DB01182,Nail disorder
+DB01182,Blood triglycerides increased
+DB01182,Sperm count decreased
+DB01182,Sperm concentration decreased
+DB01182,Blood prolactin increased
+DB01182,Cardioactive drug level above therapeutic
+DB01182,Glucose increased
+DB01182,Proarrhythmia
+DB01182,Insomnia
+DB01182,Lupus-like syndrome
+DB01182,Respiratory failure
+DB01182,Hearing impaired
+DB01182,Deafness
+DB01182,Coronary artery disease
+DB01182,Eosinophil count increased
+DB01182,Feeling hot
+DB01182,Abnormal vision
+DB01182,Visual impairment
+DB01193,Abdominal pain
+DB01193,Gastrointestinal pain
+DB01193,Agranulocytosis
+DB01193,Anorexia
+DB01193,Decreased appetite
+DB01193,Anxiety
+DB01193,Arthralgia
+DB01193,Musculoskeletal discomfort
+DB01193,Asthenia
+DB01193,Atrioventricular block
+DB01193,Back pain
+DB01193,Bronchospasm
+DB01193,Cardiac output decreased
+DB01193,Catatonia
+DB01193,Chest pain
+DB01193,Pleuritic pain
+DB01193,Confusional state
+DB01193,Feeling abnormal
+DB01193,Conjunctivitis
+DB01193,Connective tissue disorder
+DB01193,Constipation
+DB01193,Cough
+DB01193,Depression
+DB01193,Dermatitis
+DB01193,Dermatitis exfoliative
+DB01193,Diarrhoea
+DB01193,Dizziness
+DB01193,Drowsiness
+DB01193,Somnolence
+DB01193,Dyspepsia
+DB01193,Dyspnoea
+DB01193,Dysuria
+DB01193,Oedema
+DB01193,Rash
+DB01193,Fatigue
+DB01193,Body temperature increased
+DB01193,Flatulence
+DB01193,Flushing
+DB01193,Gastrointestinal disorder
+DB01193,Hallucination
+DB01193,Headache
+DB01193,Cardiac failure
+DB01193,Cardiac failure congestive
+DB01193,Heartburn
+DB01193,Hypoaesthesia
+DB01193,Hypotension
+DB01193,Orthostatic hypotension
+DB01193,Intermittent claudication
+DB01193,Eye pruritus
+DB01193,Laryngospasm
+DB01193,Lethargy
+DB01193,Systemic lupus erythematosus
+DB01193,Mediastinal disorder
+DB01193,Nausea
+DB01193,Nervous system disorder
+DB01193,Nocturia
+DB01193,Pain
+DB01193,Pain in extremity
+DB01193,Palpitations
+DB01193,Paraesthesia
+DB01193,Peyronie's disease
+DB01193,Pharyngitis
+DB01193,Pneumonia
+DB01193,Pruritus
+DB01193,Psychotic disorder
+DB01193,Rhinitis
+DB01193,Shivering
+DB01193,Chills
+DB01193,Sweating
+DB01193,Hyperhidrosis
+DB01193,Syncope
+DB01193,Loss of consciousness
+DB01193,Shock
+DB01193,Tinnitus
+DB01193,Urticaria
+DB01193,Angiopathy
+DB01193,Vertigo
+DB01193,Vomiting
+DB01193,Weight increased
+DB01193,Wheezing
+DB01193,Mood swings
+DB01193,Affect lability
+DB01193,Atrioventricular block complete
+DB01193,Eye pain
+DB01193,Aspartate aminotransferase increased
+DB01193,Arterial thrombosis
+DB01193,Colitis ischaemic
+DB01193,Unspecified disorder of skin and subcutaneous tissue
+DB01193,Skin disorder
+DB01193,Lightheadedness
+DB01193,Malaise
+DB01193,Discomfort
+DB01193,Ill-defined disorder
+DB01193,Myalgia
+DB01193,Disorientation
+DB01193,Ache
+DB01193,Abnormal dreams
+DB01193,Rash erythematous
+DB01193,Lung infiltration
+DB01193,Erectile dysfunction
+DB01193,Throat sore
+DB01193,Oropharyngeal discomfort
+DB01193,Oropharyngeal pain
+DB01193,Xerosis
+DB01193,Dermatitis psoriasiform
+DB01193,Atrioventricular block second degree
+DB01193,Peripheral coldness
+DB01193,Blood bilirubin increased
+DB01193,Dry eye
+DB01193,Vision blurred
+DB01193,Vivid dreams
+DB01193,Bradycardia
+DB01193,Respiratory distress
+DB01193,Sinus arrest
+DB01193,Visual disturbance
+DB01193,Visual impairment
+DB01193,Hot flush
+DB01193,Menopausal symptoms
+DB01193,Short-term memory loss
+DB01193,Amnesia
+DB01193,Thrombocytopenic purpura
+DB01193,Alopecia reversible
+DB01193,Alopecia
+DB01193,Insomnia
+DB01193,Lupus-like syndrome
+DB01193,Claudication
+DB01193,Appetite absent
+DB01193,Loss of libido
+DB01193,Abnormal vision
+DB01193,Conjunctival xerosis
+DB01261,Abdominal pain
+DB01261,Gastrointestinal pain
+DB01261,Pancreatitis acute
+DB01261,Anaphylactic shock
+DB01261,Angioedema
+DB01261,Anxiety
+DB01261,Arthralgia
+DB01261,Musculoskeletal discomfort
+DB01261,Back pain
+DB01261,Mental disorder
+DB01261,Breast disorder
+DB01261,Bronchitis
+DB01261,Bundle branch block
+DB01261,Cellulitis
+DB01261,Neck pain
+DB01261,Infection
+DB01261,Connective tissue disorder
+DB01261,Constipation
+DB01261,Contusion
+DB01261,Cough
+DB01261,Depression
+DB01261,Fungal skin infection
+DB01261,Diarrhoea
+DB01261,Dizziness
+DB01261,Dysmenorrhoea
+DB01261,Dyspepsia
+DB01261,Eczema
+DB01261,Reflux esophagitis
+DB01261,Gastrooesophageal reflux disease
+DB01261,Rash
+DB01261,Dermatitis
+DB01261,Eye disorder
+DB01261,Fatigue
+DB01261,Asthenia
+DB01261,Flatulence
+DB01261,Gastroenteritis
+DB01261,Gastrointestinal disorder
+DB01261,Headache
+DB01261,Cardiac disorder
+DB01261,Herpes zoster
+DB01261,Hyperglycaemia
+DB01261,Hypersensitivity
+DB01261,Hypertension
+DB01261,Hypoaesthesia
+DB01261,Hypoglycaemia
+DB01261,Orthostatic hypotension
+DB01261,Immune system disorder
+DB01261,Influenza
+DB01261,Renal failure acute
+DB01261,Lung disorder
+DB01261,Mediastinal disorder
+DB01261,Nasopharyngitis
+DB01261,Nausea
+DB01261,Nervous system disorder
+DB01261,Nervousness
+DB01261,Tension
+DB01261,Osteoarthritis
+DB01261,Pain
+DB01261,Pain in extremity
+DB01261,Pancreatitis
+DB01261,Neuropathy peripheral
+DB01261,Pharyngitis
+DB01261,Pneumonia
+DB01261,Respiratory tract infection
+DB01261,Sciatica
+DB01261,Shoulder pain
+DB01261,Musculoskeletal pain
+DB01261,Sinus headache
+DB01261,Sinusitis
+DB01261,Skin disorder
+DB01261,Muscle spasms
+DB01261,Stevens-Johnson syndrome
+DB01261,Erythema multiforme
+DB01261,Toothache
+DB01261,Upper respiratory tract infection
+DB01261,Urinary tract infection
+DB01261,Urinary tract disorder
+DB01261,Urethral disorder
+DB01261,Urticaria
+DB01261,Angiopathy
+DB01261,Vertigo
+DB01261,Vomiting
+DB01261,Weight increased
+DB01261,Dry mouth
+DB01261,Oedema peripheral
+DB01261,Acute bronchitis
+DB01261,Tracheobronchitis
+DB01261,Migraine
+DB01261,Sinus congestion
+DB01261,Viral diarrhoea
+DB01261,Malnutrition
+DB01261,Unspecified disorder of skin and subcutaneous tissue
+DB01261,Malaise
+DB01261,Discomfort
+DB01261,Feeling abnormal
+DB01261,Ill-defined disorder
+DB01261,Myalgia
+DB01261,Decreased appetite
+DB01261,Abdominal discomfort
+DB01261,Abdominal pain upper
+DB01261,Retching
+DB01261,Erectile dysfunction
+DB01261,Cutaneous vasculitis
+DB01261,Hepatobiliary disease
+DB01261,Pancreatitis necrotising
+DB01261,Helicobacter gastritis
+DB01261,Vision blurred
+DB01261,Nephrolithiasis
+DB01261,Non-cardiac chest pain
+DB01261,Face oedema
+DB01261,Blood glucose increased
+DB01261,Blood glucose decreased
+DB01261,Serum creatinine increased
+DB01261,Blood creatinine increased
+DB01261,Infestation NOS
+DB01261,Infestation
+DB01261,Ear and labyrinth disorders
+DB01261,Pharyngolaryngeal pain
+DB01261,Laryngeal pain
+DB01261,Tooth infection
+DB01261,Muscle tightness
+DB01261,Insomnia
+DB01261,Anaphylactic responses
+DB01261,Gastric ulcer helicobacter
+DB01261,Parosmia
+DB01261,Renal impairment
+DB01261,Renal failure
+DB01261,Hepatic steatosis
+DB01261,Somnolence
+DB06209,Anaphylactic shock
+DB06209,Anaemia
+DB06209,Angioedema
+DB06209,Atrial fibrillation
+DB06209,Back pain
+DB06209,Neoplasm malignant
+DB06209,Contusion
+DB06209,Cough
+DB06209,Diarrhoea
+DB06209,Dizziness
+DB06209,Dyspnoea
+DB06209,Ecchymosis
+DB06209,Epistaxis
+DB06209,Rash
+DB06209,Dermatitis
+DB06209,Eye disorder
+DB06209,Eye haemorrhage
+DB06209,Fatigue
+DB06209,Asthenia
+DB06209,Body temperature increased
+DB06209,Gastrointestinal disorder
+DB06209,Gastrointestinal haemorrhage
+DB06209,Gingival bleeding
+DB06209,Headache
+DB06209,Haematochezia
+DB06209,Haematoma
+DB06209,Haematuria
+DB06209,Haemoptysis
+DB06209,Haemorrhage
+DB06209,Haemoglobin
+DB06209,Hypercholesterolaemia
+DB06209,Hyperlipidaemia
+DB06209,Hypersensitivity
+DB06209,Hypertension
+DB06209,Hypotension
+DB06209,Immune system disorder
+DB06209,Leukopenia
+DB06209,Mediastinal disorder
+DB06209,Nausea
+DB06209,Neoplasm
+DB06209,Pain in extremity
+DB06209,Pericardial effusion
+DB06209,Thrombotic thrombocytopenic purpura
+DB06209,Retinal haemorrhage
+DB06209,Cerebrovascular accident
+DB06209,Thrombocytopenia
+DB06209,Urinary tract disorder
+DB06209,Urethral disorder
+DB06209,Angiopathy
+DB06209,Oedema peripheral
+DB06209,Haemorrhage intracranial
+DB06209,Retroperitoneal haemorrhage
+DB06209,Unspecified disorder of skin and subcutaneous tissue
+DB06209,Skin disorder
+DB06209,Rectal haemorrhage
+DB06209,Bradycardia
+DB06209,Non-cardiac chest pain
+DB06209,Subcutaneous haematoma
+DB06209,Surgical intervention
+DB06209,Surgery
+DB06209,Blood and lymphatic system disorders
+DB06209,Thrombocytopenic purpura
+DB06209,Post procedural haemorrhage
+DB06209,Puncture site haemorrhage
+DB06209,Colorectal cancer
+DB06209,Vessel puncture site haematoma
+DB06292,Anaphylactic shock
+DB06292,Angina unstable
+DB06292,Angina pectoris
+DB06292,Angioedema
+DB06292,Back pain
+DB06292,Balanitis
+DB06292,Bladder cancer
+DB06292,Neoplasm malignant
+DB06292,Connective tissue disorder
+DB06292,Constipation
+DB06292,Dehydration
+DB06292,Diabetes mellitus
+DB06292,Diuresis
+DB06292,Polyuria
+DB06292,Dizziness
+DB06292,Dysuria
+DB06292,Rash
+DB06292,Dermatitis
+DB06292,Fracture
+DB06292,Multiple fractures
+DB06292,Gastrointestinal disorder
+DB06292,Headache
+DB06292,Hyperhidrosis
+DB06292,Hypersensitivity
+DB06292,Hypertension
+DB06292,Hypoglycaemia
+DB06292,Hypotension
+DB06292,Orthostatic hypotension
+DB06292,Influenza
+DB06292,Fungal infection
+DB06292,Myocardial infarction
+DB06292,Acute coronary syndrome
+DB06292,Nasopharyngitis
+DB06292,Nausea
+DB06292,Neoplasm
+DB06292,Nocturia
+DB06292,Osteopenia
+DB06292,Pain in extremity
+DB06292,Urine output increased
+DB06292,Neoplasm prostate
+DB06292,Renal failure
+DB06292,Cerebrovascular accident
+DB06292,Thirst
+DB06292,Pollakiuria
+DB06292,Urinary tract infection
+DB06292,Urinary tract disorder
+DB06292,Urethral disorder
+DB06292,Urticaria
+DB06292,Vulvitis
+DB06292,Vulvovaginitis
+DB06292,Vaginitis bacterial
+DB06292,Vaginal infection
+DB06292,Hyperphosphataemia
+DB06292,Blood urea increased
+DB06292,Malnutrition
+DB06292,Unspecified disorder of skin and subcutaneous tissue
+DB06292,Skin disorder
+DB06292,Discomfort
+DB06292,Blood creatinine increased
+DB06292,Haematocrit increased
+DB06292,Recurrent infection
+DB06292,Infection
+DB06292,Autoimmune hepatitis
+DB06292,Dyslipidaemia
+DB06292,Vulval abscess
+DB06292,Hypoglycemic reaction
+DB06292,Balanitis candida
+DB06292,Genital candidiasis
+DB06292,Hypovolaemia
+DB06292,Genital infection male
+DB06292,Penile infection
+DB06292,Serum creatinine increased
+DB06292,Vulvovaginal candidiasis
+DB06292,Genital infection fungal
+DB06292,Infestation NOS
+DB06292,Infestation
+DB06292,Carcinogenicity
+DB06292,Vulvovaginal pruritus
+DB06292,Drug-induced hepatitis
+DB06292,Drug-induced liver injury
+DB06292,Change in blood pressure
+DB06292,Blood pressure fluctuation
+DB06292,Vulvovaginal mycotic infection
+DB06605,Anaphylactic shock
+DB06605,Anaemia
+DB06605,Breast disorder
+DB06605,Compartment syndrome
+DB06605,Conjunctival haemorrhage
+DB06605,Connective tissue disorder
+DB06605,Contusion
+DB06605,Diabetes mellitus
+DB06605,Drug hypersensitivity
+DB06605,Ecchymosis
+DB06605,Epistaxis
+DB06605,Rash
+DB06605,Dermatitis
+DB06605,Eye disorder
+DB06605,Eye haemorrhage
+DB06605,Gastrointestinal disorder
+DB06605,Gastrointestinal haemorrhage
+DB06605,Gingival bleeding
+DB06605,Haematemesis
+DB06605,Haematochezia
+DB06605,Haematoma
+DB06605,Subdural haematoma
+DB06605,Haematuria
+DB06605,Haemoptysis
+DB06605,Haemorrhage
+DB06605,Haemoglobin
+DB06605,Hypersensitivity
+DB06605,Hypotension
+DB06605,Immune system disorder
+DB06605,Mediastinal disorder
+DB06605,Melaena
+DB06605,Menorrhagia
+DB06605,Metrorrhagia
+DB06605,Nausea
+DB06605,Nervous system disorder
+DB06605,Mouth haemorrhage
+DB06605,Petechiae
+DB06605,Retinal haemorrhage
+DB06605,Subarachnoid haemorrhage
+DB06605,Syncope
+DB06605,Dizziness
+DB06605,Loss of consciousness
+DB06605,Shock
+DB06605,Thrombocytopenia
+DB06605,Traumatic haemorrhage
+DB06605,Urinary tract disorder
+DB06605,Urethral disorder
+DB06605,Angiopathy
+DB06605,Intraoperative hemorrhage
+DB06605,Procedural haemorrhage
+DB06605,Gamma-glutamyltransferase increased
+DB06605,Haemorrhage intracranial
+DB06605,Muscle haemorrhage
+DB06605,Retroperitoneal haemorrhage
+DB06605,Liver function test abnormal
+DB06605,Aspartate aminotransferase increased
+DB06605,Alanine aminotransferase increased
+DB06605,Unspecified disorder of skin and subcutaneous tissue
+DB06605,Skin disorder
+DB06605,Blood urine
+DB06605,Blood urine present
+DB06605,Menometrorrhagia
+DB06605,Respiratory tract haemorrhage
+DB06605,Intra-abdominal haemorrhage
+DB06605,Urethral haemorrhage
+DB06605,Wound haemorrhage
+DB06605,Haemorrhoidal haemorrhage
+DB06605,Rectal haemorrhage
+DB06605,Hepatobiliary disease
+DB06605,Blood bilirubin increased
+DB06605,Wound secretion
+DB06605,Anal haemorrhage
+DB06605,Transaminases increased
+DB06605,Periorbital haematoma
+DB06605,Injection site haematoma
+DB06605,Traumatic haematoma
+DB06605,Haemorrhagic stroke
+DB06605,Cerebral haemorrhage
+DB06605,Pharyngeal haemorrhage
+DB06605,Allergic oedema
+DB06605,Blood and lymphatic system disorders
+DB06605,Skin haemorrhage
+DB06605,Pulmonary alveolar haemorrhage
+DB06605,Blood alkaline phosphatase increased
+DB06605,Genital haemorrhage
+DB06605,Alanine aminotransferase abnormal
+DB06605,Spinal haematoma
+DB06605,Occult blood positive
+DB06605,Application site haemorrhage
+DB06605,Urogenital haemorrhage
+DB06605,Post procedural haemorrhage
+DB06605,Incision site haemorrhage
+DB06605,Catheter site haemorrhage
+DB06605,Haemorrhagic anaemia
+DB06605,Incision site haematoma
+DB06605,Procedural hypotension
+DB06605,Post procedural haematoma
+DB06605,Vessel puncture site haematoma
+DB06605,Laryngeal haemorrhage
+DB06605,Vaginal haemorrhage
+DB06605,Intraspinal bleeding
+DB06605,Spinal cord haemorrhage
+DB08816,Abdominal pain
+DB08816,Gastrointestinal pain
+DB08816,Angioedema
+DB08816,Gouty arthritis
+DB08816,Gout
+DB08816,Atrial fibrillation
+DB08816,Back pain
+DB08816,Mental disorder
+DB08816,Bone disorder
+DB08816,Breast disorder
+DB08816,Neoplasm malignant
+DB08816,Cardiac tamponade
+DB08816,Transient ischaemic attack
+DB08816,Chest pain
+DB08816,Confusional state
+DB08816,Feeling abnormal
+DB08816,Connective tissue disorder
+DB08816,Constipation
+DB08816,Contusion
+DB08816,Cough
+DB08816,Diarrhoea
+DB08816,Dizziness
+DB08816,Dyspepsia
+DB08816,Dyspnoea
+DB08816,Ecchymosis
+DB08816,Epistaxis
+DB08816,Rash
+DB08816,Dermatitis
+DB08816,Eye disorder
+DB08816,Eye haemorrhage
+DB08816,Fatigue
+DB08816,Asthenia
+DB08816,Body temperature increased
+DB08816,Gastritis
+DB08816,Gastrointestinal disorder
+DB08816,Gastrointestinal haemorrhage
+DB08816,Gingival bleeding
+DB08816,Gynaecomastia
+DB08816,Headache
+DB08816,Cardiac disorder
+DB08816,Cardiac failure
+DB08816,Cardiac failure congestive
+DB08816,Haemarthrosis
+DB08816,Haematemesis
+DB08816,Haematoma
+DB08816,Haematuria
+DB08816,Haemoptysis
+DB08816,Haemorrhage
+DB08816,Haemoglobin
+DB08816,Hypersensitivity
+DB08816,Hypertension
+DB08816,Hypotension
+DB08816,Hypovolaemic shock
+DB08816,Immune system disorder
+DB08816,Renal failure acute
+DB08816,Renal failure chronic
+DB08816,Lung disorder
+DB08816,Mediastinal disorder
+DB08816,Melaena
+DB08816,Metrorrhagia
+DB08816,Nausea
+DB08816,Nervous system disorder
+DB08816,Oliguria
+DB08816,Mouth haemorrhage
+DB08816,Paraesthesia
+DB08816,Peptic ulcer haemorrhage
+DB08816,Petechiae
+DB08816,Pruritus
+DB08816,Syncope
+DB08816,Loss of consciousness
+DB08816,Shock
+DB08816,Traumatic haemorrhage
+DB08816,Urinary tract disorder
+DB08816,Urethral disorder
+DB08816,Angiopathy
+DB08816,Vertigo
+DB08816,Vomiting
+DB08816,Oedema peripheral
+DB08816,Injection site haemorrhage
+DB08816,Haemorrhage intracranial
+DB08816,Retroperitoneal haemorrhage
+DB08816,Duodenal ulcer haemorrhage
+DB08816,Malnutrition
+DB08816,Unspecified disorder of skin and subcutaneous tissue
+DB08816,Skin disorder
+DB08816,Dyspnoea exertional
+DB08816,Blood uric acid increased
+DB08816,Blood creatinine increased
+DB08816,Haemorrhage urinary tract
+DB08816,Wound haemorrhage
+DB08816,Haemorrhoidal haemorrhage
+DB08816,Intestinal haemorrhage
+DB08816,Rectal haemorrhage
+DB08816,Ear haemorrhage
+DB08816,Ulcer haemorrhage
+DB08816,Gastric ulcer haemorrhage
+DB08816,Nocturnal dyspnoea
+DB08816,Increased tendency to bruise
+DB08816,Bradycardia
+DB08816,Non-cardiac chest pain
+DB08816,Subcutaneous haematoma
+DB08816,Traumatic haematoma
+DB08816,Haemorrhagic stroke
+DB08816,Cerebral haemorrhage
+DB08816,Nephropathy toxic
+DB08816,Presyncope
+DB08816,Serum creatinine increased
+DB08816,Hyperuricaemia
+DB08816,Ear and labyrinth disorders
+DB08816,Skin haemorrhage
+DB08816,Haemorrhage subcutaneous
+DB08816,Post procedural haemorrhage
+DB08816,Puncture site haemorrhage
+DB08816,Catheter site haemorrhage
+DB08816,Blood urine present
+DB08816,Vessel puncture site haemorrhage
+DB08816,Gastrointestinal ulcer haemorrhage
+DB08816,Vessel puncture site haematoma
+DB08816,Dyspnoea paroxysmal nocturnal
+DB08816,Dyspnoea at rest
+DB08816,Vaginal haemorrhage
+DB08816,Major bleed
+DB08816,Minor bleed
+DB08816,Procedural haemorrhage
+DB08822,Angioedema
+DB08822,Connective tissue disorder
+DB08822,Diarrhoea
+DB08822,Dizziness
+DB08822,Rash
+DB08822,Dermatitis
+DB08822,Fatigue
+DB08822,Asthenia
+DB08822,Gastrointestinal disorder
+DB08822,Nausea
+DB08822,Nervous system disorder
+DB08822,Pruritus
+DB08822,Muscle spasms
+DB08822,Angiopathy
+DB08822,Oedema peripheral
+DB08822,Unspecified disorder of skin and subcutaneous tissue
+DB08822,Skin disorder
+DB08822,Blood uric acid increased
+DB08822,Blood creatinine increased
+DB08822,Hyperuricaemia
+DB08822,Blood creatine phosphokinase increased
+DB08882,Pancreatitis acute
+DB08882,Anaphylactic shock
+DB08882,Angioedema
+DB08882,Arthralgia
+DB08882,Musculoskeletal discomfort
+DB08882,Back pain
+DB08882,Infection
+DB08882,Constipation
+DB08882,Cough
+DB08882,Diarrhoea
+DB08882,Rash
+DB08882,Dermatitis
+DB08882,Gastrointestinal disorder
+DB08882,Headache
+DB08882,Hyperlipidaemia
+DB08882,Hypersensitivity
+DB08882,Hypertriglyceridaemia
+DB08882,Blood triglycerides increased
+DB08882,Hypoglycaemia
+DB08882,Immune system disorder
+DB08882,Mediastinal disorder
+DB08882,Nasopharyngitis
+DB08882,Pain in extremity
+DB08882,Pancreatitis
+DB08882,Skin disorder
+DB08882,Upper respiratory tract infection
+DB08882,Urinary tract infection
+DB08882,Urticaria
+DB08882,Weight increased
+DB08882,Bronchial hyperreactivity
+DB08882,Malnutrition
+DB08882,Unspecified disorder of skin and subcutaneous tissue
+DB08882,Myalgia
+DB08882,Skin exfoliation
+DB08882,Diabetic
+DB08882,Diabetes mellitus
+DB08882,Hypoglycemic reaction
+DB08882,Infestation NOS
+DB08882,Infestation
+DB08907,Abdominal pain
+DB08907,Gastrointestinal pain
+DB08907,Angioedema
+DB08907,Asthenia
+DB08907,Breast disorder
+DB08907,Infection
+DB08907,Constipation
+DB08907,Cystitis
+DB08907,Cystitis noninfective
+DB08907,Bladder pain
+DB08907,Dehydration
+DB08907,Diabetes mellitus
+DB08907,Diuresis
+DB08907,Polyuria
+DB08907,Rash
+DB08907,Dermatitis
+DB08907,Fatigue
+DB08907,Fracture
+DB08907,Multiple fractures
+DB08907,Gastrointestinal disorder
+DB08907,Hyperkalaemia
+DB08907,Hypersensitivity
+DB08907,Hypoglycaemia
+DB08907,Hypotension
+DB08907,Orthostatic hypotension
+DB08907,Kidney infection
+DB08907,Renal failure acute
+DB08907,Nausea
+DB08907,Nervous system disorder
+DB08907,Nocturia
+DB08907,Pancreatitis
+DB08907,Tight foreskin
+DB08907,Phimosis
+DB08907,Polymorphic light eruption
+DB08907,Urine output increased
+DB08907,Prurigo
+DB08907,Pruritus
+DB08907,Convulsion
+DB08907,Sunburn
+DB08907,Photosensitivity reaction
+DB08907,Syncope
+DB08907,Dizziness
+DB08907,Loss of consciousness
+DB08907,Shock
+DB08907,Thirst
+DB08907,Erythema
+DB08907,Pollakiuria
+DB08907,Urinary tract infection
+DB08907,Urinary tract disorder
+DB08907,Urethral disorder
+DB08907,Urticaria
+DB08907,Angiopathy
+DB08907,Vulvitis
+DB08907,Vulvovaginitis
+DB08907,Dry mouth
+DB08907,Polydipsia
+DB08907,Micturition urgency
+DB08907,Rash pustular
+DB08907,Urosepsis
+DB08907,Blood urea increased
+DB08907,Malnutrition
+DB08907,Unspecified disorder of skin and subcutaneous tissue
+DB08907,Skin disorder
+DB08907,Rash macular
+DB08907,Rash vesicular
+DB08907,Rash erythematous
+DB08907,Dizziness postural
+DB08907,Blood creatinine increased
+DB08907,Haematocrit increased
+DB08907,Recurrent infection
+DB08907,Dyslipidaemia
+DB08907,Balanitis candida
+DB08907,Diabetic complication
+DB08907,Photosensitivity
+DB08907,Vaginal infection
+DB08907,Rash maculo-papular
+DB08907,Rash generalised
+DB08907,Hypovolaemia
+DB08907,Low density lipoprotein increased
+DB08907,High density lipoprotein decreased
+DB08907,Serum potassium increased
+DB08907,Blood potassium increased
+DB08907,Serum creatinine increased
+DB08907,Vulvovaginal candidiasis
+DB08907,Genital infection fungal
+DB08907,Glomerular filtration rate decreased
+DB08907,Blood phosphate increased
+DB08907,Blood phosphorus increased
+DB08907,Glucose low
+DB08907,Blood glucose decreased
+DB08907,Vulvovaginal pruritus
+DB08907,Rash papular
+DB08907,Vulvovaginal mycotic infection
+DB09038,Arthralgia
+DB09038,Musculoskeletal discomfort
+DB09038,Balanitis
+DB09038,Vaginal moniliasis
+DB09038,Vulvovaginal candidiasis
+DB09038,Vulvovaginal mycotic infection
+DB09038,Infection
+DB09038,Cystitis
+DB09038,Cystitis noninfective
+DB09038,Bladder pain
+DB09038,Dehydration
+DB09038,Diabetes mellitus
+DB09038,Diabetic nephropathy
+DB09038,Diuresis
+DB09038,Polyuria
+DB09038,Dysuria
+DB09038,Hypotension
+DB09038,Orthostatic hypotension
+DB09038,Fungal infection
+DB09038,Nausea
+DB09038,Nocturia
+DB09038,Tight foreskin
+DB09038,Phimosis
+DB09038,Urine output increased
+DB09038,Pruritus
+DB09038,Retinal disorder
+DB09038,Syncope
+DB09038,Dizziness
+DB09038,Loss of consciousness
+DB09038,Shock
+DB09038,Thirst
+DB09038,Upper respiratory tract infection
+DB09038,Pollakiuria
+DB09038,Urinary tract infection
+DB09038,Urinary tract disorder
+DB09038,Urethral disorder
+DB09038,Angiopathy
+DB09038,Vulvitis
+DB09038,Vulvovaginitis
+DB09038,Polydipsia
+DB09038,Malnutrition
+DB09038,Haematocrit increased
+DB09038,Dyslipidaemia
+DB09038,Asymptomatic bacteriuria
+DB09038,Blood pressure systolic decreased
+DB09038,Vaginal infection
+DB09038,Neuropathy
+DB09038,Neuropathy peripheral
+DB09038,Hypovolaemia
+DB09038,Serum creatinine increased
+DB09038,Blood creatinine increased
+DB09038,Genital infection
+DB09038,Genital infection fungal
+DB09038,Haematocrit decreased
+DB09038,Infestation NOS
+DB09038,Infestation
+DB13919,Abdominal pain
+DB13919,Gastrointestinal pain
+DB13919,Agranulocytosis
+DB13919,Albuminuria
+DB13919,Anaemia
+DB13919,Angina pectoris
+DB13919,Angioedema
+DB13919,Anxiety
+DB13919,Arthralgia
+DB13919,Musculoskeletal discomfort
+DB13919,Asthenia
+DB13919,Back pain
+DB13919,Mental disorder
+DB13919,Coagulopathy
+DB13919,Bronchitis
+DB13919,Chest pain
+DB13919,Cough
+DB13919,Diarrhoea
+DB13919,Dizziness
+DB13919,Dyspepsia
+DB13919,Dyspnoea
+DB13919,Epistaxis
+DB13919,Rash
+DB13919,Dermatitis
+DB13919,Fatigue
+DB13919,Body temperature increased
+DB13919,Gastroenteritis
+DB13919,Gastrointestinal disorder
+DB13919,Headache
+DB13919,Cardiac failure
+DB13919,Cardiac failure congestive
+DB13919,Haematuria
+DB13919,Haemorrhage
+DB13919,Haemoglobin
+DB13919,Hepatitis
+DB13919,Hepatitis A
+DB13919,Hyperglycaemia
+DB13919,Hyperkalaemia
+DB13919,Hypertension
+DB13919,Hypertriglyceridaemia
+DB13919,Blood triglycerides increased
+DB13919,Hyponatraemia
+DB13919,Hypotension
+DB13919,Nephropathy
+DB13919,Leukopenia
+DB13919,Myocardial infarction
+DB13919,Acute coronary syndrome
+DB13919,Nausea
+DB13919,Neutropenia
+DB13919,Palpitations
+DB13919,Paraesthesia
+DB13919,Pharyngitis
+DB13919,Pruritus
+DB13919,Renal failure
+DB13919,Rhabdomyolysis
+DB13919,Rhinitis
+DB13919,Sinusitis
+DB13919,Tachycardia
+DB13919,Thrombocytopenia
+DB13919,Upper respiratory tract infection
+DB13919,Urinary tract disorder
+DB13919,Urethral disorder
+DB13919,Urticaria
+DB13919,Vertigo
+DB13919,Vomiting
+DB13919,Oedema peripheral
+DB13919,Blood urea increased
+DB13919,Creatine phosphokinase increased
+DB13919,Blood creatine phosphokinase increased
+DB13919,Kidney function abnormal
+DB13919,Renal impairment
+DB13919,Malnutrition
+DB13919,Myalgia
+DB13919,Transaminases increased
+DB13919,Serum creatinine increased
+DB13919,Blood creatinine increased
+DB13919,Sweating increased
+DB13919,Hyperhidrosis
+DB13919,Hyperuricaemia
+DB13919,Blood uric acid increased
+DB13919,Bilirubin total increased
+DB13919,Blood bilirubin increased
+DB13919,Somnolence
