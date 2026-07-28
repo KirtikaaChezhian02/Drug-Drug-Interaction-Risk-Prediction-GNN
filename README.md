@@ -50,6 +50,13 @@ finding rather than a bug.
 All probabilities are calibrated with temperature scaling (fit on the
 validation set) before being used for risk categorization or reported
 as metrics.
+## Visualizations
+
+![Model Comparison](plots/model_comparison_bar_chart.png)
+![ROC Curves](plots/roc_curves.png)
+![Confusion Matrices](plots/confusion_matrices.png)
+![Loss Curves](plots/loss_curves.png)
+![Risk Distribution](plots/risk_distribution.png)
 
 ## Methodology
 
